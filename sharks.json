@@ -1,0 +1,5642 @@
+[
+{
+"id": 6,
+"name": "Brenda ",
+"tagIdNumber": "117472",
+"species": "White Shark (Carcharodon carcharias)",
+"gender": "Female",
+"stageOfLife": "Immature",
+"length": "12 ft. 2 in.  (3.7 meters)",
+"weight": "1310 lbs.",
+"tagDate": "8 March 2012",
+"tagLocation": "Mossel Bay",
+"description": "After her travels in South Africa near places such as Dyer Island, Quoin Rock Island, Duiwenhoksriviermond Private Nature Reserve, Brenda traveled north along the coast up to Mozambique. Tragically in October of 2012, she was captured in a gill net and killed. To read the press release please copy and paste the following link into your browser: http://bit.ly/VlFfu8 ",
+"pings": [
+{
+"active": "1",
+"id": "12177",
+"datetime": "19 October 2012 6:16:44 AM",
+"tz_datetime": "19 October 2012 6:16:44 AM +0900",
+"latitude": "-24.78078",
+"longitude": "34.6268"
+},
+{
+"active": "1",
+"id": "12187",
+"datetime": "19 October 2012 5:57:40 AM",
+"tz_datetime": "19 October 2012 5:57:40 AM +0900",
+"latitude": "-24.77981",
+"longitude": "34.62421999999998"
+},
+{
+"active": "1",
+"id": "12186",
+"datetime": "19 October 2012 5:29:27 AM",
+"tz_datetime": "19 October 2012 5:29:27 AM +0900",
+"latitude": "-24.78074",
+"longitude": "34.62689999999998"
+},
+{
+"active": "1",
+"id": "12185",
+"datetime": "19 October 2012 4:20:04 AM",
+"tz_datetime": "19 October 2012 4:20:04 AM +0900",
+"latitude": "-24.7815",
+"longitude": "34.62657999999999"
+},
+{
+"active": "1",
+"id": "12184",
+"datetime": "19 October 2012 3:46:31 AM",
+"tz_datetime": "19 October 2012 3:46:31 AM +0900",
+"latitude": "-24.78229",
+"longitude": "34.62826000000001"
+},
+{
+"active": "1",
+"id": "12183",
+"datetime": "19 October 2012 2:36:22 AM",
+"tz_datetime": "19 October 2012 2:36:22 AM +0900",
+"latitude": "-24.78086",
+"longitude": "34.62304"
+},
+{
+"active": "1",
+"id": "12182",
+"datetime": "19 October 2012 2:08:09 AM",
+"tz_datetime": "19 October 2012 2:08:09 AM +0900",
+"latitude": "-24.7824",
+"longitude": "34.628780000000006"
+},
+{
+"active": "1",
+"id": "12181",
+"datetime": "19 October 2012 1:37:39 AM",
+"tz_datetime": "19 October 2012 1:37:39 AM +0900",
+"latitude": "-24.78097",
+"longitude": "34.625999999999976"
+},
+{
+"active": "1",
+"id": "12180",
+"datetime": "19 October 2012 12:48:05 AM",
+"tz_datetime": "19 October 2012 12:48:05 AM +0900",
+"latitude": "-24.77954",
+"longitude": "34.62347999999997"
+},
+{
+"active": "1",
+"id": "12179",
+"datetime": "19 October 2012 12:25:13 AM",
+"tz_datetime": "19 October 2012 12:25:13 AM +0900",
+"latitude": "-24.78055",
+"longitude": "34.632960000000026"
+},
+{
+"active": "1",
+"id": "12178",
+"datetime": "18 October 2012 11:59:18 PM",
+"tz_datetime": "18 October 2012 11:59:18 PM +0900",
+"latitude": "-24.78052",
+"longitude": "34.625609999999995"
+},
+{
+"active": "1",
+"id": "12151",
+"datetime": "18 October 2012 5:43:11 AM",
+"tz_datetime": "18 October 2012 5:43:11 AM +0900",
+"latitude": "-24.7811",
+"longitude": "34.62578000000002"
+},
+{
+"active": "1",
+"id": "12157",
+"datetime": "18 October 2012 4:43:43 AM",
+"tz_datetime": "18 October 2012 4:43:43 AM +0900",
+"latitude": "-24.78065",
+"longitude": "34.624900000000025"
+},
+{
+"active": "1",
+"id": "12156",
+"datetime": "18 October 2012 3:02:18 AM",
+"tz_datetime": "18 October 2012 3:02:18 AM +0900",
+"latitude": "-24.78181",
+"longitude": "34.62653"
+},
+{
+"active": "1",
+"id": "12155",
+"datetime": "18 October 2012 2:34:06 AM",
+"tz_datetime": "18 October 2012 2:34:06 AM +0900",
+"latitude": "-24.78175",
+"longitude": "34.62646000000001"
+},
+{
+"active": "1",
+"id": "12154",
+"datetime": "18 October 2012 1:49:52 AM",
+"tz_datetime": "18 October 2012 1:49:52 AM +0900",
+"latitude": "-24.78247",
+"longitude": "34.62720999999999"
+},
+{
+"active": "1",
+"id": "12153",
+"datetime": "18 October 2012 12:50:01 AM",
+"tz_datetime": "18 October 2012 12:50:01 AM +0900",
+"latitude": "-24.78045",
+"longitude": "34.62700000000001"
+},
+{
+"active": "1",
+"id": "12152",
+"datetime": "18 October 2012 12:06:10 AM",
+"tz_datetime": "18 October 2012 12:06:10 AM +0900",
+"latitude": "-24.78215",
+"longitude": "34.62720999999999"
+},
+{
+"active": "1",
+"id": "12125",
+"datetime": "17 October 2012 5:53:53 AM",
+"tz_datetime": "17 October 2012 5:53:53 AM +0900",
+"latitude": "-24.7832",
+"longitude": "34.63355999999999"
+},
+{
+"active": "1",
+"id": "12133",
+"datetime": "17 October 2012 5:18:49 AM",
+"tz_datetime": "17 October 2012 5:18:49 AM +0900",
+"latitude": "-24.77993",
+"longitude": "34.63216"
+},
+{
+"active": "1",
+"id": "12132",
+"datetime": "17 October 2012 5:05:05 AM",
+"tz_datetime": "17 October 2012 5:05:05 AM +0900",
+"latitude": "-24.78187",
+"longitude": "34.62529999999998"
+},
+{
+"active": "1",
+"id": "12131",
+"datetime": "17 October 2012 4:13:14 AM",
+"tz_datetime": "17 October 2012 4:13:14 AM +0900",
+"latitude": "-24.78135",
+"longitude": "34.62779999999998"
+},
+{
+"active": "1",
+"id": "12130",
+"datetime": "17 October 2012 3:26:43 AM",
+"tz_datetime": "17 October 2012 3:26:43 AM +0900",
+"latitude": "-24.78272",
+"longitude": "34.627459999999985"
+},
+{
+"active": "1",
+"id": "12129",
+"datetime": "17 October 2012 2:54:42 AM",
+"tz_datetime": "17 October 2012 2:54:42 AM +0900",
+"latitude": "-24.78109",
+"longitude": "34.62698999999998"
+},
+{
+"active": "1",
+"id": "12128",
+"datetime": "17 October 2012 1:59:48 AM",
+"tz_datetime": "17 October 2012 1:59:48 AM +0900",
+"latitude": "-24.78063",
+"longitude": "34.62594999999999"
+},
+{
+"active": "1",
+"id": "12127",
+"datetime": "17 October 2012 1:14:03 AM",
+"tz_datetime": "17 October 2012 1:14:03 AM +0900",
+"latitude": "-24.78112",
+"longitude": "34.62698"
+},
+{
+"active": "1",
+"id": "12126",
+"datetime": "17 October 2012 12:18:23 AM",
+"tz_datetime": "17 October 2012 12:18:23 AM +0900",
+"latitude": "-24.78155",
+"longitude": "34.628089999999986"
+},
+{
+"active": "1",
+"id": "12091",
+"datetime": "16 October 2012 6:05:20 AM",
+"tz_datetime": "16 October 2012 6:05:20 AM +0900",
+"latitude": "-24.78016",
+"longitude": "34.625249999999994"
+},
+{
+"active": "1",
+"id": "12098",
+"datetime": "16 October 2012 5:38:54 AM",
+"tz_datetime": "16 October 2012 5:38:54 AM +0900",
+"latitude": "-24.78113",
+"longitude": "34.62892999999997"
+},
+{
+"active": "1",
+"id": "12097",
+"datetime": "16 October 2012 5:28:44 AM",
+"tz_datetime": "16 October 2012 5:28:44 AM +0900",
+"latitude": "-24.7808",
+"longitude": "34.62587000000002"
+},
+{
+"active": "1",
+"id": "12096",
+"datetime": "16 October 2012 4:24:41 AM",
+"tz_datetime": "16 October 2012 4:24:41 AM +0900",
+"latitude": "-24.78107",
+"longitude": "34.62862999999999"
+},
+{
+"active": "1",
+"id": "12095",
+"datetime": "16 October 2012 3:48:51 AM",
+"tz_datetime": "16 October 2012 3:48:51 AM +0900",
+"latitude": "-24.782",
+"longitude": "34.625279999999975"
+},
+{
+"active": "1",
+"id": "12094",
+"datetime": "16 October 2012 2:10:29 AM",
+"tz_datetime": "16 October 2012 2:10:29 AM +0900",
+"latitude": "-24.78052",
+"longitude": "34.62342000000001"
+},
+{
+"active": "1",
+"id": "12093",
+"datetime": "16 October 2012 1:39:59 AM",
+"tz_datetime": "16 October 2012 1:39:59 AM +0900",
+"latitude": "-24.78197",
+"longitude": "34.627189999999985"
+},
+{
+"active": "1",
+"id": "12092",
+"datetime": "16 October 2012 12:30:36 AM",
+"tz_datetime": "16 October 2012 12:30:36 AM +0900",
+"latitude": "-24.78024",
+"longitude": "34.625080000000025"
+},
+{
+"active": "1",
+"id": "12062",
+"datetime": "15 October 2012 6:17:33 AM",
+"tz_datetime": "15 October 2012 6:17:33 AM +0900",
+"latitude": "-24.78078",
+"longitude": "34.626239999999996"
+},
+{
+"active": "1",
+"id": "12070",
+"datetime": "15 October 2012 6:00:01 AM",
+"tz_datetime": "15 October 2012 6:00:01 AM +0900",
+"latitude": "-24.78031",
+"longitude": "34.627009999999984"
+},
+{
+"active": "1",
+"id": "12069",
+"datetime": "15 October 2012 5:52:23 AM",
+"tz_datetime": "15 October 2012 5:52:23 AM +0900",
+"latitude": "-24.78168",
+"longitude": "34.62446"
+},
+{
+"active": "1",
+"id": "12068",
+"datetime": "15 October 2012 4:37:17 AM",
+"tz_datetime": "15 October 2012 4:37:17 AM +0900",
+"latitude": "-24.77898",
+"longitude": "34.62752999999998"
+},
+{
+"active": "1",
+"id": "12067",
+"datetime": "15 October 2012 4:12:30 AM",
+"tz_datetime": "15 October 2012 4:12:30 AM +0900",
+"latitude": "-24.78204",
+"longitude": "34.62691000000001"
+},
+{
+"active": "1",
+"id": "12066",
+"datetime": "15 October 2012 3:42:46 AM",
+"tz_datetime": "15 October 2012 3:42:46 AM +0900",
+"latitude": "-24.77501",
+"longitude": "34.62662"
+},
+{
+"active": "1",
+"id": "12065",
+"datetime": "15 October 2012 2:02:53 AM",
+"tz_datetime": "15 October 2012 2:02:53 AM +0900",
+"latitude": "-24.78185",
+"longitude": "34.628570000000025"
+},
+{
+"active": "1",
+"id": "12064",
+"datetime": "15 October 2012 12:40:32 AM",
+"tz_datetime": "15 October 2012 12:40:32 AM +0900",
+"latitude": "-24.78135",
+"longitude": "34.62623000000002"
+},
+{
+"active": "1",
+"id": "12063",
+"datetime": "15 October 2012 12:23:00 AM",
+"tz_datetime": "15 October 2012 12:23:00 AM +0900",
+"latitude": "-24.77952",
+"longitude": "34.62973999999997"
+},
+{
+"active": "1",
+"id": "12038",
+"datetime": "14 October 2012 6:19:06 AM",
+"tz_datetime": "14 October 2012 6:19:06 AM +0900",
+"latitude": "-24.78001",
+"longitude": "34.62245999999999"
+},
+{
+"active": "1",
+"id": "12044",
+"datetime": "14 October 2012 6:18:20 AM",
+"tz_datetime": "14 October 2012 6:18:20 AM +0900",
+"latitude": "-24.77999",
+"longitude": "34.622360000000015"
+},
+{
+"active": "1",
+"id": "12043",
+"datetime": "14 October 2012 4:52:10 AM",
+"tz_datetime": "14 October 2012 4:52:10 AM +0900",
+"latitude": "-24.78102",
+"longitude": "34.628089999999986"
+},
+{
+"active": "1",
+"id": "12042",
+"datetime": "14 October 2012 4:38:45 AM",
+"tz_datetime": "14 October 2012 4:38:45 AM +0900",
+"latitude": "-24.7806",
+"longitude": "34.62182999999999"
+},
+{
+"active": "1",
+"id": "12041",
+"datetime": "14 October 2012 2:56:16 AM",
+"tz_datetime": "14 October 2012 2:56:16 AM +0900",
+"latitude": "-24.77832",
+"longitude": "34.62858"
+},
+{
+"active": "1",
+"id": "12040",
+"datetime": "14 October 2012 2:29:08 AM",
+"tz_datetime": "14 October 2012 2:29:08 AM +0900",
+"latitude": "-24.78188",
+"longitude": "34.6259"
+},
+{
+"active": "1",
+"id": "12005",
+"datetime": "14 October 2012 12:54:16 AM",
+"tz_datetime": "14 October 2012 12:54:16 AM +0900",
+"latitude": "-24.77935",
+"longitude": "34.62635"
+},
+{
+"active": "1",
+"id": "12039",
+"datetime": "14 October 2012 12:46:57 AM",
+"tz_datetime": "14 October 2012 12:46:57 AM +0900",
+"latitude": "-24.78117",
+"longitude": "34.62704000000002"
+},
+{
+"active": "1",
+"id": "12006",
+"datetime": "14 October 2012 12:00:08 AM",
+"tz_datetime": "14 October 2012 12:00:08 AM +0900",
+"latitude": "-24.77363",
+"longitude": "34.62652000000003"
+},
+{
+"active": "1",
+"id": "11984",
+"datetime": "13 October 2012 5:04:23 AM",
+"tz_datetime": "13 October 2012 5:04:23 AM +0900",
+"latitude": "-24.78129",
+"longitude": "34.626419999999996"
+},
+{
+"active": "1",
+"id": "11991",
+"datetime": "13 October 2012 5:02:52 AM",
+"tz_datetime": "13 October 2012 5:02:52 AM +0900",
+"latitude": "-24.78155",
+"longitude": "34.62695000000002"
+},
+{
+"active": "1",
+"id": "11990",
+"datetime": "13 October 2012 5:01:20 AM",
+"tz_datetime": "13 October 2012 5:01:20 AM +0900",
+"latitude": "-24.77895",
+"longitude": "34.63044000000002"
+},
+{
+"active": "1",
+"id": "11989",
+"datetime": "13 October 2012 3:19:55 AM",
+"tz_datetime": "13 October 2012 3:19:55 AM +0900",
+"latitude": "-24.7808",
+"longitude": "34.62634000000003"
+},
+{
+"active": "1",
+"id": "11988",
+"datetime": "13 October 2012 2:51:12 AM",
+"tz_datetime": "13 October 2012 2:51:12 AM +0900",
+"latitude": "-24.78111",
+"longitude": "34.625609999999995"
+},
+{
+"active": "1",
+"id": "11987",
+"datetime": "13 October 2012 1:10:18 AM",
+"tz_datetime": "13 October 2012 1:10:18 AM +0900",
+"latitude": "-24.78147",
+"longitude": "34.62715000000003"
+},
+{
+"active": "1",
+"id": "11986",
+"datetime": "13 October 2012 1:04:35 AM",
+"tz_datetime": "13 October 2012 1:04:35 AM +0900",
+"latitude": "-24.78263",
+"longitude": "34.62625000000003"
+},
+{
+"active": "1",
+"id": "11985",
+"datetime": "13 October 2012 12:10:50 AM",
+"tz_datetime": "13 October 2012 12:10:50 AM +0900",
+"latitude": "-24.78194",
+"longitude": "34.62668000000002"
+},
+{
+"active": "1",
+"id": "11951",
+"datetime": "12 October 2012 5:24:14 AM",
+"tz_datetime": "12 October 2012 5:24:14 AM +0900",
+"latitude": "-24.78109",
+"longitude": "34.62754000000001"
+},
+{
+"active": "1",
+"id": "11958",
+"datetime": "12 October 2012 5:21:56 AM",
+"tz_datetime": "12 October 2012 5:21:56 AM +0900",
+"latitude": "-24.78023",
+"longitude": "34.627369999999985"
+},
+{
+"active": "1",
+"id": "11957",
+"datetime": "12 October 2012 5:15:05 AM",
+"tz_datetime": "12 October 2012 5:15:05 AM +0900",
+"latitude": "-24.78091",
+"longitude": "34.62623000000002"
+},
+{
+"active": "1",
+"id": "11956",
+"datetime": "12 October 2012 3:47:23 AM",
+"tz_datetime": "12 October 2012 3:47:23 AM +0900",
+"latitude": "-24.78218",
+"longitude": "34.62729999999999"
+},
+{
+"active": "1",
+"id": "11955",
+"datetime": "12 October 2012 3:16:08 AM",
+"tz_datetime": "12 October 2012 3:16:08 AM +0900",
+"latitude": "-24.78339",
+"longitude": "34.62576999999999"
+},
+{
+"active": "1",
+"id": "11954",
+"datetime": "12 October 2012 1:38:32 AM",
+"tz_datetime": "12 October 2012 1:38:32 AM +0900",
+"latitude": "-24.78095",
+"longitude": "34.627020000000016"
+},
+{
+"active": "1",
+"id": "11953",
+"datetime": "12 October 2012 1:14:08 AM",
+"tz_datetime": "12 October 2012 1:14:08 AM +0900",
+"latitude": "-24.7798",
+"longitude": "34.62723"
+},
+{
+"active": "1",
+"id": "11952",
+"datetime": "12 October 2012 12:21:31 AM",
+"tz_datetime": "12 October 2012 12:21:31 AM +0900",
+"latitude": "-24.78098",
+"longitude": "34.626329999999996"
+},
+{
+"active": "1",
+"id": "11910",
+"datetime": "11 October 2012 5:47:53 AM",
+"tz_datetime": "11 October 2012 5:47:53 AM +0900",
+"latitude": "-24.7812",
+"longitude": "34.62698"
+},
+{
+"active": "1",
+"id": "11918",
+"datetime": "11 October 2012 5:44:04 AM",
+"tz_datetime": "11 October 2012 5:44:04 AM +0900",
+"latitude": "-24.78005",
+"longitude": "34.62610999999998"
+},
+{
+"active": "1",
+"id": "11917",
+"datetime": "11 October 2012 5:24:15 AM",
+"tz_datetime": "11 October 2012 5:24:15 AM +0900",
+"latitude": "-24.78089",
+"longitude": "34.625279999999975"
+},
+{
+"active": "1",
+"id": "11916",
+"datetime": "11 October 2012 4:10:02 AM",
+"tz_datetime": "11 October 2012 4:10:02 AM +0900",
+"latitude": "-24.78103",
+"longitude": "34.62574000000001"
+},
+{
+"active": "1",
+"id": "11915",
+"datetime": "11 October 2012 3:42:04 AM",
+"tz_datetime": "11 October 2012 3:42:04 AM +0900",
+"latitude": "-24.78031",
+"longitude": "34.62614000000002"
+},
+{
+"active": "1",
+"id": "11914",
+"datetime": "11 October 2012 2:02:57 AM",
+"tz_datetime": "11 October 2012 2:02:57 AM +0900",
+"latitude": "-24.78171",
+"longitude": "34.62733000000003"
+},
+{
+"active": "1",
+"id": "11913",
+"datetime": "11 October 2012 1:25:35 AM",
+"tz_datetime": "11 October 2012 1:25:35 AM +0900",
+"latitude": "-24.77832",
+"longitude": "34.628210000000024"
+},
+{
+"active": "1",
+"id": "11912",
+"datetime": "11 October 2012 12:32:13 AM",
+"tz_datetime": "11 October 2012 12:32:13 AM +0900",
+"latitude": "-24.77958",
+"longitude": "34.62635"
+},
+{
+"active": "1",
+"id": "11911",
+"datetime": "11 October 2012 12:20:46 AM",
+"tz_datetime": "11 October 2012 12:20:46 AM +0900",
+"latitude": "-24.78732",
+"longitude": "34.62688000000003"
+},
+{
+"active": "1",
+"id": "11876",
+"datetime": "10 October 2012 6:13:03 AM",
+"tz_datetime": "10 October 2012 6:13:03 AM +0900",
+"latitude": "-24.7825",
+"longitude": "34.625530000000026"
+},
+{
+"active": "1",
+"id": "11883",
+"datetime": "10 October 2012 6:03:09 AM",
+"tz_datetime": "10 October 2012 6:03:09 AM +0900",
+"latitude": "-24.78173",
+"longitude": "34.62715000000003"
+},
+{
+"active": "1",
+"id": "11882",
+"datetime": "10 October 2012 5:36:28 AM",
+"tz_datetime": "10 October 2012 5:36:28 AM +0900",
+"latitude": "-24.78173",
+"longitude": "34.62819999999999"
+},
+{
+"active": "1",
+"id": "11881",
+"datetime": "10 October 2012 4:33:56 AM",
+"tz_datetime": "10 October 2012 4:33:56 AM +0900",
+"latitude": "-24.78128",
+"longitude": "34.62272999999999"
+},
+{
+"active": "1",
+"id": "11880",
+"datetime": "10 October 2012 3:57:20 AM",
+"tz_datetime": "10 October 2012 3:57:20 AM +0900",
+"latitude": "-24.77645",
+"longitude": "34.62813"
+},
+{
+"active": "1",
+"id": "11879",
+"datetime": "10 October 2012 2:51:46 AM",
+"tz_datetime": "10 October 2012 2:51:46 AM +0900",
+"latitude": "-24.77835",
+"longitude": "34.62889000000001"
+},
+{
+"active": "1",
+"id": "11878",
+"datetime": "10 October 2012 2:28:53 AM",
+"tz_datetime": "10 October 2012 2:28:53 AM +0900",
+"latitude": "-24.77987",
+"longitude": "34.62587000000002"
+},
+{
+"active": "1",
+"id": "11863",
+"datetime": "10 October 2012 1:36:16 AM",
+"tz_datetime": "10 October 2012 1:36:16 AM +0900",
+"latitude": "-24.78317",
+"longitude": "34.62653999999998"
+},
+{
+"active": "1",
+"id": "11877",
+"datetime": "10 October 2012 12:43:40 AM",
+"tz_datetime": "10 October 2012 12:43:40 AM +0900",
+"latitude": "-24.78105",
+"longitude": "34.62704000000002"
+},
+{
+"active": "1",
+"id": "11864",
+"datetime": "9 October 2012 11:59:26 PM",
+"tz_datetime": "9 October 2012 11:59:26 PM +0900",
+"latitude": "-24.78597",
+"longitude": "34.622659999999996"
+},
+{
+"active": "1",
+"id": "11818",
+"datetime": "9 October 2012 6:19:10 AM",
+"tz_datetime": "9 October 2012 6:19:10 AM +0900",
+"latitude": "-24.78245",
+"longitude": "34.62986000000001"
+},
+{
+"active": "1",
+"id": "11826",
+"datetime": "9 October 2012 5:47:55 AM",
+"tz_datetime": "9 October 2012 5:47:55 AM +0900",
+"latitude": "-24.7824",
+"longitude": "34.629549999999995"
+},
+{
+"active": "1",
+"id": "11825",
+"datetime": "9 October 2012 4:55:49 AM",
+"tz_datetime": "9 October 2012 4:55:49 AM +0900",
+"latitude": "-24.78059",
+"longitude": "34.62522000000001"
+},
+{
+"active": "1",
+"id": "11824",
+"datetime": "9 October 2012 4:09:33 AM",
+"tz_datetime": "9 October 2012 4:09:33 AM +0900",
+"latitude": "-24.78116",
+"longitude": "34.62675999999999"
+},
+{
+"active": "1",
+"id": "11823",
+"datetime": "9 October 2012 3:13:53 AM",
+"tz_datetime": "9 October 2012 3:13:53 AM +0900",
+"latitude": "-24.78175",
+"longitude": "34.62608"
+},
+{
+"active": "1",
+"id": "11822",
+"datetime": "9 October 2012 2:53:18 AM",
+"tz_datetime": "9 October 2012 2:53:18 AM +0900",
+"latitude": "-24.78127",
+"longitude": "34.626480000000015"
+},
+{
+"active": "1",
+"id": "11821",
+"datetime": "9 October 2012 1:47:44 AM",
+"tz_datetime": "9 October 2012 1:47:44 AM +0900",
+"latitude": "-24.78179",
+"longitude": "34.625530000000026"
+},
+{
+"active": "1",
+"id": "11820",
+"datetime": "9 October 2012 1:08:05 AM",
+"tz_datetime": "9 October 2012 1:08:05 AM +0900",
+"latitude": "-24.78075",
+"longitude": "34.62637999999998"
+},
+{
+"active": "1",
+"id": "11819",
+"datetime": "9 October 2012 12:04:47 AM",
+"tz_datetime": "9 October 2012 12:04:47 AM +0900",
+"latitude": "-24.7817",
+"longitude": "34.628780000000006"
+},
+{
+"active": "1",
+"id": "11762",
+"datetime": "8 October 2012 6:01:39 AM",
+"tz_datetime": "8 October 2012 6:01:39 AM +0900",
+"latitude": "-24.77956",
+"longitude": "34.62067000000002"
+},
+{
+"active": "1",
+"id": "11770",
+"datetime": "8 October 2012 5:18:57 AM",
+"tz_datetime": "8 October 2012 5:18:57 AM +0900",
+"latitude": "-24.78037",
+"longitude": "34.62661000000003"
+},
+{
+"active": "1",
+"id": "11769",
+"datetime": "8 October 2012 5:04:28 AM",
+"tz_datetime": "8 October 2012 5:04:28 AM +0900",
+"latitude": "-24.78157",
+"longitude": "34.635429999999985"
+},
+{
+"active": "1",
+"id": "11768",
+"datetime": "8 October 2012 4:20:45 AM",
+"tz_datetime": "8 October 2012 4:20:45 AM +0900",
+"latitude": "-24.7812",
+"longitude": "34.62995999999998"
+},
+{
+"active": "1",
+"id": "11767",
+"datetime": "8 October 2012 3:41:21 AM",
+"tz_datetime": "8 October 2012 3:41:21 AM +0900",
+"latitude": "-24.7815",
+"longitude": "34.62801000000002"
+},
+{
+"active": "1",
+"id": "11766",
+"datetime": "8 October 2012 3:15:26 AM",
+"tz_datetime": "8 October 2012 3:15:26 AM +0900",
+"latitude": "-24.78333",
+"longitude": "34.62522000000001"
+},
+{
+"active": "1",
+"id": "11765",
+"datetime": "8 October 2012 1:59:11 AM",
+"tz_datetime": "8 October 2012 1:59:11 AM +0900",
+"latitude": "-24.78062",
+"longitude": "34.627459999999985"
+},
+{
+"active": "1",
+"id": "11764",
+"datetime": "8 October 2012 1:35:33 AM",
+"tz_datetime": "8 October 2012 1:35:33 AM +0900",
+"latitude": "-24.78144",
+"longitude": "34.62664000000001"
+},
+{
+"active": "1",
+"id": "11763",
+"datetime": "8 October 2012 12:15:29 AM",
+"tz_datetime": "8 October 2012 12:15:29 AM +0900",
+"latitude": "-24.78269",
+"longitude": "34.62734999999998"
+},
+{
+"active": "1",
+"id": "11726",
+"datetime": "7 October 2012 6:16:09 AM",
+"tz_datetime": "7 October 2012 6:16:09 AM +0900",
+"latitude": "-24.77665",
+"longitude": "34.62706000000003"
+},
+{
+"active": "1",
+"id": "11729",
+"datetime": "7 October 2012 4:03:29 AM",
+"tz_datetime": "7 October 2012 4:03:29 AM +0900",
+"latitude": "-24.78277",
+"longitude": "34.628330000000005"
+},
+{
+"active": "1",
+"id": "11728",
+"datetime": "7 October 2012 1:59:57 AM",
+"tz_datetime": "7 October 2012 1:59:57 AM +0900",
+"latitude": "-24.78236",
+"longitude": "34.62698"
+},
+{
+"active": "1",
+"id": "11727",
+"datetime": "7 October 2012 12:26:56 AM",
+"tz_datetime": "7 October 2012 12:26:56 AM +0900",
+"latitude": "-24.78128",
+"longitude": "34.62716999999998"
+},
+{
+"active": "1",
+"id": "11692",
+"datetime": "6 October 2012 5:45:40 AM",
+"tz_datetime": "6 October 2012 5:45:40 AM +0900",
+"latitude": "-24.78274",
+"longitude": "34.633339999999976"
+},
+{
+"active": "1",
+"id": "11695",
+"datetime": "6 October 2012 4:27:08 AM",
+"tz_datetime": "6 October 2012 4:27:08 AM +0900",
+"latitude": "-24.78295",
+"longitude": "34.63126999999997"
+},
+{
+"active": "1",
+"id": "11694",
+"datetime": "6 October 2012 2:24:22 AM",
+"tz_datetime": "6 October 2012 2:24:22 AM +0900",
+"latitude": "-24.78225",
+"longitude": "34.62540999999999"
+},
+{
+"active": "1",
+"id": "11693",
+"datetime": "6 October 2012 12:39:55 AM",
+"tz_datetime": "6 October 2012 12:39:55 AM +0900",
+"latitude": "-24.77956",
+"longitude": "34.62707999999998"
+},
+{
+"active": "1",
+"id": "11662",
+"datetime": "5 October 2012 6:05:30 AM",
+"tz_datetime": "5 October 2012 6:05:30 AM +0900",
+"latitude": "-24.78136",
+"longitude": "34.629639999999995"
+},
+{
+"active": "1",
+"id": "11668",
+"datetime": "5 October 2012 4:55:21 AM",
+"tz_datetime": "5 October 2012 4:55:21 AM +0900",
+"latitude": "-24.78119",
+"longitude": "34.62479999999999"
+},
+{
+"active": "1",
+"id": "11667",
+"datetime": "5 October 2012 4:50:01 AM",
+"tz_datetime": "5 October 2012 4:50:01 AM +0900",
+"latitude": "-24.78118",
+"longitude": "34.62470000000002"
+},
+{
+"active": "1",
+"id": "11666",
+"datetime": "5 October 2012 3:09:22 AM",
+"tz_datetime": "5 October 2012 3:09:22 AM +0900",
+"latitude": "-24.78192",
+"longitude": "34.62612999999999"
+},
+{
+"active": "1",
+"id": "11665",
+"datetime": "5 October 2012 2:46:30 AM",
+"tz_datetime": "5 October 2012 2:46:30 AM +0900",
+"latitude": "-24.78177",
+"longitude": "34.62637999999998"
+},
+{
+"active": "1",
+"id": "11664",
+"datetime": "5 October 2012 1:05:42 AM",
+"tz_datetime": "5 October 2012 1:05:42 AM +0900",
+"latitude": "-24.78021",
+"longitude": "34.62430999999998"
+},
+{
+"active": "1",
+"id": "11663",
+"datetime": "5 October 2012 12:51:21 AM",
+"tz_datetime": "5 October 2012 12:51:21 AM +0900",
+"latitude": "-24.78097",
+"longitude": "34.62740000000002"
+},
+{
+"active": "1",
+"id": "11602",
+"datetime": "4 October 2012 10:56:09 AM",
+"tz_datetime": "4 October 2012 10:56:09 AM +0900",
+"latitude": "-24.82353",
+"longitude": "34.597350000000006"
+},
+{
+"active": "1",
+"id": "11523",
+"datetime": "30 September 2012 8:20:00 PM",
+"tz_datetime": "30 September 2012 8:20:00 PM +0900",
+"latitude": "-24.79167",
+"longitude": "34.84300999999999"
+},
+{
+"active": "1",
+"id": "11516",
+"datetime": "30 September 2012 3:34:44 PM",
+"tz_datetime": "30 September 2012 3:34:44 PM +0900",
+"latitude": "-24.79886",
+"longitude": "34.82315"
+},
+{
+"active": "1",
+"id": "11517",
+"datetime": "30 September 2012 2:14:13 PM",
+"tz_datetime": "30 September 2012 2:14:13 PM +0900",
+"latitude": "-24.79912",
+"longitude": "34.81851"
+},
+{
+"active": "1",
+"id": "11502",
+"datetime": "30 September 2012 12:29:20 PM",
+"tz_datetime": "30 September 2012 12:29:20 PM +0900",
+"latitude": "-24.79983",
+"longitude": "34.81858"
+},
+{
+"active": "1",
+"id": "11503",
+"datetime": "29 September 2012 11:06:10 PM",
+"tz_datetime": "29 September 2012 11:06:10 PM +0900",
+"latitude": "-24.79047",
+"longitude": "34.78861999999998"
+},
+{
+"active": "1",
+"id": "11475",
+"datetime": "29 September 2012 3:29:23 AM",
+"tz_datetime": "29 September 2012 3:29:23 AM +0900",
+"latitude": "-24.88384",
+"longitude": "34.72737999999998"
+},
+{
+"active": "1",
+"id": "11448",
+"datetime": "28 September 2012 2:39:15 PM",
+"tz_datetime": "28 September 2012 2:39:15 PM +0900",
+"latitude": "-24.87786",
+"longitude": "34.73883000000001"
+},
+{
+"active": "1",
+"id": "11421",
+"datetime": "28 September 2012 2:36:09 PM",
+"tz_datetime": "28 September 2012 2:36:09 PM +0900",
+"latitude": "-24.80167",
+"longitude": "34.754639999999995"
+},
+{
+"active": "1",
+"id": "11424",
+"datetime": "28 September 2012 12:53:45 PM",
+"tz_datetime": "28 September 2012 12:53:45 PM +0900",
+"latitude": "-24.85775",
+"longitude": "34.74065000000002"
+},
+{
+"active": "1",
+"id": "11423",
+"datetime": "28 September 2012 6:45:20 AM",
+"tz_datetime": "28 September 2012 6:45:20 AM +0900",
+"latitude": "-24.80038",
+"longitude": "34.75526000000002"
+},
+{
+"active": "1",
+"id": "11422",
+"datetime": "28 September 2012 5:10:44 AM",
+"tz_datetime": "28 September 2012 5:10:44 AM +0900",
+"latitude": "-24.79924",
+"longitude": "34.75749999999999"
+},
+{
+"active": "1",
+"id": "11396",
+"datetime": "27 September 2012 3:05:16 PM",
+"tz_datetime": "27 September 2012 3:05:16 PM +0900",
+"latitude": "-24.81413",
+"longitude": "34.774850000000015"
+},
+{
+"active": "1",
+"id": "11138",
+"datetime": "20 September 2012 7:55:23 AM",
+"tz_datetime": "20 September 2012 7:55:23 AM +0900",
+"latitude": "-26.17232",
+"longitude": "32.97928000000002"
+},
+{
+"active": "1",
+"id": "11143",
+"datetime": "20 September 2012 4:03:45 AM",
+"tz_datetime": "20 September 2012 4:03:45 AM +0900",
+"latitude": "-26.33597",
+"longitude": "32.93527999999998"
+},
+{
+"active": "1",
+"id": "11142",
+"datetime": "20 September 2012 3:51:32 AM",
+"tz_datetime": "20 September 2012 3:51:32 AM +0900",
+"latitude": "-26.32936",
+"longitude": "32.93572999999998"
+},
+{
+"active": "1",
+"id": "11141",
+"datetime": "20 September 2012 2:05:23 AM",
+"tz_datetime": "20 September 2012 2:05:23 AM +0900",
+"latitude": "-26.40203",
+"longitude": "32.94004000000001"
+},
+{
+"active": "1",
+"id": "11140",
+"datetime": "20 September 2012 1:55:14 AM",
+"tz_datetime": "20 September 2012 1:55:14 AM +0900",
+"latitude": "-26.40833",
+"longitude": "32.94033999999999"
+},
+{
+"active": "1",
+"id": "11139",
+"datetime": "20 September 2012 12:13:17 AM",
+"tz_datetime": "20 September 2012 12:13:17 AM +0900",
+"latitude": "-26.48102",
+"longitude": "32.945389999999975"
+},
+{
+"active": "1",
+"id": "10974",
+"datetime": "17 September 2012 5:46:54 PM",
+"tz_datetime": "17 September 2012 5:46:54 PM +0900",
+"latitude": "-28.28444",
+"longitude": "32.51175000000001"
+},
+{
+"active": "1",
+"id": "10973",
+"datetime": "17 September 2012 5:46:17 PM",
+"tz_datetime": "17 September 2012 5:46:17 PM +0900",
+"latitude": "-28.37875",
+"longitude": "32.51670000000001"
+},
+{
+"active": "1",
+"id": "10907",
+"datetime": "17 September 2012 12:13:22 PM",
+"tz_datetime": "17 September 2012 12:13:22 PM +0900",
+"latitude": "-28.37912",
+"longitude": "32.51623000000001"
+},
+{
+"active": "1",
+"id": "10972",
+"datetime": "17 September 2012 11:40:31 AM",
+"tz_datetime": "17 September 2012 11:40:31 AM +0900",
+"latitude": "-28.41937",
+"longitude": "32.66561000000002"
+},
+{
+"active": "1",
+"id": "10971",
+"datetime": "17 September 2012 10:36:22 AM",
+"tz_datetime": "17 September 2012 10:36:22 AM +0900",
+"latitude": "-28.47551",
+"longitude": "32.58656999999999"
+},
+{
+"active": "1",
+"id": "10885",
+"datetime": "17 September 2012 5:13:58 AM",
+"tz_datetime": "17 September 2012 5:13:58 AM +0900",
+"latitude": "-28.60668",
+"longitude": "32.36898000000002"
+},
+{
+"active": "1",
+"id": "10806",
+"datetime": "15 September 2012 2:52:18 PM",
+"tz_datetime": "15 September 2012 2:52:18 PM +0900",
+"latitude": "-29.06044",
+"longitude": "31.679250000000025"
+},
+{
+"active": "1",
+"id": "10805",
+"datetime": "15 September 2012 1:37:40 PM",
+"tz_datetime": "15 September 2012 1:37:40 PM +0900",
+"latitude": "-29.11982",
+"longitude": "31.622689999999977"
+},
+{
+"active": "1",
+"id": "10803",
+"datetime": "15 September 2012 8:05:59 AM",
+"tz_datetime": "15 September 2012 8:05:59 AM +0900",
+"latitude": "-29.24357",
+"longitude": "31.491460000000018"
+},
+{
+"active": "1",
+"id": "10802",
+"datetime": "15 September 2012 1:16:01 AM",
+"tz_datetime": "15 September 2012 1:16:01 AM +0900",
+"latitude": "-29.30795",
+"longitude": "31.444709999999986"
+},
+{
+"active": "1",
+"id": "10569",
+"datetime": "14 September 2012 7:01:26 PM",
+"tz_datetime": "14 September 2012 7:01:26 PM +0900",
+"latitude": "-29.56805",
+"longitude": "31.37725"
+},
+{
+"active": "1",
+"id": "10579",
+"datetime": "14 September 2012 6:48:10 PM",
+"tz_datetime": "14 September 2012 6:48:10 PM +0900",
+"latitude": "-29.45641",
+"longitude": "31.38384000000002"
+},
+{
+"active": "1",
+"id": "10578",
+"datetime": "14 September 2012 8:24:59 AM",
+"tz_datetime": "14 September 2012 8:24:59 AM +0900",
+"latitude": "-29.45719",
+"longitude": "31.38483999999999"
+},
+{
+"active": "1",
+"id": "10577",
+"datetime": "14 September 2012 7:34:00 AM",
+"tz_datetime": "14 September 2012 7:34:00 AM +0900",
+"latitude": "-29.48052",
+"longitude": "31.38360999999998"
+},
+{
+"active": "1",
+"id": "10576",
+"datetime": "14 September 2012 6:43:02 AM",
+"tz_datetime": "14 September 2012 6:43:02 AM +0900",
+"latitude": "-29.50354",
+"longitude": "31.38074"
+},
+{
+"active": "1",
+"id": "10512",
+"datetime": "14 September 2012 5:46:40 AM",
+"tz_datetime": "14 September 2012 5:46:40 AM +0900",
+"latitude": "-29.38758",
+"longitude": "31.47582"
+},
+{
+"active": "1",
+"id": "10511",
+"datetime": "14 September 2012 4:45:36 AM",
+"tz_datetime": "14 September 2012 4:45:36 AM +0900",
+"latitude": "-29.53839",
+"longitude": "31.41682000000003"
+},
+{
+"active": "1",
+"id": "10483",
+"datetime": "13 September 2012 3:46:23 PM",
+"tz_datetime": "13 September 2012 3:46:23 PM +0900",
+"latitude": "-30.02219",
+"longitude": "30.92462999999998"
+},
+{
+"active": "1",
+"id": "10482",
+"datetime": "13 September 2012 2:05:27 PM",
+"tz_datetime": "13 September 2012 2:05:27 PM +0900",
+"latitude": "-30.1475",
+"longitude": "30.89049"
+},
+{
+"active": "1",
+"id": "10481",
+"datetime": "13 September 2012 12:22:23 PM",
+"tz_datetime": "13 September 2012 12:22:23 PM +0900",
+"latitude": "-30.20129",
+"longitude": "30.85800999999998"
+},
+{
+"active": "1",
+"id": "10573",
+"datetime": "13 September 2012 11:14:28 AM",
+"tz_datetime": "13 September 2012 11:14:28 AM +0900",
+"latitude": "-30.24781",
+"longitude": "30.82436999999999"
+},
+{
+"active": "1",
+"id": "10572",
+"datetime": "13 September 2012 7:08:23 AM",
+"tz_datetime": "13 September 2012 7:08:23 AM +0900",
+"latitude": "-30.49734",
+"longitude": "30.67563999999998"
+},
+{
+"active": "1",
+"id": "10571",
+"datetime": "13 September 2012 5:24:08 AM",
+"tz_datetime": "13 September 2012 5:24:08 AM +0900",
+"latitude": "-30.50466",
+"longitude": "30.66386999999997"
+},
+{
+"active": "1",
+"id": "10438",
+"datetime": "13 September 2012 1:41:53 AM",
+"tz_datetime": "13 September 2012 1:41:53 AM +0900",
+"latitude": "-30.53868",
+"longitude": "30.64864"
+},
+{
+"active": "1",
+"id": "10437",
+"datetime": "13 September 2012 1:34:11 AM",
+"tz_datetime": "13 September 2012 1:34:11 AM +0900",
+"latitude": "-30.54833",
+"longitude": "30.64706000000001"
+},
+{
+"active": "1",
+"id": "10570",
+"datetime": "13 September 2012 12:27:37 AM",
+"tz_datetime": "13 September 2012 12:27:37 AM +0900",
+"latitude": "-30.55917",
+"longitude": "30.63952"
+},
+{
+"active": "1",
+"id": "10386",
+"datetime": "12 September 2012 8:22:39 PM",
+"tz_datetime": "12 September 2012 8:22:39 PM +0900",
+"latitude": "-30.61311",
+"longitude": "30.563159999999982"
+},
+{
+"active": "1",
+"id": "10391",
+"datetime": "12 September 2012 7:42:12 PM",
+"tz_datetime": "12 September 2012 7:42:12 PM +0900",
+"latitude": "-30.61639",
+"longitude": "30.566070000000025"
+},
+{
+"active": "1",
+"id": "10390",
+"datetime": "12 September 2012 6:40:14 PM",
+"tz_datetime": "12 September 2012 6:40:14 PM +0900",
+"latitude": "-30.62147",
+"longitude": "30.570640000000026"
+},
+{
+"active": "1",
+"id": "10389",
+"datetime": "12 September 2012 6:09:46 PM",
+"tz_datetime": "12 September 2012 6:09:46 PM +0900",
+"latitude": "-30.54637",
+"longitude": "30.712260000000015"
+},
+{
+"active": "1",
+"id": "10388",
+"datetime": "12 September 2012 6:02:36 PM",
+"tz_datetime": "12 September 2012 6:02:36 PM +0900",
+"latitude": "-30.5027",
+"longitude": "30.742259999999987"
+},
+{
+"active": "1",
+"id": "10387",
+"datetime": "12 September 2012 2:25:16 PM",
+"tz_datetime": "12 September 2012 2:25:16 PM +0900",
+"latitude": "-30.65345",
+"longitude": "30.646920000000023"
+},
+{
+"active": "1",
+"id": "10375",
+"datetime": "12 September 2012 2:14:52 PM",
+"tz_datetime": "12 September 2012 2:14:52 PM +0900",
+"latitude": "-30.56085",
+"longitude": "30.70859999999999"
+},
+{
+"active": "1",
+"id": "10349",
+"datetime": "12 September 2012 7:25:29 AM",
+"tz_datetime": "12 September 2012 7:25:29 AM +0900",
+"latitude": "-30.78982",
+"longitude": "30.56020000000001"
+},
+{
+"active": "1",
+"id": "10351",
+"datetime": "12 September 2012 6:17:00 AM",
+"tz_datetime": "12 September 2012 6:17:00 AM +0900",
+"latitude": "-30.79272",
+"longitude": "30.496159999999975"
+},
+{
+"active": "1",
+"id": "10350",
+"datetime": "12 September 2012 5:32:26 AM",
+"tz_datetime": "12 September 2012 5:32:26 AM +0900",
+"latitude": "-30.94565",
+"longitude": "30.51794000000001"
+},
+{
+"active": "1",
+"id": "10325",
+"datetime": "11 September 2012 2:48:21 PM",
+"tz_datetime": "11 September 2012 2:48:21 PM +0900",
+"latitude": "-30.97743",
+"longitude": "30.4658"
+},
+{
+"active": "1",
+"id": "10326",
+"datetime": "11 September 2012 1:19:47 PM",
+"tz_datetime": "11 September 2012 1:19:47 PM +0900",
+"latitude": "-30.98402",
+"longitude": "30.465719999999976"
+},
+{
+"active": "1",
+"id": "10279",
+"datetime": "11 September 2012 12:51:48 AM",
+"tz_datetime": "11 September 2012 12:51:48 AM +0900",
+"latitude": "-31.29668",
+"longitude": "30.05119000000002"
+},
+{
+"active": "1",
+"id": "10284",
+"datetime": "11 September 2012 12:08:58 AM",
+"tz_datetime": "11 September 2012 12:08:58 AM +0900",
+"latitude": "-31.2631",
+"longitude": "30.112900000000025"
+},
+{
+"active": "1",
+"id": "10283",
+"datetime": "10 September 2012 6:49:14 PM",
+"tz_datetime": "10 September 2012 6:49:14 PM +0900",
+"latitude": "-31.4064",
+"longitude": "29.91289999999998"
+},
+{
+"active": "1",
+"id": "10282",
+"datetime": "10 September 2012 6:46:03 PM",
+"tz_datetime": "10 September 2012 6:46:03 PM +0900",
+"latitude": "-31.39487",
+"longitude": "29.923170000000027"
+},
+{
+"active": "1",
+"id": "10210",
+"datetime": "10 September 2012 10:07:52 AM",
+"tz_datetime": "10 September 2012 10:07:52 AM +0900",
+"latitude": "-31.62953",
+"longitude": "29.568039999999996"
+},
+{
+"active": "1",
+"id": "10218",
+"datetime": "10 September 2012 6:26:23 AM",
+"tz_datetime": "10 September 2012 6:26:23 AM +0900",
+"latitude": "-31.73019",
+"longitude": "29.499390000000005"
+},
+{
+"active": "1",
+"id": "10217",
+"datetime": "10 September 2012 4:47:20 AM",
+"tz_datetime": "10 September 2012 4:47:20 AM +0900",
+"latitude": "-31.77082",
+"longitude": "29.45062999999999"
+},
+{
+"active": "1",
+"id": "10216",
+"datetime": "10 September 2012 12:29:33 AM",
+"tz_datetime": "10 September 2012 12:29:33 AM +0900",
+"latitude": "-31.8351",
+"longitude": "29.370389999999986"
+},
+{
+"active": "1",
+"id": "10215",
+"datetime": "9 September 2012 9:39:50 PM",
+"tz_datetime": "9 September 2012 9:39:50 PM +0900",
+"latitude": "-31.91308",
+"longitude": "29.275689999999997"
+},
+{
+"active": "1",
+"id": "10214",
+"datetime": "9 September 2012 8:49:28 PM",
+"tz_datetime": "9 September 2012 8:49:28 PM +0900",
+"latitude": "-31.91651",
+"longitude": "29.270730000000015"
+},
+{
+"active": "1",
+"id": "10213",
+"datetime": "9 September 2012 7:21:00 PM",
+"tz_datetime": "9 September 2012 7:21:00 PM +0900",
+"latitude": "-31.94588",
+"longitude": "29.23302000000001"
+},
+{
+"active": "1",
+"id": "10212",
+"datetime": "9 September 2012 7:12:08 PM",
+"tz_datetime": "9 September 2012 7:12:08 PM +0900",
+"latitude": "-31.94617",
+"longitude": "29.232880000000023"
+},
+{
+"active": "1",
+"id": "10152",
+"datetime": "9 September 2012 5:38:21 PM",
+"tz_datetime": "9 September 2012 5:38:21 PM +0900",
+"latitude": "-31.9959",
+"longitude": "29.15172000000001"
+},
+{
+"active": "1",
+"id": "10211",
+"datetime": "9 September 2012 5:30:12 PM",
+"tz_datetime": "9 September 2012 5:30:12 PM +0900",
+"latitude": "-32.00932",
+"longitude": "29.131820000000005"
+},
+{
+"active": "1",
+"id": "10153",
+"datetime": "9 September 2012 2:03:25 PM",
+"tz_datetime": "9 September 2012 2:03:25 PM +0900",
+"latitude": "-32.17071",
+"longitude": "29.06506999999999"
+},
+{
+"active": "1",
+"id": "10107",
+"datetime": "8 September 2012 12:45:50 AM",
+"tz_datetime": "8 September 2012 12:45:50 AM +0900",
+"latitude": "-33.16218",
+"longitude": "27.857860000000016"
+},
+{
+"active": "1",
+"id": "10109",
+"datetime": "7 September 2012 11:38:04 PM",
+"tz_datetime": "7 September 2012 11:38:04 PM +0900",
+"latitude": "-33.18151",
+"longitude": "27.802099999999996"
+},
+{
+"active": "1",
+"id": "10108",
+"datetime": "7 September 2012 11:05:46 PM",
+"tz_datetime": "7 September 2012 11:05:46 PM +0900",
+"latitude": "-33.184",
+"longitude": "27.806100000000015"
+},
+{
+"active": "1",
+"id": "10084",
+"datetime": "7 September 2012 7:48:15 PM",
+"tz_datetime": "7 September 2012 7:48:15 PM +0900",
+"latitude": "-33.24601",
+"longitude": "27.621199999999988"
+},
+{
+"active": "1",
+"id": "10087",
+"datetime": "7 September 2012 7:40:47 PM",
+"tz_datetime": "7 September 2012 7:40:47 PM +0900",
+"latitude": "-33.23112",
+"longitude": "27.664240000000007"
+},
+{
+"active": "1",
+"id": "10086",
+"datetime": "7 September 2012 6:19:31 PM",
+"tz_datetime": "7 September 2012 6:19:31 PM +0900",
+"latitude": "-33.25317",
+"longitude": "27.61694"
+},
+{
+"active": "1",
+"id": "10085",
+"datetime": "7 September 2012 5:59:21 PM",
+"tz_datetime": "7 September 2012 5:59:21 PM +0900",
+"latitude": "-33.26104",
+"longitude": "28.195600000000013"
+},
+{
+"active": "1",
+"id": "10071",
+"datetime": "7 September 2012 12:59:04 AM",
+"tz_datetime": "7 September 2012 12:59:04 AM +0900",
+"latitude": "-33.54732",
+"longitude": "27.20834000000002"
+},
+{
+"active": "1",
+"id": "10005",
+"datetime": "5 September 2012 10:22:29 PM",
+"tz_datetime": "5 September 2012 10:22:29 PM +0900",
+"latitude": "-33.71787",
+"longitude": "26.058179999999993"
+},
+{
+"active": "1",
+"id": "10004",
+"datetime": "5 September 2012 8:27:22 PM",
+"tz_datetime": "5 September 2012 8:27:22 PM +0900",
+"latitude": "-33.72368",
+"longitude": "26.055960000000027"
+},
+{
+"active": "1",
+"id": "10003",
+"datetime": "5 September 2012 8:11:25 PM",
+"tz_datetime": "5 September 2012 8:11:25 PM +0900",
+"latitude": "-33.72135",
+"longitude": "26.05243999999999"
+},
+{
+"active": "1",
+"id": "10002",
+"datetime": "5 September 2012 7:02:29 PM",
+"tz_datetime": "5 September 2012 7:02:29 PM +0900",
+"latitude": "-33.72135",
+"longitude": "26.05245000000002"
+},
+{
+"active": "1",
+"id": "10001",
+"datetime": "5 September 2012 6:54:37 PM",
+"tz_datetime": "5 September 2012 6:54:37 PM +0900",
+"latitude": "-33.7212",
+"longitude": "26.049710000000005"
+},
+{
+"active": "1",
+"id": "10000",
+"datetime": "5 September 2012 6:30:51 PM",
+"tz_datetime": "5 September 2012 6:30:51 PM +0900",
+"latitude": "-33.71734",
+"longitude": "26.01985000000002"
+},
+{
+"active": "1",
+"id": "9999",
+"datetime": "5 September 2012 5:22:31 PM",
+"tz_datetime": "5 September 2012 5:22:31 PM +0900",
+"latitude": "-33.7243",
+"longitude": "26.00072"
+},
+{
+"active": "1",
+"id": "9989",
+"datetime": "5 September 2012 5:17:26 PM",
+"tz_datetime": "5 September 2012 5:17:26 PM +0900",
+"latitude": "-33.98771",
+"longitude": "25.806510000000003"
+},
+{
+"active": "1",
+"id": "9923",
+"datetime": "5 September 2012 12:48:20 PM",
+"tz_datetime": "5 September 2012 12:48:20 PM +0900",
+"latitude": "-34.03404",
+"longitude": "25.904060000000015"
+},
+{
+"active": "1",
+"id": "9928",
+"datetime": "5 September 2012 12:04:32 PM",
+"tz_datetime": "5 September 2012 12:04:32 PM +0900",
+"latitude": "-34.04511",
+"longitude": "25.89400999999998"
+},
+{
+"active": "1",
+"id": "9927",
+"datetime": "5 September 2012 3:27:29 AM",
+"tz_datetime": "5 September 2012 3:27:29 AM +0900",
+"latitude": "-34.06334",
+"longitude": "25.75315999999998"
+},
+{
+"active": "1",
+"id": "9926",
+"datetime": "5 September 2012 3:19:21 AM",
+"tz_datetime": "5 September 2012 3:19:21 AM +0900",
+"latitude": "-34.0582",
+"longitude": "25.747619999999984"
+},
+{
+"active": "1",
+"id": "9925",
+"datetime": "5 September 2012 1:36:43 AM",
+"tz_datetime": "5 September 2012 1:36:43 AM +0900",
+"latitude": "-34.0517",
+"longitude": "25.661749999999984"
+},
+{
+"active": "1",
+"id": "9924",
+"datetime": "5 September 2012 1:23:04 AM",
+"tz_datetime": "5 September 2012 1:23:04 AM +0900",
+"latitude": "-34.05069",
+"longitude": "25.651959999999974"
+},
+{
+"active": "1",
+"id": "9685",
+"datetime": "28 August 2012 1:34:34 AM",
+"tz_datetime": "28 August 2012 1:34:34 AM +0900",
+"latitude": "-34.83447",
+"longitude": "19.70134999999999"
+},
+{
+"active": "1",
+"id": "9614",
+"datetime": "26 August 2012 10:29:00 PM",
+"tz_datetime": "26 August 2012 10:29:00 PM +0900",
+"latitude": "-34.79956",
+"longitude": "19.70393999999999"
+},
+{
+"active": "1",
+"id": "9616",
+"datetime": "26 August 2012 10:13:24 PM",
+"tz_datetime": "26 August 2012 10:13:24 PM +0900",
+"latitude": "-34.80533",
+"longitude": "19.71296000000001"
+},
+{
+"active": "1",
+"id": "9615",
+"datetime": "26 August 2012 2:20:35 AM",
+"tz_datetime": "26 August 2012 2:20:35 AM +0900",
+"latitude": "-34.81106",
+"longitude": "19.760400000000004"
+},
+{
+"active": "1",
+"id": "9534",
+"datetime": "25 August 2012 11:49:10 PM",
+"tz_datetime": "25 August 2012 11:49:10 PM +0900",
+"latitude": "-34.79267",
+"longitude": "19.79216000000002"
+},
+{
+"active": "1",
+"id": "9533",
+"datetime": "25 August 2012 8:37:14 AM",
+"tz_datetime": "25 August 2012 8:37:14 AM +0900",
+"latitude": "-34.82295",
+"longitude": "19.74086"
+},
+{
+"active": "1",
+"id": "9408",
+"datetime": "24 August 2012 2:22:15 PM",
+"tz_datetime": "24 August 2012 2:22:15 PM +0900",
+"latitude": "-34.81122",
+"longitude": "19.596600000000024"
+},
+{
+"active": "1",
+"id": "9417",
+"datetime": "24 August 2012 12:34:28 PM",
+"tz_datetime": "24 August 2012 12:34:28 PM +0900",
+"latitude": "-34.80864",
+"longitude": "19.58235000000002"
+},
+{
+"active": "1",
+"id": "9411",
+"datetime": "23 August 2012 10:59:26 PM",
+"tz_datetime": "23 August 2012 10:59:26 PM +0900",
+"latitude": "-34.65073",
+"longitude": "19.446039999999982"
+},
+{
+"active": "1",
+"id": "9410",
+"datetime": "23 August 2012 7:13:50 PM",
+"tz_datetime": "23 August 2012 7:13:50 PM +0900",
+"latitude": "-34.65962",
+"longitude": "19.386799999999994"
+},
+{
+"active": "1",
+"id": "9409",
+"datetime": "23 August 2012 12:57:34 AM",
+"tz_datetime": "23 August 2012 12:57:34 AM +0900",
+"latitude": "-34.68949",
+"longitude": "19.431539999999984"
+},
+{
+"active": "1",
+"id": "9350",
+"datetime": "22 August 2012 4:03:20 AM",
+"tz_datetime": "22 August 2012 4:03:20 AM +0900",
+"latitude": "-34.68961",
+"longitude": "19.43056999999999"
+},
+{
+"active": "1",
+"id": "9305",
+"datetime": "22 August 2012 3:52:26 AM",
+"tz_datetime": "22 August 2012 3:52:26 AM +0900",
+"latitude": "-34.6917",
+"longitude": "19.429230000000018"
+},
+{
+"active": "1",
+"id": "9304",
+"datetime": "22 August 2012 2:18:22 AM",
+"tz_datetime": "22 August 2012 2:18:22 AM +0900",
+"latitude": "-34.69286",
+"longitude": "19.43173999999999"
+},
+{
+"active": "1",
+"id": "9349",
+"datetime": "22 August 2012 2:15:46 AM",
+"tz_datetime": "22 August 2012 2:15:46 AM +0900",
+"latitude": "-34.69104",
+"longitude": "19.43340999999998"
+},
+{
+"active": "1",
+"id": "9302",
+"datetime": "21 August 2012 11:30:59 PM",
+"tz_datetime": "21 August 2012 11:30:59 PM +0900",
+"latitude": "-34.6914",
+"longitude": "19.458219999999983"
+},
+{
+"active": "1",
+"id": "9301",
+"datetime": "21 August 2012 10:23:52 PM",
+"tz_datetime": "21 August 2012 10:23:52 PM +0900",
+"latitude": "-34.68832",
+"longitude": "19.464789999999994"
+},
+{
+"active": "1",
+"id": "9231",
+"datetime": "21 August 2012 12:03:20 PM",
+"tz_datetime": "21 August 2012 12:03:20 PM +0900",
+"latitude": "-34.69628",
+"longitude": "19.454589999999996"
+},
+{
+"active": "1",
+"id": "9235",
+"datetime": "21 August 2012 8:16:59 AM",
+"tz_datetime": "21 August 2012 8:16:59 AM +0900",
+"latitude": "-34.70342",
+"longitude": "19.474019999999996"
+},
+{
+"active": "1",
+"id": "9234",
+"datetime": "21 August 2012 2:39:27 AM",
+"tz_datetime": "21 August 2012 2:39:27 AM +0900",
+"latitude": "-34.70511",
+"longitude": "19.466139999999996"
+},
+{
+"active": "1",
+"id": "9233",
+"datetime": "21 August 2012 1:20:10 AM",
+"tz_datetime": "21 August 2012 1:20:10 AM +0900",
+"latitude": "-34.70426",
+"longitude": "19.45371"
+},
+{
+"active": "1",
+"id": "9232",
+"datetime": "20 August 2012 6:36:25 PM",
+"tz_datetime": "20 August 2012 6:36:25 PM +0900",
+"latitude": "-34.69899",
+"longitude": "19.490830000000017"
+},
+{
+"active": "1",
+"id": "9212",
+"datetime": "20 August 2012 7:08:12 AM",
+"tz_datetime": "20 August 2012 7:08:12 AM +0900",
+"latitude": "-34.70441",
+"longitude": "19.434320000000014"
+},
+{
+"active": "1",
+"id": "9214",
+"datetime": "20 August 2012 3:07:48 AM",
+"tz_datetime": "20 August 2012 3:07:48 AM +0900",
+"latitude": "-34.68336",
+"longitude": "19.490040000000022"
+},
+{
+"active": "1",
+"id": "9213",
+"datetime": "20 August 2012 2:34:43 AM",
+"tz_datetime": "20 August 2012 2:34:43 AM +0900",
+"latitude": "-34.67961",
+"longitude": "19.494590000000017"
+},
+{
+"active": "1",
+"id": "9106",
+"datetime": "20 August 2012 12:52:23 AM",
+"tz_datetime": "20 August 2012 12:52:23 AM +0900",
+"latitude": "-34.68848",
+"longitude": "19.47034000000002"
+},
+{
+"active": "1",
+"id": "9114",
+"datetime": "19 August 2012 11:51:25 PM",
+"tz_datetime": "19 August 2012 11:51:25 PM +0900",
+"latitude": "-34.72517",
+"longitude": "19.36986999999999"
+},
+{
+"active": "1",
+"id": "9113",
+"datetime": "19 August 2012 11:16:45 PM",
+"tz_datetime": "19 August 2012 11:16:45 PM +0900",
+"latitude": "-34.7213",
+"longitude": "19.37984"
+},
+{
+"active": "1",
+"id": "9112",
+"datetime": "19 August 2012 10:03:43 PM",
+"tz_datetime": "19 August 2012 10:03:43 PM +0900",
+"latitude": "-34.7116",
+"longitude": "19.403160000000014"
+},
+{
+"active": "1",
+"id": "9111",
+"datetime": "19 August 2012 7:44:29 PM",
+"tz_datetime": "19 August 2012 7:44:29 PM +0900",
+"latitude": "-34.69576",
+"longitude": "19.489210000000014"
+},
+{
+"active": "1",
+"id": "9110",
+"datetime": "19 August 2012 7:07:56 PM",
+"tz_datetime": "19 August 2012 7:07:56 PM +0900",
+"latitude": "-34.69282",
+"longitude": "19.49711000000002"
+},
+{
+"active": "1",
+"id": "9109",
+"datetime": "19 August 2012 6:49:59 AM",
+"tz_datetime": "19 August 2012 6:49:59 AM +0900",
+"latitude": "-34.70228",
+"longitude": "19.519709999999975"
+},
+{
+"active": "1",
+"id": "9108",
+"datetime": "19 August 2012 3:33:12 AM",
+"tz_datetime": "19 August 2012 3:33:12 AM +0900",
+"latitude": "-34.69618",
+"longitude": "19.51497999999998"
+},
+{
+"active": "1",
+"id": "9107",
+"datetime": "19 August 2012 1:48:22 AM",
+"tz_datetime": "19 August 2012 1:48:22 AM +0900",
+"latitude": "-34.71828",
+"longitude": "19.495540000000005"
+},
+{
+"active": "1",
+"id": "9069",
+"datetime": "18 August 2012 12:27:46 PM",
+"tz_datetime": "18 August 2012 12:27:46 PM +0900",
+"latitude": "-34.66493",
+"longitude": "19.40625"
+},
+{
+"active": "1",
+"id": "9070",
+"datetime": "18 August 2012 10:51:36 AM",
+"tz_datetime": "18 August 2012 10:51:36 AM +0900",
+"latitude": "-34.67656",
+"longitude": "19.413610000000006"
+},
+{
+"active": "1",
+"id": "8972",
+"datetime": "17 August 2012 1:24:59 AM",
+"tz_datetime": "17 August 2012 1:24:59 AM +0900",
+"latitude": "-34.64099",
+"longitude": "19.334040000000016"
+},
+{
+"active": "1",
+"id": "8977",
+"datetime": "17 August 2012 1:02:49 AM",
+"tz_datetime": "17 August 2012 1:02:49 AM +0900",
+"latitude": "-34.709",
+"longitude": "19.46890000000002"
+},
+{
+"active": "1",
+"id": "8976",
+"datetime": "16 August 2012 10:38:58 PM",
+"tz_datetime": "16 August 2012 10:38:58 PM +0900",
+"latitude": "-34.64799",
+"longitude": "19.342120000000023"
+},
+{
+"active": "1",
+"id": "8975",
+"datetime": "16 August 2012 7:09:44 PM",
+"tz_datetime": "16 August 2012 7:09:44 PM +0900",
+"latitude": "-34.67335",
+"longitude": "19.37121000000002"
+},
+{
+"active": "1",
+"id": "8974",
+"datetime": "16 August 2012 7:07:44 PM",
+"tz_datetime": "16 August 2012 7:07:44 PM +0900",
+"latitude": "-34.6789",
+"longitude": "19.362750000000005"
+},
+{
+"active": "1",
+"id": "8973",
+"datetime": "16 August 2012 6:31:36 PM",
+"tz_datetime": "16 August 2012 6:31:36 PM +0900",
+"latitude": "-34.68156",
+"longitude": "19.370400000000018"
+},
+{
+"active": "1",
+"id": "8922",
+"datetime": "16 August 2012 2:00:59 PM",
+"tz_datetime": "16 August 2012 2:00:59 PM +0900",
+"latitude": "-34.94956",
+"longitude": "19.75517000000002"
+},
+{
+"active": "1",
+"id": "8925",
+"datetime": "16 August 2012 1:42:29 AM",
+"tz_datetime": "16 August 2012 1:42:29 AM +0900",
+"latitude": "-34.7773",
+"longitude": "19.59069999999997"
+},
+{
+"active": "1",
+"id": "8924",
+"datetime": "16 August 2012 12:26:07 AM",
+"tz_datetime": "16 August 2012 12:26:07 AM +0900",
+"latitude": "-34.74815",
+"longitude": "19.577369999999974"
+},
+{
+"active": "1",
+"id": "8923",
+"datetime": "15 August 2012 11:59:30 PM",
+"tz_datetime": "15 August 2012 11:59:30 PM +0900",
+"latitude": "-34.75035",
+"longitude": "19.51988"
+},
+{
+"active": "1",
+"id": "8883",
+"datetime": "15 August 2012 8:56:03 PM",
+"tz_datetime": "15 August 2012 8:56:03 PM +0900",
+"latitude": "-34.70883",
+"longitude": "19.393689999999992"
+},
+{
+"active": "1",
+"id": "8888",
+"datetime": "15 August 2012 7:24:26 PM",
+"tz_datetime": "15 August 2012 7:24:26 PM +0900",
+"latitude": "-34.70335",
+"longitude": "19.39278999999999"
+},
+{
+"active": "1",
+"id": "8887",
+"datetime": "15 August 2012 7:19:56 PM",
+"tz_datetime": "15 August 2012 7:19:56 PM +0900",
+"latitude": "-34.69945",
+"longitude": "19.384299999999996"
+},
+{
+"active": "1",
+"id": "8886",
+"datetime": "15 August 2012 6:56:21 PM",
+"tz_datetime": "15 August 2012 6:56:21 PM +0900",
+"latitude": "-34.69605",
+"longitude": "19.376520000000028"
+},
+{
+"active": "1",
+"id": "8885",
+"datetime": "15 August 2012 5:28:08 PM",
+"tz_datetime": "15 August 2012 5:28:08 PM +0900",
+"latitude": "-34.65486",
+"longitude": "19.367779999999982"
+},
+{
+"active": "1",
+"id": "8884",
+"datetime": "15 August 2012 5:21:44 PM",
+"tz_datetime": "15 August 2012 5:21:44 PM +0900",
+"latitude": "-34.65624",
+"longitude": "19.36885000000001"
+},
+{
+"active": "1",
+"id": "8835",
+"datetime": "15 August 2012 12:58:34 PM",
+"tz_datetime": "15 August 2012 12:58:34 PM +0900",
+"latitude": "-34.64749",
+"longitude": "19.35750999999999"
+},
+{
+"active": "1",
+"id": "8846",
+"datetime": "15 August 2012 12:37:44 PM",
+"tz_datetime": "15 August 2012 12:37:44 PM +0900",
+"latitude": "-34.67556",
+"longitude": "19.382439999999974"
+},
+{
+"active": "1",
+"id": "8845",
+"datetime": "15 August 2012 1:50:24 AM",
+"tz_datetime": "15 August 2012 1:50:24 AM +0900",
+"latitude": "-34.72913",
+"longitude": "19.44486999999998"
+},
+{
+"active": "1",
+"id": "8844",
+"datetime": "15 August 2012 1:48:29 AM",
+"tz_datetime": "15 August 2012 1:48:29 AM +0900",
+"latitude": "-34.73186",
+"longitude": "19.464940000000013"
+},
+{
+"active": "1",
+"id": "8843",
+"datetime": "15 August 2012 12:39:58 AM",
+"tz_datetime": "15 August 2012 12:39:58 AM +0900",
+"latitude": "-34.70029",
+"longitude": "19.41446000000002"
+},
+{
+"active": "1",
+"id": "8842",
+"datetime": "15 August 2012 12:04:56 AM",
+"tz_datetime": "15 August 2012 12:04:56 AM +0900",
+"latitude": "-34.69735",
+"longitude": "19.44684000000001"
+},
+{
+"active": "1",
+"id": "8841",
+"datetime": "14 August 2012 10:55:01 PM",
+"tz_datetime": "14 August 2012 10:55:01 PM +0900",
+"latitude": "-34.70049",
+"longitude": "19.409629999999993"
+},
+{
+"active": "1",
+"id": "8840",
+"datetime": "14 August 2012 9:25:47 PM",
+"tz_datetime": "14 August 2012 9:25:47 PM +0900",
+"latitude": "-34.67426",
+"longitude": "19.38452000000001"
+},
+{
+"active": "1",
+"id": "8839",
+"datetime": "14 August 2012 9:08:45 PM",
+"tz_datetime": "14 August 2012 9:08:45 PM +0900",
+"latitude": "-34.667",
+"longitude": "19.38391999999999"
+},
+{
+"active": "1",
+"id": "8838",
+"datetime": "14 August 2012 7:52:31 PM",
+"tz_datetime": "14 August 2012 7:52:31 PM +0900",
+"latitude": "-34.67834",
+"longitude": "19.36457999999999"
+},
+{
+"active": "1",
+"id": "8837",
+"datetime": "14 August 2012 7:29:28 PM",
+"tz_datetime": "14 August 2012 7:29:28 PM +0900",
+"latitude": "-34.68173",
+"longitude": "19.35586999999998"
+},
+{
+"active": "1",
+"id": "8836",
+"datetime": "14 August 2012 7:18:50 PM",
+"tz_datetime": "14 August 2012 7:18:50 PM +0900",
+"latitude": "-34.67512",
+"longitude": "19.387639999999976"
+},
+{
+"active": "1",
+"id": "8814",
+"datetime": "14 August 2012 9:07:28 AM",
+"tz_datetime": "14 August 2012 9:07:28 AM +0900",
+"latitude": "-34.67284",
+"longitude": "19.385010000000023"
+},
+{
+"active": "1",
+"id": "8816",
+"datetime": "13 August 2012 9:46:44 PM",
+"tz_datetime": "13 August 2012 9:46:44 PM +0900",
+"latitude": "-34.67904",
+"longitude": "19.39157"
+},
+{
+"active": "1",
+"id": "8815",
+"datetime": "13 August 2012 2:57:52 PM",
+"tz_datetime": "13 August 2012 2:57:52 PM +0900",
+"latitude": "-34.68445",
+"longitude": "19.395780000000002"
+},
+{
+"active": "1",
+"id": "8800",
+"datetime": "13 August 2012 11:46:08 AM",
+"tz_datetime": "13 August 2012 11:46:08 AM +0900",
+"latitude": "-34.68617",
+"longitude": "19.421899999999994"
+},
+{
+"active": "1",
+"id": "8804",
+"datetime": "13 August 2012 9:27:07 AM",
+"tz_datetime": "13 August 2012 9:27:07 AM +0900",
+"latitude": "-34.74802",
+"longitude": "19.314959999999985"
+},
+{
+"active": "1",
+"id": "8803",
+"datetime": "13 August 2012 12:58:53 AM",
+"tz_datetime": "13 August 2012 12:58:53 AM +0900",
+"latitude": "-34.71384",
+"longitude": "19.394799999999975"
+},
+{
+"active": "1",
+"id": "8802",
+"datetime": "13 August 2012 12:58:03 AM",
+"tz_datetime": "13 August 2012 12:58:03 AM +0900",
+"latitude": "-34.71171",
+"longitude": "19.395230000000026"
+},
+{
+"active": "1",
+"id": "8801",
+"datetime": "13 August 2012 12:30:17 AM",
+"tz_datetime": "13 August 2012 12:30:17 AM +0900",
+"latitude": "-34.71262",
+"longitude": "19.395939999999996"
+},
+{
+"active": "1",
+"id": "8763",
+"datetime": "12 August 2012 11:18:04 PM",
+"tz_datetime": "12 August 2012 11:18:04 PM +0900",
+"latitude": "-34.68779",
+"longitude": "19.393259999999998"
+},
+{
+"active": "1",
+"id": "8768",
+"datetime": "12 August 2012 10:09:15 PM",
+"tz_datetime": "12 August 2012 10:09:15 PM +0900",
+"latitude": "-34.75593",
+"longitude": "19.37927000000002"
+},
+{
+"active": "1",
+"id": "8767",
+"datetime": "12 August 2012 3:17:50 PM",
+"tz_datetime": "12 August 2012 3:17:50 PM +0900",
+"latitude": "-34.68821",
+"longitude": "19.465100000000007"
+},
+{
+"active": "1",
+"id": "8766",
+"datetime": "12 August 2012 3:01:50 AM",
+"tz_datetime": "12 August 2012 3:01:50 AM +0900",
+"latitude": "-34.70168",
+"longitude": "19.460820000000012"
+},
+{
+"active": "1",
+"id": "8765",
+"datetime": "12 August 2012 2:23:17 AM",
+"tz_datetime": "12 August 2012 2:23:17 AM +0900",
+"latitude": "-34.69952",
+"longitude": "19.433749999999975"
+},
+{
+"active": "1",
+"id": "8764",
+"datetime": "12 August 2012 1:14:34 AM",
+"tz_datetime": "12 August 2012 1:14:34 AM +0900",
+"latitude": "-34.72379",
+"longitude": "19.56880000000001"
+},
+{
+"active": "1",
+"id": "8705",
+"datetime": "11 August 2012 8:43:13 PM",
+"tz_datetime": "11 August 2012 8:43:13 PM +0900",
+"latitude": "-34.7051",
+"longitude": "19.49191000000002"
+},
+{
+"active": "1",
+"id": "8714",
+"datetime": "11 August 2012 8:04:30 PM",
+"tz_datetime": "11 August 2012 8:04:30 PM +0900",
+"latitude": "-34.69696",
+"longitude": "19.456189999999992"
+},
+{
+"active": "1",
+"id": "8713",
+"datetime": "11 August 2012 7:06:39 PM",
+"tz_datetime": "11 August 2012 7:06:39 PM +0900",
+"latitude": "-34.68762",
+"longitude": "19.45398"
+},
+{
+"active": "1",
+"id": "8712",
+"datetime": "11 August 2012 6:53:51 PM",
+"tz_datetime": "11 August 2012 6:53:51 PM +0900",
+"latitude": "-34.6846",
+"longitude": "19.45335"
+},
+{
+"active": "1",
+"id": "8711",
+"datetime": "11 August 2012 6:23:08 PM",
+"tz_datetime": "11 August 2012 6:23:08 PM +0900",
+"latitude": "-34.6865",
+"longitude": "19.456369999999993"
+},
+{
+"active": "1",
+"id": "8710",
+"datetime": "11 August 2012 6:40:56 AM",
+"tz_datetime": "11 August 2012 6:40:56 AM +0900",
+"latitude": "-34.70734",
+"longitude": "19.442859999999996"
+},
+{
+"active": "1",
+"id": "8709",
+"datetime": "11 August 2012 3:25:15 AM",
+"tz_datetime": "11 August 2012 3:25:15 AM +0900",
+"latitude": "-34.70282",
+"longitude": "19.431330000000003"
+},
+{
+"active": "1",
+"id": "8708",
+"datetime": "11 August 2012 2:38:05 AM",
+"tz_datetime": "11 August 2012 2:38:05 AM +0900",
+"latitude": "-34.69159",
+"longitude": "19.43155999999999"
+},
+{
+"active": "1",
+"id": "8707",
+"datetime": "11 August 2012 1:44:57 AM",
+"tz_datetime": "11 August 2012 1:44:57 AM +0900",
+"latitude": "-34.69155",
+"longitude": "19.429460000000006"
+},
+{
+"active": "1",
+"id": "8706",
+"datetime": "11 August 2012 12:53:24 AM",
+"tz_datetime": "11 August 2012 12:53:24 AM +0900",
+"latitude": "-34.68516",
+"longitude": "19.43322999999998"
+},
+{
+"active": "1",
+"id": "8658",
+"datetime": "10 August 2012 4:13:28 PM",
+"tz_datetime": "10 August 2012 4:13:28 PM +0900",
+"latitude": "-34.70345",
+"longitude": "19.434360000000027"
+},
+{
+"active": "1",
+"id": "8665",
+"datetime": "10 August 2012 3:09:08 PM",
+"tz_datetime": "10 August 2012 3:09:08 PM +0900",
+"latitude": "-34.73119",
+"longitude": "19.436759999999992"
+},
+{
+"active": "1",
+"id": "8664",
+"datetime": "10 August 2012 2:28:02 PM",
+"tz_datetime": "10 August 2012 2:28:02 PM +0900",
+"latitude": "-34.71963",
+"longitude": "19.42673000000002"
+},
+{
+"active": "1",
+"id": "8663",
+"datetime": "10 August 2012 1:58:48 PM",
+"tz_datetime": "10 August 2012 1:58:48 PM +0900",
+"latitude": "-34.72003",
+"longitude": "19.426570000000027"
+},
+{
+"active": "1",
+"id": "8662",
+"datetime": "10 August 2012 1:28:03 PM",
+"tz_datetime": "10 August 2012 1:28:03 PM +0900",
+"latitude": "-34.71459",
+"longitude": "19.418200000000013"
+},
+{
+"active": "1",
+"id": "8661",
+"datetime": "10 August 2012 12:17:57 PM",
+"tz_datetime": "10 August 2012 12:17:57 PM +0900",
+"latitude": "-34.67886",
+"longitude": "19.402769999999975"
+},
+{
+"active": "1",
+"id": "8660",
+"datetime": "10 August 2012 8:51:42 AM",
+"tz_datetime": "10 August 2012 8:51:42 AM +0900",
+"latitude": "-34.67753",
+"longitude": "19.399819999999977"
+},
+{
+"active": "1",
+"id": "8659",
+"datetime": "10 August 2012 3:50:20 AM",
+"tz_datetime": "10 August 2012 3:50:20 AM +0900",
+"latitude": "-34.67749",
+"longitude": "19.405449999999973"
+},
+{
+"active": "1",
+"id": "8587",
+"datetime": "9 August 2012 1:38:58 PM",
+"tz_datetime": "9 August 2012 1:38:58 PM +0900",
+"latitude": "-34.67376",
+"longitude": "19.368330000000014"
+},
+{
+"active": "1",
+"id": "8592",
+"datetime": "9 August 2012 7:35:17 AM",
+"tz_datetime": "9 August 2012 7:35:17 AM +0900",
+"latitude": "-34.67388",
+"longitude": "19.366269999999986"
+},
+{
+"active": "1",
+"id": "8591",
+"datetime": "9 August 2012 6:26:00 AM",
+"tz_datetime": "9 August 2012 6:26:00 AM +0900",
+"latitude": "-34.67426",
+"longitude": "19.369939999999986"
+},
+{
+"active": "1",
+"id": "8590",
+"datetime": "9 August 2012 12:57:51 AM",
+"tz_datetime": "9 August 2012 12:57:51 AM +0900",
+"latitude": "-34.69786",
+"longitude": "19.41699"
+},
+{
+"active": "1",
+"id": "8589",
+"datetime": "8 August 2012 10:26:02 PM",
+"tz_datetime": "8 August 2012 10:26:02 PM +0900",
+"latitude": "-34.69733",
+"longitude": "19.416809999999998"
+},
+{
+"active": "1",
+"id": "8588",
+"datetime": "8 August 2012 6:22:24 PM",
+"tz_datetime": "8 August 2012 6:22:24 PM +0900",
+"latitude": "-34.69648",
+"longitude": "19.413290000000018"
+},
+{
+"active": "1",
+"id": "8549",
+"datetime": "8 August 2012 3:17:46 PM",
+"tz_datetime": "8 August 2012 3:17:46 PM +0900",
+"latitude": "-34.69046",
+"longitude": "19.415520000000015"
+},
+{
+"active": "1",
+"id": "8552",
+"datetime": "8 August 2012 8:17:42 AM",
+"tz_datetime": "8 August 2012 8:17:42 AM +0900",
+"latitude": "-34.64512",
+"longitude": "19.343560000000025"
+},
+{
+"active": "1",
+"id": "8551",
+"datetime": "8 August 2012 7:49:47 AM",
+"tz_datetime": "8 August 2012 7:49:47 AM +0900",
+"latitude": "-34.67776",
+"longitude": "19.422469999999976"
+},
+{
+"active": "1",
+"id": "8550",
+"datetime": "7 August 2012 8:57:54 PM",
+"tz_datetime": "7 August 2012 8:57:54 PM +0900",
+"latitude": "-34.63386",
+"longitude": "19.37401"
+},
+{
+"active": "1",
+"id": "8516",
+"datetime": "7 August 2012 6:44:11 PM",
+"tz_datetime": "7 August 2012 6:44:11 PM +0900",
+"latitude": "-34.63135",
+"longitude": "19.370949999999993"
+},
+{
+"active": "1",
+"id": "8470",
+"datetime": "7 August 2012 11:10:17 AM",
+"tz_datetime": "7 August 2012 11:10:17 AM +0900",
+"latitude": "-34.63606",
+"longitude": "19.392200000000003"
+},
+{
+"active": "1",
+"id": "8473",
+"datetime": "6 August 2012 10:43:13 PM",
+"tz_datetime": "6 August 2012 10:43:13 PM +0900",
+"latitude": "-34.69014",
+"longitude": "19.45729"
+},
+{
+"active": "1",
+"id": "8472",
+"datetime": "6 August 2012 9:03:30 PM",
+"tz_datetime": "6 August 2012 9:03:30 PM +0900",
+"latitude": "-34.68818",
+"longitude": "19.46629999999999"
+},
+{
+"active": "1",
+"id": "8471",
+"datetime": "6 August 2012 8:49:32 PM",
+"tz_datetime": "6 August 2012 8:49:32 PM +0900",
+"latitude": "-34.69007",
+"longitude": "19.48712999999998"
+},
+{
+"active": "1",
+"id": "8450",
+"datetime": "6 August 2012 7:23:28 PM",
+"tz_datetime": "6 August 2012 7:23:28 PM +0900",
+"latitude": "-34.68702",
+"longitude": "19.466709999999978"
+},
+{
+"active": "1",
+"id": "8452",
+"datetime": "6 August 2012 7:11:27 PM",
+"tz_datetime": "6 August 2012 7:11:27 PM +0900",
+"latitude": "-34.68701",
+"longitude": "19.466679999999997"
+},
+{
+"active": "1",
+"id": "8451",
+"datetime": "6 August 2012 5:30:27 PM",
+"tz_datetime": "6 August 2012 5:30:27 PM +0900",
+"latitude": "-34.69232",
+"longitude": "19.419100000000014"
+},
+{
+"active": "1",
+"id": "8252",
+"datetime": "2 August 2012 2:25:19 PM",
+"tz_datetime": "2 August 2012 2:25:19 PM +0900",
+"latitude": "-34.70466",
+"longitude": "19.401599999999974"
+},
+{
+"active": "1",
+"id": "8254",
+"datetime": "2 August 2012 6:47:46 AM",
+"tz_datetime": "2 August 2012 6:47:46 AM +0900",
+"latitude": "-34.69944",
+"longitude": "19.405640000000005"
+},
+{
+"active": "1",
+"id": "8253",
+"datetime": "2 August 2012 3:42:24 AM",
+"tz_datetime": "2 August 2012 3:42:24 AM +0900",
+"latitude": "-34.69729",
+"longitude": "19.40822000000003"
+},
+{
+"active": "1",
+"id": "8104",
+"datetime": "29 July 2012 5:22:06 PM",
+"tz_datetime": "29 July 2012 5:22:06 PM +0900",
+"latitude": "-34.68675",
+"longitude": "19.40748000000002"
+},
+{
+"active": "1",
+"id": "8105",
+"datetime": "29 July 2012 1:56:17 PM",
+"tz_datetime": "29 July 2012 1:56:17 PM +0900",
+"latitude": "-34.69453",
+"longitude": "19.407460000000015"
+},
+{
+"active": "1",
+"id": "8043",
+"datetime": "29 July 2012 7:57:30 AM",
+"tz_datetime": "29 July 2012 7:57:30 AM +0900",
+"latitude": "-34.67987",
+"longitude": "19.40512000000001"
+},
+{
+"active": "1",
+"id": "7999",
+"datetime": "28 July 2012 12:50:46 PM",
+"tz_datetime": "28 July 2012 12:50:46 PM +0900",
+"latitude": "-34.6799",
+"longitude": "19.405039999999985"
+},
+{
+"active": "1",
+"id": "8000",
+"datetime": "28 July 2012 12:34:22 PM",
+"tz_datetime": "28 July 2012 12:34:22 PM +0900",
+"latitude": "-34.67621",
+"longitude": "19.40922999999998"
+},
+{
+"active": "1",
+"id": "7939",
+"datetime": "27 July 2012 4:05:56 PM",
+"tz_datetime": "27 July 2012 4:05:56 PM +0900",
+"latitude": "-34.68258",
+"longitude": "19.409269999999992"
+},
+{
+"active": "1",
+"id": "7942",
+"datetime": "27 July 2012 2:28:09 PM",
+"tz_datetime": "27 July 2012 2:28:09 PM +0900",
+"latitude": "-34.68285",
+"longitude": "19.40712000000002"
+},
+{
+"active": "1",
+"id": "7941",
+"datetime": "27 July 2012 1:04:04 PM",
+"tz_datetime": "27 July 2012 1:04:04 PM +0900",
+"latitude": "-34.67371",
+"longitude": "19.409989999999993"
+},
+{
+"active": "1",
+"id": "7940",
+"datetime": "27 July 2012 11:22:19 AM",
+"tz_datetime": "27 July 2012 11:22:19 AM +0900",
+"latitude": "-34.65926",
+"longitude": "19.40951000000001"
+},
+{
+"active": "1",
+"id": "7849",
+"datetime": "25 July 2012 12:40:41 AM",
+"tz_datetime": "25 July 2012 12:40:41 AM +0900",
+"latitude": "-34.70068",
+"longitude": "19.44110999999998"
+},
+{
+"active": "1",
+"id": "7794",
+"datetime": "23 July 2012 10:20:50 PM",
+"tz_datetime": "23 July 2012 10:20:50 PM +0900",
+"latitude": "-34.67636",
+"longitude": "19.43959000000001"
+},
+{
+"active": "1",
+"id": "7698",
+"datetime": "23 July 2012 1:48:07 PM",
+"tz_datetime": "23 July 2012 1:48:07 PM +0900",
+"latitude": "-34.68515",
+"longitude": "19.41478000000001"
+},
+{
+"active": "1",
+"id": "7701",
+"datetime": "23 July 2012 1:21:07 PM",
+"tz_datetime": "23 July 2012 1:21:07 PM +0900",
+"latitude": "-34.69817",
+"longitude": "19.42185999999998"
+},
+{
+"active": "1",
+"id": "7700",
+"datetime": "22 July 2012 11:23:49 PM",
+"tz_datetime": "22 July 2012 11:23:49 PM +0900",
+"latitude": "-34.68903",
+"longitude": "19.46530000000001"
+},
+{
+"active": "1",
+"id": "7699",
+"datetime": "22 July 2012 3:31:22 PM",
+"tz_datetime": "22 July 2012 3:31:22 PM +0900",
+"latitude": "-34.67574",
+"longitude": "19.52014000000003"
+},
+{
+"active": "1",
+"id": "7620",
+"datetime": "22 July 2012 3:09:55 AM",
+"tz_datetime": "22 July 2012 3:09:55 AM +0900",
+"latitude": "-34.694",
+"longitude": "19.43880999999999"
+},
+{
+"active": "1",
+"id": "7559",
+"datetime": "21 July 2012 11:36:01 PM",
+"tz_datetime": "21 July 2012 11:36:01 PM +0900",
+"latitude": "-34.65827",
+"longitude": "19.35304000000002"
+},
+{
+"active": "1",
+"id": "7561",
+"datetime": "21 July 2012 10:10:15 PM",
+"tz_datetime": "21 July 2012 10:10:15 PM +0900",
+"latitude": "-34.65921",
+"longitude": "19.355470000000025"
+},
+{
+"active": "1",
+"id": "7560",
+"datetime": "21 July 2012 9:24:02 PM",
+"tz_datetime": "21 July 2012 9:24:02 PM +0900",
+"latitude": "-34.6857",
+"longitude": "19.359379999999987"
+},
+{
+"active": "1",
+"id": "7460",
+"datetime": "21 July 2012 3:31:46 AM",
+"tz_datetime": "21 July 2012 3:31:46 AM +0900",
+"latitude": "-34.70371",
+"longitude": "19.440620000000024"
+},
+{
+"active": "1",
+"id": "7462",
+"datetime": "20 July 2012 5:31:26 PM",
+"tz_datetime": "20 July 2012 5:31:26 PM +0900",
+"latitude": "-34.6997",
+"longitude": "19.431750000000022"
+},
+{
+"active": "1",
+"id": "7461",
+"datetime": "20 July 2012 4:02:10 AM",
+"tz_datetime": "20 July 2012 4:02:10 AM +0900",
+"latitude": "-34.68639",
+"longitude": "19.425700000000006"
+},
+{
+"active": "1",
+"id": "7419",
+"datetime": "19 July 2012 5:56:03 PM",
+"tz_datetime": "19 July 2012 5:56:03 PM +0900",
+"latitude": "-34.67803",
+"longitude": "19.40595000000002"
+},
+{
+"active": "1",
+"id": "7371",
+"datetime": "18 July 2012 8:19:26 AM",
+"tz_datetime": "18 July 2012 8:19:26 AM +0900",
+"latitude": "-34.67056",
+"longitude": "19.36766"
+},
+{
+"active": "1",
+"id": "7329",
+"datetime": "17 July 2012 12:52:48 PM",
+"tz_datetime": "17 July 2012 12:52:48 PM +0900",
+"latitude": "-34.67634",
+"longitude": "19.36835000000002"
+},
+{
+"active": "1",
+"id": "7199",
+"datetime": "15 July 2012 4:22:18 AM",
+"tz_datetime": "15 July 2012 4:22:18 AM +0900",
+"latitude": "-34.67013",
+"longitude": "19.406439999999975"
+},
+{
+"active": "1",
+"id": "7200",
+"datetime": "15 July 2012 3:52:37 AM",
+"tz_datetime": "15 July 2012 3:52:37 AM +0900",
+"latitude": "-34.67119",
+"longitude": "19.40494000000001"
+},
+{
+"active": "1",
+"id": "7124",
+"datetime": "14 July 2012 11:07:40 PM",
+"tz_datetime": "14 July 2012 11:07:40 PM +0900",
+"latitude": "-34.66437",
+"longitude": "19.386619999999994"
+},
+{
+"active": "1",
+"id": "7131",
+"datetime": "14 July 2012 8:38:38 PM",
+"tz_datetime": "14 July 2012 8:38:38 PM +0900",
+"latitude": "-34.67364",
+"longitude": "19.390629999999987"
+},
+{
+"active": "1",
+"id": "7130",
+"datetime": "14 July 2012 7:58:36 PM",
+"tz_datetime": "14 July 2012 7:58:36 PM +0900",
+"latitude": "-34.68045",
+"longitude": "19.38276000000002"
+},
+{
+"active": "1",
+"id": "7129",
+"datetime": "14 July 2012 6:57:05 PM",
+"tz_datetime": "14 July 2012 6:57:05 PM +0900",
+"latitude": "-34.69357",
+"longitude": "19.388469999999984"
+},
+{
+"active": "1",
+"id": "7128",
+"datetime": "14 July 2012 12:04:55 PM",
+"tz_datetime": "14 July 2012 12:04:55 PM +0900",
+"latitude": "-34.67422",
+"longitude": "19.37457999999998"
+},
+{
+"active": "1",
+"id": "7127",
+"datetime": "14 July 2012 8:21:04 AM",
+"tz_datetime": "14 July 2012 8:21:04 AM +0900",
+"latitude": "-34.66212",
+"longitude": "19.368629999999996"
+},
+{
+"active": "1",
+"id": "7126",
+"datetime": "14 July 2012 6:36:02 AM",
+"tz_datetime": "14 July 2012 6:36:02 AM +0900",
+"latitude": "-34.66047",
+"longitude": "19.369860000000017"
+},
+{
+"active": "1",
+"id": "7125",
+"datetime": "14 July 2012 2:37:54 AM",
+"tz_datetime": "14 July 2012 2:37:54 AM +0900",
+"latitude": "-34.65408",
+"longitude": "19.37094000000002"
+},
+{
+"active": "1",
+"id": "7064",
+"datetime": "14 July 2012 12:54:24 AM",
+"tz_datetime": "14 July 2012 12:54:24 AM +0900",
+"latitude": "-34.65408",
+"longitude": "19.37094000000002"
+},
+{
+"active": "1",
+"id": "7067",
+"datetime": "13 July 2012 11:35:38 PM",
+"tz_datetime": "13 July 2012 11:35:38 PM +0900",
+"latitude": "-34.65407",
+"longitude": "19.370929999999987"
+},
+{
+"active": "1",
+"id": "7066",
+"datetime": "13 July 2012 10:27:22 PM",
+"tz_datetime": "13 July 2012 10:27:22 PM +0900",
+"latitude": "-34.98376",
+"longitude": "19.58978000000002"
+},
+{
+"active": "1",
+"id": "7065",
+"datetime": "13 July 2012 2:08:53 PM",
+"tz_datetime": "13 July 2012 2:08:53 PM +0900",
+"latitude": "-34.986",
+"longitude": "19.64749999999998"
+},
+{
+"active": "1",
+"id": "7050",
+"datetime": "12 July 2012 9:13:26 PM",
+"tz_datetime": "12 July 2012 9:13:26 PM +0900",
+"latitude": "-34.67676",
+"longitude": "19.40188999999998"
+},
+{
+"active": "1",
+"id": "6993",
+"datetime": "11 July 2012 7:31:49 PM",
+"tz_datetime": "11 July 2012 7:31:49 PM +0900",
+"latitude": "-34.68215",
+"longitude": "19.310879999999997"
+},
+{
+"active": "1",
+"id": "6748",
+"datetime": "10 July 2012 8:16:43 PM",
+"tz_datetime": "10 July 2012 8:16:43 PM +0900",
+"latitude": "-34.45073",
+"longitude": "19.2457"
+},
+{
+"active": "1",
+"id": "6789",
+"datetime": "10 July 2012 7:50:20 PM",
+"tz_datetime": "10 July 2012 7:50:20 PM +0900",
+"latitude": "-34.45465",
+"longitude": "19.220950000000016"
+},
+{
+"active": "1",
+"id": "6752",
+"datetime": "10 July 2012 7:48:52 PM",
+"tz_datetime": "10 July 2012 7:48:52 PM +0900",
+"latitude": "-34.45491",
+"longitude": "19.220610000000022"
+},
+{
+"active": "1",
+"id": "6751",
+"datetime": "10 July 2012 6:10:28 PM",
+"tz_datetime": "10 July 2012 6:10:28 PM +0900",
+"latitude": "-34.4269",
+"longitude": "19.16404"
+},
+{
+"active": "1",
+"id": "6749",
+"datetime": "10 July 2012 5:04:12 PM",
+"tz_datetime": "10 July 2012 5:04:12 PM +0900",
+"latitude": "-34.38817",
+"longitude": "19.061579999999992"
+},
+{
+"active": "1",
+"id": "6640",
+"datetime": "10 July 2012 1:41:07 AM",
+"tz_datetime": "10 July 2012 1:41:07 AM +0900",
+"latitude": "-34.6976",
+"longitude": "19.44634000000002"
+},
+{
+"active": "1",
+"id": "6608",
+"datetime": "9 July 2012 8:27:25 PM",
+"tz_datetime": "9 July 2012 8:27:25 PM +0900",
+"latitude": "-34.69315",
+"longitude": "19.44825000000003"
+},
+{
+"active": "1",
+"id": "6645",
+"datetime": "9 July 2012 8:14:19 PM",
+"tz_datetime": "9 July 2012 8:14:19 PM +0900",
+"latitude": "-34.6825",
+"longitude": "19.44909000000001"
+},
+{
+"active": "1",
+"id": "6644",
+"datetime": "9 July 2012 7:58:43 PM",
+"tz_datetime": "9 July 2012 7:58:43 PM +0900",
+"latitude": "-34.6821",
+"longitude": "19.44515999999999"
+},
+{
+"active": "1",
+"id": "6643",
+"datetime": "9 July 2012 6:38:53 PM",
+"tz_datetime": "9 July 2012 6:38:53 PM +0900",
+"latitude": "-34.65114",
+"longitude": "19.44200000000001"
+},
+{
+"active": "1",
+"id": "6609",
+"datetime": "9 July 2012 4:56:03 PM",
+"tz_datetime": "9 July 2012 4:56:03 PM +0900",
+"latitude": "-34.69255",
+"longitude": "19.45580000000001"
+},
+{
+"active": "1",
+"id": "6642",
+"datetime": "9 July 2012 3:31:13 AM",
+"tz_datetime": "9 July 2012 3:31:13 AM +0900",
+"latitude": "-34.68923",
+"longitude": "19.44720999999998"
+},
+{
+"active": "1",
+"id": "6641",
+"datetime": "9 July 2012 12:08:20 AM",
+"tz_datetime": "9 July 2012 12:08:20 AM +0900",
+"latitude": "-34.68122",
+"longitude": "19.44544999999999"
+},
+{
+"active": "1",
+"id": "6524",
+"datetime": "8 July 2012 8:15:09 PM",
+"tz_datetime": "8 July 2012 8:15:09 PM +0900",
+"latitude": "-34.69244",
+"longitude": "19.44780000000003"
+},
+{
+"active": "1",
+"id": "6523",
+"datetime": "8 July 2012 7:08:34 PM",
+"tz_datetime": "8 July 2012 7:08:34 PM +0900",
+"latitude": "-34.69595",
+"longitude": "19.45222000000001"
+},
+{
+"active": "1",
+"id": "6522",
+"datetime": "8 July 2012 6:32:39 PM",
+"tz_datetime": "8 July 2012 6:32:39 PM +0900",
+"latitude": "-34.69068",
+"longitude": "19.459249999999997"
+},
+{
+"active": "1",
+"id": "6521",
+"datetime": "8 July 2012 5:16:45 PM",
+"tz_datetime": "8 July 2012 5:16:45 PM +0900",
+"latitude": "-34.7208",
+"longitude": "19.444189999999992"
+},
+{
+"active": "1",
+"id": "6448",
+"datetime": "8 July 2012 2:30:32 PM",
+"tz_datetime": "8 July 2012 2:30:32 PM +0900",
+"latitude": "-34.74596",
+"longitude": "19.392510000000016"
+},
+{
+"active": "1",
+"id": "6508",
+"datetime": "8 July 2012 2:25:19 PM",
+"tz_datetime": "8 July 2012 2:25:19 PM +0900",
+"latitude": "-34.70413",
+"longitude": "19.41948000000002"
+},
+{
+"active": "1",
+"id": "6450",
+"datetime": "8 July 2012 4:53:48 AM",
+"tz_datetime": "8 July 2012 4:53:48 AM +0900",
+"latitude": "-34.69455",
+"longitude": "19.462210000000027"
+},
+{
+"active": "1",
+"id": "6407",
+"datetime": "7 July 2012 9:10:33 PM",
+"tz_datetime": "7 July 2012 9:10:33 PM +0900",
+"latitude": "-34.6504",
+"longitude": "19.420909999999992"
+},
+{
+"active": "1",
+"id": "6411",
+"datetime": "7 July 2012 8:21:23 PM",
+"tz_datetime": "7 July 2012 8:21:23 PM +0900",
+"latitude": "-34.64541",
+"longitude": "19.337260000000015"
+},
+{
+"active": "1",
+"id": "6410",
+"datetime": "7 July 2012 7:32:55 PM",
+"tz_datetime": "7 July 2012 7:32:55 PM +0900",
+"latitude": "-34.64797",
+"longitude": "19.347910000000013"
+},
+{
+"active": "1",
+"id": "6409",
+"datetime": "7 July 2012 7:17:16 PM",
+"tz_datetime": "7 July 2012 7:17:16 PM +0900",
+"latitude": "-34.65543",
+"longitude": "19.335019999999986"
+},
+{
+"active": "1",
+"id": "6408",
+"datetime": "7 July 2012 4:30:19 PM",
+"tz_datetime": "7 July 2012 4:30:19 PM +0900",
+"latitude": "-34.69152",
+"longitude": "19.43628000000001"
+},
+{
+"active": "1",
+"id": "6397",
+"datetime": "7 July 2012 2:48:26 PM",
+"tz_datetime": "7 July 2012 2:48:26 PM +0900",
+"latitude": "-34.68696",
+"longitude": "19.45258000000001"
+},
+{
+"active": "1",
+"id": "6333",
+"datetime": "7 July 2012 7:06:03 AM",
+"tz_datetime": "7 July 2012 7:06:03 AM +0900",
+"latitude": "-34.68627",
+"longitude": "19.451379999999972"
+},
+{
+"active": "1",
+"id": "6335",
+"datetime": "7 July 2012 12:46:48 AM",
+"tz_datetime": "7 July 2012 12:46:48 AM +0900",
+"latitude": "-34.68855",
+"longitude": "19.452470000000005"
+},
+{
+"active": "1",
+"id": "6334",
+"datetime": "6 July 2012 6:05:20 PM",
+"tz_datetime": "6 July 2012 6:05:20 PM +0900",
+"latitude": "-34.68878",
+"longitude": "19.448649999999986"
+},
+{
+"active": "1",
+"id": "6050",
+"datetime": "6 July 2012 9:09:50 AM",
+"tz_datetime": "6 July 2012 9:09:50 AM +0900",
+"latitude": "-34.69244",
+"longitude": "19.43965000000003"
+},
+{
+"active": "1",
+"id": "6049",
+"datetime": "5 July 2012 1:24:26 PM",
+"tz_datetime": "5 July 2012 1:24:26 PM +0900",
+"latitude": "-34.6886",
+"longitude": "19.43871999999999"
+},
+{
+"active": "1",
+"id": "6048",
+"datetime": "5 July 2012 9:35:26 AM",
+"tz_datetime": "5 July 2012 9:35:26 AM +0900",
+"latitude": "-34.69238",
+"longitude": "19.44135"
+},
+{
+"active": "1",
+"id": "6047",
+"datetime": "5 July 2012 6:52:00 AM",
+"tz_datetime": "5 July 2012 6:52:00 AM +0900",
+"latitude": "-34.69702",
+"longitude": "19.4418"
+},
+{
+"active": "1",
+"id": "6046",
+"datetime": "5 July 2012 12:51:57 AM",
+"tz_datetime": "5 July 2012 12:51:57 AM +0900",
+"latitude": "-34.69677",
+"longitude": "19.439189999999996"
+},
+{
+"active": "1",
+"id": "6045",
+"datetime": "4 July 2012 2:25:55 PM",
+"tz_datetime": "4 July 2012 2:25:55 PM +0900",
+"latitude": "-34.69269",
+"longitude": "19.41777000000002"
+},
+{
+"active": "1",
+"id": "6311",
+"datetime": "4 July 2012 12:06:45 PM",
+"tz_datetime": "4 July 2012 12:06:45 PM +0900",
+"latitude": "-34.68435",
+"longitude": "19.41913999999997"
+},
+{
+"active": "1",
+"id": "6044",
+"datetime": "4 July 2012 12:06:45 AM",
+"tz_datetime": "4 July 2012 12:06:45 AM +0900",
+"latitude": "-34.68435",
+"longitude": "19.41913999999997"
+},
+{
+"active": "1",
+"id": "6310",
+"datetime": "3 July 2012 12:19:51 PM",
+"tz_datetime": "3 July 2012 12:19:51 PM +0900",
+"latitude": "-34.69511",
+"longitude": "19.412930000000017"
+},
+{
+"active": "1",
+"id": "6043",
+"datetime": "3 July 2012 12:19:51 AM",
+"tz_datetime": "3 July 2012 12:19:51 AM +0900",
+"latitude": "-34.69511",
+"longitude": "19.412930000000017"
+},
+{
+"active": "1",
+"id": "5928",
+"datetime": "1 July 2012 6:05:59 AM",
+"tz_datetime": "1 July 2012 6:05:59 AM +0900",
+"latitude": "-34.69069",
+"longitude": "19.35142000000002"
+},
+{
+"active": "1",
+"id": "5927",
+"datetime": "1 July 2012 5:53:08 AM",
+"tz_datetime": "1 July 2012 5:53:08 AM +0900",
+"latitude": "-34.67401",
+"longitude": "19.373100000000022"
+},
+{
+"active": "1",
+"id": "5926",
+"datetime": "30 June 2012 9:57:35 PM",
+"tz_datetime": "30 June 2012 9:57:35 PM +0900",
+"latitude": "-34.7033",
+"longitude": "19.38977"
+},
+{
+"active": "1",
+"id": "5925",
+"datetime": "30 June 2012 6:46:58 PM",
+"tz_datetime": "30 June 2012 6:46:58 PM +0900",
+"latitude": "-34.6939",
+"longitude": "19.429269999999974"
+},
+{
+"active": "1",
+"id": "5924",
+"datetime": "30 June 2012 6:33:03 PM",
+"tz_datetime": "30 June 2012 6:33:03 PM +0900",
+"latitude": "-34.68523",
+"longitude": "19.426330000000007"
+},
+{
+"active": "1",
+"id": "5923",
+"datetime": "30 June 2012 5:09:54 PM",
+"tz_datetime": "30 June 2012 5:09:54 PM +0900",
+"latitude": "-34.68538",
+"longitude": "19.424840000000017"
+},
+{
+"active": "1",
+"id": "5921",
+"datetime": "30 June 2012 7:58:12 AM",
+"tz_datetime": "30 June 2012 7:58:12 AM +0900",
+"latitude": "-34.67958",
+"longitude": "19.425430000000006"
+},
+{
+"active": "1",
+"id": "6042",
+"datetime": "30 June 2012 3:43:08 AM",
+"tz_datetime": "30 June 2012 3:43:08 AM +0900",
+"latitude": "-34.67603",
+"longitude": "19.426199999999994"
+},
+{
+"active": "1",
+"id": "6041",
+"datetime": "30 June 2012 2:12:55 AM",
+"tz_datetime": "30 June 2012 2:12:55 AM +0900",
+"latitude": "-34.6699",
+"longitude": "19.428909999999973"
+},
+{
+"active": "1",
+"id": "5922",
+"datetime": "30 June 2012 12:45:45 AM",
+"tz_datetime": "30 June 2012 12:45:45 AM +0900",
+"latitude": "-34.68169",
+"longitude": "19.42171000000002"
+},
+{
+"active": "1",
+"id": "6040",
+"datetime": "29 June 2012 10:48:11 PM",
+"tz_datetime": "29 June 2012 10:48:11 PM +0900",
+"latitude": "-34.6727",
+"longitude": "19.422559999999976"
+},
+{
+"active": "1",
+"id": "6039",
+"datetime": "29 June 2012 8:18:59 AM",
+"tz_datetime": "29 June 2012 8:18:59 AM +0900",
+"latitude": "-34.69201",
+"longitude": "19.415939999999978"
+},
+{
+"active": "1",
+"id": "6038",
+"datetime": "29 June 2012 12:21:42 AM",
+"tz_datetime": "29 June 2012 12:21:42 AM +0900",
+"latitude": "-34.72478",
+"longitude": "19.421809999999994"
+},
+{
+"active": "1",
+"id": "5800",
+"datetime": "26 June 2012 1:30:25 PM",
+"tz_datetime": "26 June 2012 1:30:25 PM +0900",
+"latitude": "-34.70805",
+"longitude": "19.434270000000026"
+},
+{
+"active": "1",
+"id": "5799",
+"datetime": "25 June 2012 9:10:28 PM",
+"tz_datetime": "25 June 2012 9:10:28 PM +0900",
+"latitude": "-34.69164",
+"longitude": "19.41699"
+},
+{
+"active": "1",
+"id": "5798",
+"datetime": "25 June 2012 8:03:04 AM",
+"tz_datetime": "25 June 2012 8:03:04 AM +0900",
+"latitude": "-34.66538",
+"longitude": "19.414240000000007"
+},
+{
+"active": "1",
+"id": "5797",
+"datetime": "25 June 2012 6:19:23 AM",
+"tz_datetime": "25 June 2012 6:19:23 AM +0900",
+"latitude": "-34.65563",
+"longitude": "19.41527000000002"
+},
+{
+"active": "1",
+"id": "5796",
+"datetime": "25 June 2012 2:46:46 AM",
+"tz_datetime": "25 June 2012 2:46:46 AM +0900",
+"latitude": "-34.66099",
+"longitude": "19.416049999999984"
+},
+{
+"active": "1",
+"id": "5795",
+"datetime": "25 June 2012 2:29:40 AM",
+"tz_datetime": "25 June 2012 2:29:40 AM +0900",
+"latitude": "-34.65882",
+"longitude": "19.415909999999997"
+},
+{
+"active": "1",
+"id": "1122",
+"datetime": "24 June 2012 8:43:29 PM",
+"tz_datetime": "24 June 2012 8:43:29 PM +0900",
+"latitude": "-34.65526",
+"longitude": "19.42295000000001"
+},
+{
+"active": "1",
+"id": "1121",
+"datetime": "24 June 2012 7:40:58 PM",
+"tz_datetime": "24 June 2012 7:40:58 PM +0900",
+"latitude": "-34.65633",
+"longitude": "19.42316"
+},
+{
+"active": "1",
+"id": "1120",
+"datetime": "24 June 2012 7:30:18 PM",
+"tz_datetime": "24 June 2012 7:30:18 PM +0900",
+"latitude": "-34.64448",
+"longitude": "19.42516000000001"
+},
+{
+"active": "1",
+"id": "1119",
+"datetime": "24 June 2012 1:56:36 PM",
+"tz_datetime": "24 June 2012 1:56:36 PM +0900",
+"latitude": "-34.64306",
+"longitude": "19.40764999999999"
+},
+{
+"active": "1",
+"id": "1118",
+"datetime": "23 June 2012 7:57:53 PM",
+"tz_datetime": "23 June 2012 7:57:53 PM +0900",
+"latitude": "-34.65176",
+"longitude": "19.41311000000002"
+},
+{
+"active": "1",
+"id": "1117",
+"datetime": "23 June 2012 7:22:10 PM",
+"tz_datetime": "23 June 2012 7:22:10 PM +0900",
+"latitude": "-34.65135",
+"longitude": "19.41293999999999"
+},
+{
+"active": "1",
+"id": "1116",
+"datetime": "23 June 2012 6:13:21 PM",
+"tz_datetime": "23 June 2012 6:13:21 PM +0900",
+"latitude": "-34.6521",
+"longitude": "19.41520000000003"
+},
+{
+"active": "1",
+"id": "1115",
+"datetime": "23 June 2012 6:10:52 PM",
+"tz_datetime": "23 June 2012 6:10:52 PM +0900",
+"latitude": "-34.65062",
+"longitude": "19.41505000000001"
+},
+{
+"active": "1",
+"id": "1114",
+"datetime": "23 June 2012 5:14:52 PM",
+"tz_datetime": "23 June 2012 5:14:52 PM +0900",
+"latitude": "-34.66026",
+"longitude": "19.41430000000003"
+},
+{
+"active": "1",
+"id": "1113",
+"datetime": "23 June 2012 3:31:17 PM",
+"tz_datetime": "23 June 2012 3:31:17 PM +0900",
+"latitude": "-34.6518",
+"longitude": "19.40316999999999"
+},
+{
+"active": "1",
+"id": "1112",
+"datetime": "22 June 2012 12:22:52 AM",
+"tz_datetime": "22 June 2012 12:22:52 AM +0900",
+"latitude": "-34.66969",
+"longitude": "19.40471000000002"
+},
+{
+"active": "1",
+"id": "1110",
+"datetime": "21 June 2012 2:23:41 AM",
+"tz_datetime": "21 June 2012 2:23:41 AM +0900",
+"latitude": "-34.67111",
+"longitude": "19.40643"
+},
+{
+"active": "1",
+"id": "1111",
+"datetime": "21 June 2012 12:50:11 AM",
+"tz_datetime": "21 June 2012 12:50:11 AM +0900",
+"latitude": "-34.66071",
+"longitude": "19.41667999999999"
+},
+{
+"active": "1",
+"id": "1108",
+"datetime": "20 June 2012 10:38:54 PM",
+"tz_datetime": "20 June 2012 10:38:54 PM +0900",
+"latitude": "-34.67319",
+"longitude": "19.39098999999999"
+},
+{
+"active": "1",
+"id": "1107",
+"datetime": "20 June 2012 7:19:28 PM",
+"tz_datetime": "20 June 2012 7:19:28 PM +0900",
+"latitude": "-34.67975",
+"longitude": "19.38580999999999"
+},
+{
+"active": "1",
+"id": "1106",
+"datetime": "20 June 2012 6:47:01 PM",
+"tz_datetime": "20 June 2012 6:47:01 PM +0900",
+"latitude": "-34.68556",
+"longitude": "19.37729999999999"
+},
+{
+"active": "1",
+"id": "1105",
+"datetime": "20 June 2012 8:06:51 AM",
+"tz_datetime": "20 June 2012 8:06:51 AM +0900",
+"latitude": "-34.69818",
+"longitude": "19.37669"
+},
+{
+"active": "1",
+"id": "1104",
+"datetime": "19 June 2012 5:15:28 PM",
+"tz_datetime": "19 June 2012 5:15:28 PM +0900",
+"latitude": "-34.68586",
+"longitude": "19.39393000000001"
+},
+{
+"active": "1",
+"id": "1103",
+"datetime": "19 June 2012 3:30:00 PM",
+"tz_datetime": "19 June 2012 3:30:00 PM +0900",
+"latitude": "-34.68282",
+"longitude": "19.39769999999999"
+},
+{
+"active": "1",
+"id": "1102",
+"datetime": "19 June 2012 2:42:06 PM",
+"tz_datetime": "19 June 2012 2:42:06 PM +0900",
+"latitude": "-34.65399",
+"longitude": "19.40070000000003"
+},
+{
+"active": "1",
+"id": "1101",
+"datetime": "19 June 2012 1:08:31 PM",
+"tz_datetime": "19 June 2012 1:08:31 PM +0900",
+"latitude": "-34.65542",
+"longitude": "19.40562999999997"
+},
+{
+"active": "1",
+"id": "1099",
+"datetime": "19 June 2012 11:27:12 AM",
+"tz_datetime": "19 June 2012 11:27:12 AM +0900",
+"latitude": "-34.6656",
+"longitude": "19.43277"
+},
+{
+"active": "1",
+"id": "1100",
+"datetime": "19 June 2012 12:50:56 AM",
+"tz_datetime": "19 June 2012 12:50:56 AM +0900",
+"latitude": "-34.65461",
+"longitude": "19.41714999999999"
+},
+{
+"active": "1",
+"id": "1098",
+"datetime": "18 June 2012 10:45:04 PM",
+"tz_datetime": "18 June 2012 10:45:04 PM +0900",
+"latitude": "-34.68331",
+"longitude": "19.41507000000001"
+},
+{
+"active": "1",
+"id": "1097",
+"datetime": "18 June 2012 8:52:57 PM",
+"tz_datetime": "18 June 2012 8:52:57 PM +0900",
+"latitude": "-34.68562",
+"longitude": "19.41698000000002"
+},
+{
+"active": "1",
+"id": "1096",
+"datetime": "18 June 2012 3:34:07 AM",
+"tz_datetime": "18 June 2012 3:34:07 AM +0900",
+"latitude": "-34.69676",
+"longitude": "19.42396000000002"
+},
+{
+"active": "1",
+"id": "1095",
+"datetime": "18 June 2012 1:58:54 AM",
+"tz_datetime": "18 June 2012 1:58:54 AM +0900",
+"latitude": "-34.69516",
+"longitude": "19.42516999999998"
+},
+{
+"active": "1",
+"id": "1094",
+"datetime": "18 June 2012 12:54:58 AM",
+"tz_datetime": "18 June 2012 12:54:58 AM +0900",
+"latitude": "-34.69365",
+"longitude": "19.42394999999999"
+},
+{
+"active": "1",
+"id": "1093",
+"datetime": "18 June 2012 12:41:20 AM",
+"tz_datetime": "18 June 2012 12:41:20 AM +0900",
+"latitude": "-34.69362",
+"longitude": "19.42390999999998"
+},
+{
+"active": "1",
+"id": "1092",
+"datetime": "17 June 2012 11:14:28 PM",
+"tz_datetime": "17 June 2012 11:14:28 PM +0900",
+"latitude": "-34.677",
+"longitude": "19.44087000000002"
+},
+{
+"active": "1",
+"id": "1091",
+"datetime": "17 June 2012 11:00:28 PM",
+"tz_datetime": "17 June 2012 11:00:28 PM +0900",
+"latitude": "-34.68562",
+"longitude": "19.44367"
+},
+{
+"active": "1",
+"id": "1090",
+"datetime": "17 June 2012 9:26:01 PM",
+"tz_datetime": "17 June 2012 9:26:01 PM +0900",
+"latitude": "-34.69099",
+"longitude": "19.42514"
+},
+{
+"active": "1",
+"id": "1089",
+"datetime": "17 June 2012 5:45:06 PM",
+"tz_datetime": "17 June 2012 5:45:06 PM +0900",
+"latitude": "-34.68953",
+"longitude": "19.40237000000002"
+},
+{
+"active": "1",
+"id": "1088",
+"datetime": "17 June 2012 2:36:30 PM",
+"tz_datetime": "17 June 2012 2:36:30 PM +0900",
+"latitude": "-34.69195",
+"longitude": "19.40600999999998"
+},
+{
+"active": "1",
+"id": "1087",
+"datetime": "17 June 2012 2:35:03 AM",
+"tz_datetime": "17 June 2012 2:35:03 AM +0900",
+"latitude": "-34.67728",
+"longitude": "19.41530999999998"
+},
+{
+"active": "1",
+"id": "1086",
+"datetime": "17 June 2012 1:04:35 AM",
+"tz_datetime": "17 June 2012 1:04:35 AM +0900",
+"latitude": "-34.67467",
+"longitude": "19.41520000000003"
+},
+{
+"active": "1",
+"id": "1085",
+"datetime": "17 June 2012 12:51:33 AM",
+"tz_datetime": "17 June 2012 12:51:33 AM +0900",
+"latitude": "-34.67216",
+"longitude": "19.40721000000002"
+},
+{
+"active": "1",
+"id": "1084",
+"datetime": "16 June 2012 11:23:38 PM",
+"tz_datetime": "16 June 2012 11:23:38 PM +0900",
+"latitude": "-34.67268",
+"longitude": "19.40717999999998"
+},
+{
+"active": "1",
+"id": "1083",
+"datetime": "16 June 2012 7:48:02 AM",
+"tz_datetime": "16 June 2012 7:48:02 AM +0900",
+"latitude": "-34.63101",
+"longitude": "19.15859999999998"
+},
+{
+"active": "1",
+"id": "1082",
+"datetime": "16 June 2012 7:11:07 AM",
+"tz_datetime": "16 June 2012 7:11:07 AM +0900",
+"latitude": "-34.63957",
+"longitude": "19.25000999999997"
+},
+{
+"active": "1",
+"id": "1081",
+"datetime": "15 June 2012 1:48:07 PM",
+"tz_datetime": "15 June 2012 1:48:07 PM +0900",
+"latitude": "-34.67255",
+"longitude": "19.33852000000002"
+},
+{
+"active": "1",
+"id": "1080",
+"datetime": "15 June 2012 1:44:53 PM",
+"tz_datetime": "15 June 2012 1:44:53 PM +0900",
+"latitude": "-34.66601",
+"longitude": "19.31893000000002"
+},
+{
+"active": "1",
+"id": "1079",
+"datetime": "15 June 2012 8:08:53 AM",
+"tz_datetime": "15 June 2012 8:08:53 AM +0900",
+"latitude": "-34.67035",
+"longitude": "19.34872000000001"
+},
+{
+"active": "1",
+"id": "1078",
+"datetime": "14 June 2012 8:28:47 AM",
+"tz_datetime": "14 June 2012 8:28:47 AM +0900",
+"latitude": "-34.66421",
+"longitude": "19.36860999999999"
+},
+{
+"active": "1",
+"id": "1077",
+"datetime": "14 June 2012 7:37:40 AM",
+"tz_datetime": "14 June 2012 7:37:40 AM +0900",
+"latitude": "-34.65948",
+"longitude": "19.37689"
+},
+{
+"active": "1",
+"id": "1076",
+"datetime": "14 June 2012 6:45:17 AM",
+"tz_datetime": "14 June 2012 6:45:17 AM +0900",
+"latitude": "-34.66613",
+"longitude": "19.38997999999998"
+},
+{
+"active": "1",
+"id": "1075",
+"datetime": "14 June 2012 6:09:13 AM",
+"tz_datetime": "14 June 2012 6:09:13 AM +0900",
+"latitude": "-34.69037",
+"longitude": "19.50963000000002"
+},
+{
+"active": "1",
+"id": "1074",
+"datetime": "14 June 2012 1:52:17 AM",
+"tz_datetime": "14 June 2012 1:52:17 AM +0900",
+"latitude": "-34.67996",
+"longitude": "19.42196999999999"
+},
+{
+"active": "1",
+"id": "1073",
+"datetime": "14 June 2012 1:20:21 AM",
+"tz_datetime": "14 June 2012 1:20:21 AM +0900",
+"latitude": "-34.6888",
+"longitude": "19.44186000000002"
+},
+{
+"active": "1",
+"id": "1072",
+"datetime": "13 June 2012 11:44:39 PM",
+"tz_datetime": "13 June 2012 11:44:39 PM +0900",
+"latitude": "-34.67221",
+"longitude": "19.38772999999998"
+},
+{
+"active": "1",
+"id": "1071",
+"datetime": "13 June 2012 1:34:24 AM",
+"tz_datetime": "13 June 2012 1:34:24 AM +0900",
+"latitude": "-34.92994",
+"longitude": "19.79646000000002"
+},
+{
+"active": "1",
+"id": "1070",
+"datetime": "12 June 2012 7:53:30 PM",
+"tz_datetime": "12 June 2012 7:53:30 PM +0900",
+"latitude": "-34.7415",
+"longitude": "19.39902999999998"
+},
+{
+"active": "1",
+"id": "1069",
+"datetime": "12 June 2012 7:17:19 PM",
+"tz_datetime": "12 June 2012 7:17:19 PM +0900",
+"latitude": "-34.7255",
+"longitude": "19.33053000000001"
+},
+{
+"active": "1",
+"id": "1068",
+"datetime": "12 June 2012 6:46:25 PM",
+"tz_datetime": "12 June 2012 6:46:25 PM +0900",
+"latitude": "-34.69398",
+"longitude": "19.25387000000001"
+},
+{
+"active": "1",
+"id": "1067",
+"datetime": "12 June 2012 5:32:08 PM",
+"tz_datetime": "12 June 2012 5:32:08 PM +0900",
+"latitude": "-34.65061",
+"longitude": "19.09413999999998"
+},
+{
+"active": "1",
+"id": "1066",
+"datetime": "12 June 2012 9:07:47 AM",
+"tz_datetime": "12 June 2012 9:07:47 AM +0900",
+"latitude": "-34.72574",
+"longitude": "19.31065000000001"
+},
+{
+"active": "1",
+"id": "1065",
+"datetime": "12 June 2012 7:57:49 AM",
+"tz_datetime": "12 June 2012 7:57:49 AM +0900",
+"latitude": "-34.7326",
+"longitude": "19.45414"
+},
+{
+"active": "1",
+"id": "1063",
+"datetime": "11 June 2012 7:54:32 AM",
+"tz_datetime": "11 June 2012 7:54:32 AM +0900",
+"latitude": "-34.68714",
+"longitude": "19.36441000000002"
+},
+{
+"active": "1",
+"id": "1064",
+"datetime": "11 June 2012 12:44:39 AM",
+"tz_datetime": "11 June 2012 12:44:39 AM +0900",
+"latitude": "-34.69195",
+"longitude": "19.35622000000001"
+},
+{
+"active": "1",
+"id": "1062",
+"datetime": "9 June 2012 1:14:40 PM",
+"tz_datetime": "9 June 2012 1:14:40 PM +0900",
+"latitude": "-34.6567",
+"longitude": "19.39442000000003"
+},
+{
+"active": "1",
+"id": "1061",
+"datetime": "9 June 2012 1:09:10 PM",
+"tz_datetime": "9 June 2012 1:09:10 PM +0900",
+"latitude": "-34.66142",
+"longitude": "19.36768999999998"
+},
+{
+"active": "1",
+"id": "1060",
+"datetime": "7 June 2012 5:02:23 PM",
+"tz_datetime": "7 June 2012 5:02:23 PM +0900",
+"latitude": "-34.6989",
+"longitude": "19.52163000000002"
+},
+{
+"active": "1",
+"id": "1059",
+"datetime": "7 June 2012 3:07:13 PM",
+"tz_datetime": "7 June 2012 3:07:13 PM +0900",
+"latitude": "-34.69354",
+"longitude": "19.50429000000003"
+},
+{
+"active": "1",
+"id": "1058",
+"datetime": "6 June 2012 1:37:40 PM",
+"tz_datetime": "6 June 2012 1:37:40 PM +0900",
+"latitude": "-34.77696",
+"longitude": "19.73423000000003"
+},
+{
+"active": "1",
+"id": "1057",
+"datetime": "6 June 2012 11:57:42 AM",
+"tz_datetime": "6 June 2012 11:57:42 AM +0900",
+"latitude": "-34.80239",
+"longitude": "19.79730999999998"
+},
+{
+"active": "1",
+"id": "1056",
+"datetime": "6 June 2012 7:58:22 AM",
+"tz_datetime": "6 June 2012 7:58:22 AM +0900",
+"latitude": "-34.89587",
+"longitude": "19.93162000000001"
+},
+{
+"active": "1",
+"id": "1055",
+"datetime": "5 June 2012 4:14:36 PM",
+"tz_datetime": "5 June 2012 4:14:36 PM +0900",
+"latitude": "-34.82122",
+"longitude": "19.75587000000002"
+},
+{
+"active": "1",
+"id": "1054",
+"datetime": "5 June 2012 3:31:33 PM",
+"tz_datetime": "5 June 2012 3:31:33 PM +0900",
+"latitude": "-34.81915",
+"longitude": "19.76310999999998"
+},
+{
+"active": "1",
+"id": "1053",
+"datetime": "5 June 2012 2:30:16 PM",
+"tz_datetime": "5 June 2012 2:30:16 PM +0900",
+"latitude": "-34.80723",
+"longitude": "19.73309999999998"
+},
+{
+"active": "1",
+"id": "1052",
+"datetime": "5 June 2012 1:55:47 PM",
+"tz_datetime": "5 June 2012 1:55:47 PM +0900",
+"latitude": "-34.81159",
+"longitude": "19.73201999999998"
+},
+{
+"active": "1",
+"id": "1051",
+"datetime": "5 June 2012 1:44:51 PM",
+"tz_datetime": "5 June 2012 1:44:51 PM +0900",
+"latitude": "-34.79778",
+"longitude": "19.70706000000001"
+},
+{
+"active": "1",
+"id": "1050",
+"datetime": "5 June 2012 4:43:58 AM",
+"tz_datetime": "5 June 2012 4:43:58 AM +0900",
+"latitude": "-34.79661",
+"longitude": "19.70535000000001"
+},
+{
+"active": "1",
+"id": "1049",
+"datetime": "5 June 2012 4:26:10 AM",
+"tz_datetime": "5 June 2012 4:26:10 AM +0900",
+"latitude": "-34.79671",
+"longitude": "19.70551999999998"
+},
+{
+"active": "1",
+"id": "1048",
+"datetime": "5 June 2012 3:50:46 AM",
+"tz_datetime": "5 June 2012 3:50:46 AM +0900",
+"latitude": "-34.79225",
+"longitude": "19.6986"
+},
+{
+"active": "1",
+"id": "1047",
+"datetime": "5 June 2012 1:20:33 AM",
+"tz_datetime": "5 June 2012 1:20:33 AM +0900",
+"latitude": "-34.73772",
+"longitude": "19.59267999999997"
+},
+{
+"active": "1",
+"id": "1046",
+"datetime": "4 June 2012 11:53:13 PM",
+"tz_datetime": "4 June 2012 11:53:13 PM +0900",
+"latitude": "-34.73615",
+"longitude": "19.59377999999998"
+},
+{
+"active": "1",
+"id": "1045",
+"datetime": "4 June 2012 11:39:13 PM",
+"tz_datetime": "4 June 2012 11:39:13 PM +0900",
+"latitude": "-34.79193",
+"longitude": "19.55671999999998"
+},
+{
+"active": "1",
+"id": "1043",
+"datetime": "4 June 2012 7:55:15 AM",
+"tz_datetime": "4 June 2012 7:55:15 AM +0900",
+"latitude": "-34.76962",
+"longitude": "19.63062000000002"
+},
+{
+"active": "1",
+"id": "1042",
+"datetime": "4 June 2012 5:06:59 AM",
+"tz_datetime": "4 June 2012 5:06:59 AM +0900",
+"latitude": "-34.77194",
+"longitude": "19.63288999999997"
+},
+{
+"active": "1",
+"id": "1044",
+"datetime": "4 June 2012 12:31:14 AM",
+"tz_datetime": "4 June 2012 12:31:14 AM +0900",
+"latitude": "-34.81089",
+"longitude": "19.68484999999998"
+},
+{
+"active": "1",
+"id": "1041",
+"datetime": "1 June 2012 9:38:35 AM",
+"tz_datetime": "1 June 2012 9:38:35 AM +0900",
+"latitude": "-34.81104",
+"longitude": "19.70186000000001"
+},
+{
+"active": "1",
+"id": "1040",
+"datetime": "30 May 2012 12:53:10 AM",
+"tz_datetime": "30 May 2012 12:53:10 AM +0900",
+"latitude": "-34.78801",
+"longitude": "19.66770000000002"
+},
+{
+"active": "1",
+"id": "1039",
+"datetime": "29 May 2012 1:03:19 AM",
+"tz_datetime": "29 May 2012 1:03:19 AM +0900",
+"latitude": "-34.79072",
+"longitude": "19.64411999999999"
+},
+{
+"active": "1",
+"id": "1037",
+"datetime": "28 May 2012 9:20:44 AM",
+"tz_datetime": "28 May 2012 9:20:44 AM +0900",
+"latitude": "-34.76936",
+"longitude": "19.69403999999997"
+},
+{
+"active": "1",
+"id": "1036",
+"datetime": "28 May 2012 7:36:26 AM",
+"tz_datetime": "28 May 2012 7:36:26 AM +0900",
+"latitude": "-34.76457",
+"longitude": "19.69182000000001"
+},
+{
+"active": "1",
+"id": "1035",
+"datetime": "28 May 2012 7:36:00 AM",
+"tz_datetime": "28 May 2012 7:36:00 AM +0900",
+"latitude": "-34.76451",
+"longitude": "19.69851"
+},
+{
+"active": "1",
+"id": "1034",
+"datetime": "28 May 2012 1:13:28 AM",
+"tz_datetime": "28 May 2012 1:13:28 AM +0900",
+"latitude": "-34.7865",
+"longitude": "19.69099"
+},
+{
+"active": "1",
+"id": "1033",
+"datetime": "27 May 2012 3:31:54 PM",
+"tz_datetime": "27 May 2012 3:31:54 PM +0900",
+"latitude": "-34.79785",
+"longitude": "19.67746999999997"
+},
+{
+"active": "1",
+"id": "1032",
+"datetime": "27 May 2012 8:01:23 AM",
+"tz_datetime": "27 May 2012 8:01:23 AM +0900",
+"latitude": "-34.80627",
+"longitude": "19.65284000000003"
+},
+{
+"active": "1",
+"id": "1031",
+"datetime": "27 May 2012 7:54:14 AM",
+"tz_datetime": "27 May 2012 7:54:14 AM +0900",
+"latitude": "-34.82777",
+"longitude": "19.65400999999997"
+},
+{
+"active": "1",
+"id": "1030",
+"datetime": "21 May 2012 12:44:05 AM",
+"tz_datetime": "21 May 2012 12:44:05 AM +0900",
+"latitude": "-34.79704",
+"longitude": "19.75078000000002"
+},
+{
+"active": "1",
+"id": "1029",
+"datetime": "21 May 2012 12:43:39 AM",
+"tz_datetime": "21 May 2012 12:43:39 AM +0900",
+"latitude": "-34.79672",
+"longitude": "19.72638000000001"
+},
+{
+"active": "1",
+"id": "1028",
+"datetime": "20 May 2012 3:56:32 PM",
+"tz_datetime": "20 May 2012 3:56:32 PM +0900",
+"latitude": "-34.79093",
+"longitude": "19.73705999999999"
+},
+{
+"active": "1",
+"id": "1027",
+"datetime": "20 May 2012 3:40:35 AM",
+"tz_datetime": "20 May 2012 3:40:35 AM +0900",
+"latitude": "-34.79865",
+"longitude": "19.73412000000002"
+},
+{
+"active": "1",
+"id": "1026",
+"datetime": "19 May 2012 8:13:17 PM",
+"tz_datetime": "19 May 2012 8:13:17 PM +0900",
+"latitude": "-34.80007",
+"longitude": "19.72125"
+},
+{
+"active": "1",
+"id": "1025",
+"datetime": "16 May 2012 1:56:52 AM",
+"tz_datetime": "16 May 2012 1:56:52 AM +0900",
+"latitude": "-34.77807",
+"longitude": "19.64301"
+},
+{
+"active": "1",
+"id": "1024",
+"datetime": "14 May 2012 5:18:14 PM",
+"tz_datetime": "14 May 2012 5:18:14 PM +0900",
+"latitude": "-34.78893",
+"longitude": "19.67655999999999"
+},
+{
+"active": "1",
+"id": "1023",
+"datetime": "6 May 2012 7:16:13 PM",
+"tz_datetime": "6 May 2012 7:16:13 PM +0900",
+"latitude": "-34.791",
+"longitude": "19.663"
+},
+{
+"active": "1",
+"id": "1022",
+"datetime": "6 May 2012 12:37:20 AM",
+"tz_datetime": "6 May 2012 12:37:20 AM +0900",
+"latitude": "-34.806",
+"longitude": "19.65"
+},
+{
+"active": "1",
+"id": "1021",
+"datetime": "5 May 2012 9:22:12 PM",
+"tz_datetime": "5 May 2012 9:22:12 PM +0900",
+"latitude": "-34.793",
+"longitude": "19.667"
+},
+{
+"active": "1",
+"id": "1019",
+"datetime": "5 May 2012 7:40:32 PM",
+"tz_datetime": "5 May 2012 7:40:32 PM +0900",
+"latitude": "-34.793",
+"longitude": "19.671"
+},
+{
+"active": "1",
+"id": "1018",
+"datetime": "5 May 2012 7:38:43 PM",
+"tz_datetime": "5 May 2012 7:38:43 PM +0900",
+"latitude": "-34.786",
+"longitude": "19.682"
+},
+{
+"active": "1",
+"id": "1017",
+"datetime": "5 May 2012 2:26:34 PM",
+"tz_datetime": "5 May 2012 2:26:34 PM +0900",
+"latitude": "-34.775",
+"longitude": "19.692"
+},
+{
+"active": "1",
+"id": "1015",
+"datetime": "5 May 2012 11:03:24 AM",
+"tz_datetime": "5 May 2012 11:03:24 AM +0900",
+"latitude": "-34.774",
+"longitude": "19.699"
+},
+{
+"active": "1",
+"id": "1014",
+"datetime": "5 May 2012 5:10:44 AM",
+"tz_datetime": "5 May 2012 5:10:44 AM +0900",
+"latitude": "-34.791",
+"longitude": "19.679"
+},
+{
+"active": "1",
+"id": "1013",
+"datetime": "4 May 2012 9:38:25 PM",
+"tz_datetime": "4 May 2012 9:38:25 PM +0900",
+"latitude": "-34.8",
+"longitude": "19.69"
+},
+{
+"active": "1",
+"id": "1012",
+"datetime": "4 May 2012 7:30:27 PM",
+"tz_datetime": "4 May 2012 7:30:27 PM +0900",
+"latitude": "-34.793",
+"longitude": "19.705"
+},
+{
+"active": "1",
+"id": "1011",
+"datetime": "4 May 2012 6:06:01 PM",
+"tz_datetime": "4 May 2012 6:06:01 PM +0900",
+"latitude": "-34.791",
+"longitude": "19.737"
+},
+{
+"active": "1",
+"id": "1009",
+"datetime": "4 May 2012 9:14:22 AM",
+"tz_datetime": "4 May 2012 9:14:22 AM +0900",
+"latitude": "-34.775",
+"longitude": "19.752"
+},
+{
+"active": "1",
+"id": "1010",
+"datetime": "4 May 2012 12:59:00 AM",
+"tz_datetime": "4 May 2012 12:59:00 AM +0900",
+"latitude": "-34.78",
+"longitude": "19.756"
+},
+{
+"active": "1",
+"id": "1008",
+"datetime": "3 May 2012 8:00:26 PM",
+"tz_datetime": "3 May 2012 8:00:26 PM +0900",
+"latitude": "-34.782",
+"longitude": "19.699"
+},
+{
+"active": "1",
+"id": "1007",
+"datetime": "3 May 2012 7:57:23 PM",
+"tz_datetime": "3 May 2012 7:57:23 PM +0900",
+"latitude": "-34.784",
+"longitude": "19.673"
+},
+{
+"active": "1",
+"id": "1006",
+"datetime": "3 May 2012 4:11:32 PM",
+"tz_datetime": "3 May 2012 4:11:32 PM +0900",
+"latitude": "-34.792",
+"longitude": "19.656"
+},
+{
+"active": "1",
+"id": "1005",
+"datetime": "2 May 2012 6:45:31 PM",
+"tz_datetime": "2 May 2012 6:45:31 PM +0900",
+"latitude": "-34.795",
+"longitude": "19.68"
+},
+{
+"active": "1",
+"id": "1004",
+"datetime": "2 May 2012 4:39:55 PM",
+"tz_datetime": "2 May 2012 4:39:55 PM +0900",
+"latitude": "-34.797",
+"longitude": "19.679"
+},
+{
+"active": "1",
+"id": "1003",
+"datetime": "2 May 2012 1:19:53 PM",
+"tz_datetime": "2 May 2012 1:19:53 PM +0900",
+"latitude": "-34.793",
+"longitude": "19.691"
+},
+{
+"active": "1",
+"id": "1002",
+"datetime": "1 May 2012 3:11:59 PM",
+"tz_datetime": "1 May 2012 3:11:59 PM +0900",
+"latitude": "-34.799",
+"longitude": "19.694"
+},
+{
+"active": "1",
+"id": "1001",
+"datetime": "1 May 2012 1:04:11 AM",
+"tz_datetime": "1 May 2012 1:04:11 AM +0900",
+"latitude": "-34.797",
+"longitude": "19.691"
+},
+{
+"active": "1",
+"id": "1000",
+"datetime": "1 May 2012 12:57:55 AM",
+"tz_datetime": "1 May 2012 12:57:55 AM +0900",
+"latitude": "-34.792",
+"longitude": "19.692"
+},
+{
+"active": "1",
+"id": "999",
+"datetime": "30 April 2012 11:28:33 PM",
+"tz_datetime": "30 April 2012 11:28:33 PM +0900",
+"latitude": "-34.785",
+"longitude": "19.691"
+},
+{
+"active": "1",
+"id": "998",
+"datetime": "30 April 2012 6:59:35 PM",
+"tz_datetime": "30 April 2012 6:59:35 PM +0900",
+"latitude": "-34.788",
+"longitude": "19.685"
+},
+{
+"active": "1",
+"id": "997",
+"datetime": "30 April 2012 7:16:13 AM",
+"tz_datetime": "30 April 2012 7:16:13 AM +0900",
+"latitude": "-34.788",
+"longitude": "19.666"
+},
+{
+"active": "1",
+"id": "995",
+"datetime": "29 April 2012 5:05:01 AM",
+"tz_datetime": "29 April 2012 5:05:01 AM +0900",
+"latitude": "-34.788",
+"longitude": "19.652"
+},
+{
+"active": "1",
+"id": "994",
+"datetime": "29 April 2012 1:29:46 AM",
+"tz_datetime": "29 April 2012 1:29:46 AM +0900",
+"latitude": "-34.788",
+"longitude": "19.653"
+},
+{
+"active": "1",
+"id": "996",
+"datetime": "29 April 2012 12:10:04 AM",
+"tz_datetime": "29 April 2012 12:10:04 AM +0900",
+"latitude": "-34.787",
+"longitude": "19.651"
+},
+{
+"active": "1",
+"id": "993",
+"datetime": "25 April 2012 7:26:58 AM",
+"tz_datetime": "25 April 2012 7:26:58 AM +0900",
+"latitude": "-34.8",
+"longitude": "19.681"
+},
+{
+"active": "1",
+"id": "992",
+"datetime": "25 April 2012 12:32:59 AM",
+"tz_datetime": "25 April 2012 12:32:59 AM +0900",
+"latitude": "-34.8",
+"longitude": "19.683"
+},
+{
+"active": "1",
+"id": "991",
+"datetime": "25 April 2012 12:24:53 AM",
+"tz_datetime": "25 April 2012 12:24:53 AM +0900",
+"latitude": "-34.799",
+"longitude": "19.672"
+},
+{
+"active": "1",
+"id": "990",
+"datetime": "24 April 2012 6:25:01 PM",
+"tz_datetime": "24 April 2012 6:25:01 PM +0900",
+"latitude": "-34.846",
+"longitude": "19.947"
+},
+{
+"active": "1",
+"id": "988",
+"datetime": "23 April 2012 1:12:01 PM",
+"tz_datetime": "23 April 2012 1:12:01 PM +0900",
+"latitude": "-34.741",
+"longitude": "20.134"
+},
+{
+"active": "1",
+"id": "987",
+"datetime": "23 April 2012 11:29:49 AM",
+"tz_datetime": "23 April 2012 11:29:49 AM +0900",
+"latitude": "-34.739",
+"longitude": "20.126"
+},
+{
+"active": "1",
+"id": "986",
+"datetime": "23 April 2012 8:01:25 AM",
+"tz_datetime": "23 April 2012 8:01:25 AM +0900",
+"latitude": "-34.793",
+"longitude": "20.101"
+},
+{
+"active": "1",
+"id": "984",
+"datetime": "23 April 2012 6:21:00 AM",
+"tz_datetime": "23 April 2012 6:21:00 AM +0900",
+"latitude": "-34.792",
+"longitude": "20.09"
+},
+{
+"active": "1",
+"id": "983",
+"datetime": "23 April 2012 6:20:20 AM",
+"tz_datetime": "23 April 2012 6:20:20 AM +0900",
+"latitude": "-34.781",
+"longitude": "20.051"
+},
+{
+"active": "1",
+"id": "982",
+"datetime": "23 April 2012 4:54:47 AM",
+"tz_datetime": "23 April 2012 4:54:47 AM +0900",
+"latitude": "-34.801",
+"longitude": "20.076"
+},
+{
+"active": "1",
+"id": "981",
+"datetime": "23 April 2012 4:40:07 AM",
+"tz_datetime": "23 April 2012 4:40:07 AM +0900",
+"latitude": "-34.805",
+"longitude": "20.069"
+},
+{
+"active": "1",
+"id": "980",
+"datetime": "23 April 2012 4:35:37 AM",
+"tz_datetime": "23 April 2012 4:35:37 AM +0900",
+"latitude": "-34.776",
+"longitude": "20.118"
+},
+{
+"active": "1",
+"id": "979",
+"datetime": "23 April 2012 3:00:39 AM",
+"tz_datetime": "23 April 2012 3:00:39 AM +0900",
+"latitude": "-34.772",
+"longitude": "20.112"
+},
+{
+"active": "1",
+"id": "978",
+"datetime": "23 April 2012 2:33:19 AM",
+"tz_datetime": "23 April 2012 2:33:19 AM +0900",
+"latitude": "-34.749",
+"longitude": "20.103"
+},
+{
+"active": "1",
+"id": "977",
+"datetime": "23 April 2012 1:18:58 AM",
+"tz_datetime": "23 April 2012 1:18:58 AM +0900",
+"latitude": "-34.749",
+"longitude": "20.104"
+},
+{
+"active": "1",
+"id": "976",
+"datetime": "23 April 2012 12:55:43 AM",
+"tz_datetime": "23 April 2012 12:55:43 AM +0900",
+"latitude": "-34.738",
+"longitude": "20.138"
+},
+{
+"active": "1",
+"id": "975",
+"datetime": "23 April 2012 12:39:04 AM",
+"tz_datetime": "23 April 2012 12:39:04 AM +0900",
+"latitude": "-34.74",
+"longitude": "20.131"
+},
+{
+"active": "1",
+"id": "974",
+"datetime": "22 April 2012 8:51:59 PM",
+"tz_datetime": "22 April 2012 8:51:59 PM +0900",
+"latitude": "-34.758",
+"longitude": "20.074"
+},
+{
+"active": "1",
+"id": "973",
+"datetime": "22 April 2012 5:38:02 PM",
+"tz_datetime": "22 April 2012 5:38:02 PM +0900",
+"latitude": "-34.725",
+"longitude": "20.129"
+},
+{
+"active": "1",
+"id": "972",
+"datetime": "22 April 2012 2:00:55 PM",
+"tz_datetime": "22 April 2012 2:00:55 PM +0900",
+"latitude": "-34.888",
+"longitude": "19.81"
+},
+{
+"active": "1",
+"id": "971",
+"datetime": "22 April 2012 11:36:57 AM",
+"tz_datetime": "22 April 2012 11:36:57 AM +0900",
+"latitude": "-34.891",
+"longitude": "19.687"
+},
+{
+"active": "1",
+"id": "970",
+"datetime": "22 April 2012 12:58:30 AM",
+"tz_datetime": "22 April 2012 12:58:30 AM +0900",
+"latitude": "-34.811",
+"longitude": "19.686"
+},
+{
+"active": "1",
+"id": "969",
+"datetime": "21 April 2012 11:21:11 PM",
+"tz_datetime": "21 April 2012 11:21:11 PM +0900",
+"latitude": "-34.808",
+"longitude": "19.703"
+},
+{
+"active": "1",
+"id": "968",
+"datetime": "19 April 2012 8:27:37 PM",
+"tz_datetime": "19 April 2012 8:27:37 PM +0900",
+"latitude": "-34.796",
+"longitude": "20.053"
+},
+{
+"active": "1",
+"id": "967",
+"datetime": "19 April 2012 5:50:21 PM",
+"tz_datetime": "19 April 2012 5:50:21 PM +0900",
+"latitude": "-34.77",
+"longitude": "20.088"
+},
+{
+"active": "1",
+"id": "966",
+"datetime": "19 April 2012 5:03:44 PM",
+"tz_datetime": "19 April 2012 5:03:44 PM +0900",
+"latitude": "-34.763",
+"longitude": "20.13"
+},
+{
+"active": "1",
+"id": "965",
+"datetime": "19 April 2012 2:01:16 PM",
+"tz_datetime": "19 April 2012 2:01:16 PM +0900",
+"latitude": "-34.764",
+"longitude": "20.122"
+},
+{
+"active": "1",
+"id": "964",
+"datetime": "19 April 2012 9:31:41 AM",
+"tz_datetime": "19 April 2012 9:31:41 AM +0900",
+"latitude": "-34.758",
+"longitude": "20.11"
+},
+{
+"active": "1",
+"id": "963",
+"datetime": "19 April 2012 7:00:05 AM",
+"tz_datetime": "19 April 2012 7:00:05 AM +0900",
+"latitude": "-34.76",
+"longitude": "20.109"
+},
+{
+"active": "1",
+"id": "962",
+"datetime": "19 April 2012 6:04:44 AM",
+"tz_datetime": "19 April 2012 6:04:44 AM +0900",
+"latitude": "-34.762",
+"longitude": "20.119"
+},
+{
+"active": "1",
+"id": "961",
+"datetime": "19 April 2012 1:36:36 AM",
+"tz_datetime": "19 April 2012 1:36:36 AM +0900",
+"latitude": "-34.766",
+"longitude": "20.117"
+},
+{
+"active": "1",
+"id": "960",
+"datetime": "13 April 2012 7:03:29 PM",
+"tz_datetime": "13 April 2012 7:03:29 PM +0900",
+"latitude": "-34.77",
+"longitude": "19.722"
+},
+{
+"active": "1",
+"id": "959",
+"datetime": "12 April 2012 7:09:17 PM",
+"tz_datetime": "12 April 2012 7:09:17 PM +0900",
+"latitude": "-34.821",
+"longitude": "19.751"
+},
+{
+"active": "1",
+"id": "957",
+"datetime": "12 April 2012 6:52:39 AM",
+"tz_datetime": "12 April 2012 6:52:39 AM +0900",
+"latitude": "-34.8",
+"longitude": "19.67"
+},
+{
+"active": "1",
+"id": "956",
+"datetime": "12 April 2012 6:42:54 AM",
+"tz_datetime": "12 April 2012 6:42:54 AM +0900",
+"latitude": "-34.79",
+"longitude": "19.621"
+},
+{
+"active": "1",
+"id": "955",
+"datetime": "12 April 2012 5:55:20 AM",
+"tz_datetime": "12 April 2012 5:55:20 AM +0900",
+"latitude": "-34.788",
+"longitude": "19.606"
+},
+{
+"active": "1",
+"id": "954",
+"datetime": "12 April 2012 1:13:13 AM",
+"tz_datetime": "12 April 2012 1:13:13 AM +0900",
+"latitude": "-34.796",
+"longitude": "19.63"
+},
+{
+"active": "1",
+"id": "953",
+"datetime": "11 April 2012 9:08:09 PM",
+"tz_datetime": "11 April 2012 9:08:09 PM +0900",
+"latitude": "-34.794",
+"longitude": "19.672"
+},
+{
+"active": "1",
+"id": "952",
+"datetime": "11 April 2012 9:06:31 PM",
+"tz_datetime": "11 April 2012 9:06:31 PM +0900",
+"latitude": "-34.785",
+"longitude": "19.664"
+},
+{
+"active": "1",
+"id": "951",
+"datetime": "11 April 2012 8:53:20 AM",
+"tz_datetime": "11 April 2012 8:53:20 AM +0900",
+"latitude": "-34.787",
+"longitude": "19.648"
+},
+{
+"active": "1",
+"id": "950",
+"datetime": "11 April 2012 7:09:27 AM",
+"tz_datetime": "11 April 2012 7:09:27 AM +0900",
+"latitude": "-34.789",
+"longitude": "19.667"
+},
+{
+"active": "1",
+"id": "949",
+"datetime": "11 April 2012 7:05:51 AM",
+"tz_datetime": "11 April 2012 7:05:51 AM +0900",
+"latitude": "-34.806",
+"longitude": "19.673"
+},
+{
+"active": "1",
+"id": "948",
+"datetime": "11 April 2012 6:18:26 AM",
+"tz_datetime": "11 April 2012 6:18:26 AM +0900",
+"latitude": "-34.79",
+"longitude": "19.68"
+},
+{
+"active": "1",
+"id": "947",
+"datetime": "8 April 2012 6:21:04 PM",
+"tz_datetime": "8 April 2012 6:21:04 PM +0900",
+"latitude": "-34.778",
+"longitude": "19.756"
+},
+{
+"active": "1",
+"id": "946",
+"datetime": "8 April 2012 4:16:57 PM",
+"tz_datetime": "8 April 2012 4:16:57 PM +0900",
+"latitude": "-34.8",
+"longitude": "19.697"
+},
+{
+"active": "1",
+"id": "943",
+"datetime": "8 April 2012 2:19:37 AM",
+"tz_datetime": "8 April 2012 2:19:37 AM +0900",
+"latitude": "-34.797",
+"longitude": "19.736"
+},
+{
+"active": "1",
+"id": "942",
+"datetime": "8 April 2012 1:50:52 AM",
+"tz_datetime": "8 April 2012 1:50:52 AM +0900",
+"latitude": "-34.788",
+"longitude": "19.746"
+},
+{
+"active": "1",
+"id": "945",
+"datetime": "8 April 2012 12:33:38 AM",
+"tz_datetime": "8 April 2012 12:33:38 AM +0900",
+"latitude": "-34.778",
+"longitude": "19.425"
+},
+{
+"active": "1",
+"id": "944",
+"datetime": "8 April 2012 12:27:51 AM",
+"tz_datetime": "8 April 2012 12:27:51 AM +0900",
+"latitude": "-34.872",
+"longitude": "19.343"
+},
+{
+"active": "1",
+"id": "940",
+"datetime": "7 April 2012 7:51:20 AM",
+"tz_datetime": "7 April 2012 7:51:20 AM +0900",
+"latitude": "-34.898",
+"longitude": "19.717"
+},
+{
+"active": "1",
+"id": "939",
+"datetime": "7 April 2012 6:11:58 AM",
+"tz_datetime": "7 April 2012 6:11:58 AM +0900",
+"latitude": "-34.884",
+"longitude": "19.871"
+},
+{
+"active": "1",
+"id": "937",
+"datetime": "7 April 2012 4:26:47 AM",
+"tz_datetime": "7 April 2012 4:26:47 AM +0900",
+"latitude": "-34.851",
+"longitude": "19.907"
+},
+{
+"active": "1",
+"id": "941",
+"datetime": "7 April 2012 12:37:05 AM",
+"tz_datetime": "7 April 2012 12:37:05 AM +0900",
+"latitude": "-34.784",
+"longitude": "19.767"
+},
+{
+"active": "1",
+"id": "936",
+"datetime": "7 April 2012 12:26:10 AM",
+"tz_datetime": "7 April 2012 12:26:10 AM +0900",
+"latitude": "-34.827",
+"longitude": "20.037"
+},
+{
+"active": "1",
+"id": "935",
+"datetime": "7 April 2012 12:16:16 AM",
+"tz_datetime": "7 April 2012 12:16:16 AM +0900",
+"latitude": "-34.859",
+"longitude": "19.891"
+},
+{
+"active": "1",
+"id": "934",
+"datetime": "6 April 2012 6:35:35 AM",
+"tz_datetime": "6 April 2012 6:35:35 AM +0900",
+"latitude": "-34.641",
+"longitude": "20.321"
+},
+{
+"active": "1",
+"id": "932",
+"datetime": "6 April 2012 12:39:04 AM",
+"tz_datetime": "6 April 2012 12:39:04 AM +0900",
+"latitude": "-34.606",
+"longitude": "20.687"
+},
+{
+"active": "1",
+"id": "931",
+"datetime": "6 April 2012 12:17:05 AM",
+"tz_datetime": "6 April 2012 12:17:05 AM +0900",
+"latitude": "-34.619",
+"longitude": "20.67"
+},
+{
+"active": "1",
+"id": "930",
+"datetime": "5 April 2012 2:54:00 PM",
+"tz_datetime": "5 April 2012 2:54:00 PM +0900",
+"latitude": "-34.489",
+"longitude": "20.895"
+},
+{
+"active": "1",
+"id": "929",
+"datetime": "5 April 2012 11:15:52 AM",
+"tz_datetime": "5 April 2012 11:15:52 AM +0900",
+"latitude": "-34.467",
+"longitude": "21.055"
+},
+{
+"active": "1",
+"id": "928",
+"datetime": "5 April 2012 9:16:04 AM",
+"tz_datetime": "5 April 2012 9:16:04 AM +0900",
+"latitude": "-34.423",
+"longitude": "21.024"
+},
+{
+"active": "1",
+"id": "927",
+"datetime": "5 April 2012 7:36:22 AM",
+"tz_datetime": "5 April 2012 7:36:22 AM +0900",
+"latitude": "-34.392",
+"longitude": "20.939"
+},
+{
+"active": "1",
+"id": "926",
+"datetime": "5 April 2012 7:05:08 AM",
+"tz_datetime": "5 April 2012 7:05:08 AM +0900",
+"latitude": "-34.385",
+"longitude": "21.038"
+},
+{
+"active": "1",
+"id": "925",
+"datetime": "5 April 2012 12:48:06 AM",
+"tz_datetime": "5 April 2012 12:48:06 AM +0900",
+"latitude": "-34.393",
+"longitude": "21.049"
+},
+{
+"active": "1",
+"id": "924",
+"datetime": "4 April 2012 10:49:54 PM",
+"tz_datetime": "4 April 2012 10:49:54 PM +0900",
+"latitude": "-34.394",
+"longitude": "21.05"
+},
+{
+"active": "1",
+"id": "923",
+"datetime": "4 April 2012 1:23:45 PM",
+"tz_datetime": "4 April 2012 1:23:45 PM +0900",
+"latitude": "-34.393",
+"longitude": "21.03"
+},
+{
+"active": "1",
+"id": "922",
+"datetime": "1 April 2012 1:51:56 PM",
+"tz_datetime": "1 April 2012 1:51:56 PM +0900",
+"latitude": "-34.379",
+"longitude": "21.039"
+},
+{
+"active": "1",
+"id": "921",
+"datetime": "1 April 2012 1:43:00 PM",
+"tz_datetime": "1 April 2012 1:43:00 PM +0900",
+"latitude": "-34.377",
+"longitude": "21.04"
+},
+{
+"active": "1",
+"id": "919",
+"datetime": "1 April 2012 9:01:22 AM",
+"tz_datetime": "1 April 2012 9:01:22 AM +0900",
+"latitude": "-34.38",
+"longitude": "21.045"
+},
+{
+"active": "1",
+"id": "918",
+"datetime": "1 April 2012 7:23:16 AM",
+"tz_datetime": "1 April 2012 7:23:16 AM +0900",
+"latitude": "-34.384",
+"longitude": "21.043"
+},
+{
+"active": "1",
+"id": "916",
+"datetime": "1 April 2012 6:54:46 AM",
+"tz_datetime": "1 April 2012 6:54:46 AM +0900",
+"latitude": "-34.374",
+"longitude": "21.032"
+},
+{
+"active": "1",
+"id": "920",
+"datetime": "1 April 2012 12:15:12 AM",
+"tz_datetime": "1 April 2012 12:15:12 AM +0900",
+"latitude": "-34.379",
+"longitude": "21.041"
+},
+{
+"active": "1",
+"id": "915",
+"datetime": "31 March 2012 3:48:11 PM",
+"tz_datetime": "31 March 2012 3:48:11 PM +0900",
+"latitude": "-34.426",
+"longitude": "21.011"
+},
+{
+"active": "1",
+"id": "914",
+"datetime": "30 March 2012 7:55:16 PM",
+"tz_datetime": "30 March 2012 7:55:16 PM +0900",
+"latitude": "-34.399",
+"longitude": "21.05"
+},
+{
+"active": "1",
+"id": "913",
+"datetime": "30 March 2012 4:39:02 PM",
+"tz_datetime": "30 March 2012 4:39:02 PM +0900",
+"latitude": "-34.4",
+"longitude": "21.062"
+},
+{
+"active": "1",
+"id": "912",
+"datetime": "30 March 2012 4:19:58 AM",
+"tz_datetime": "30 March 2012 4:19:58 AM +0900",
+"latitude": "-34.389",
+"longitude": "21.02"
+},
+{
+"active": "1",
+"id": "911",
+"datetime": "30 March 2012 12:08:31 AM",
+"tz_datetime": "30 March 2012 12:08:31 AM +0900",
+"latitude": "-34.39",
+"longitude": "21.037"
+},
+{
+"active": "1",
+"id": "910",
+"datetime": "29 March 2012 11:58:35 PM",
+"tz_datetime": "29 March 2012 11:58:35 PM +0900",
+"latitude": "-34.391",
+"longitude": "21.04"
+},
+{
+"active": "1",
+"id": "908",
+"datetime": "28 March 2012 2:23:22 PM",
+"tz_datetime": "28 March 2012 2:23:22 PM +0900",
+"latitude": "-34.383",
+"longitude": "21.074"
+},
+{
+"active": "1",
+"id": "907",
+"datetime": "28 March 2012 2:05:21 PM",
+"tz_datetime": "28 March 2012 2:05:21 PM +0900",
+"latitude": "-34.388",
+"longitude": "21.063"
+},
+{
+"active": "1",
+"id": "906",
+"datetime": "28 March 2012 3:24:14 AM",
+"tz_datetime": "28 March 2012 3:24:14 AM +0900",
+"latitude": "-34.406",
+"longitude": "21.044"
+},
+{
+"active": "1",
+"id": "905",
+"datetime": "26 March 2012 7:48:10 AM",
+"tz_datetime": "26 March 2012 7:48:10 AM +0900",
+"latitude": "-34.788",
+"longitude": "20.528"
+},
+{
+"active": "1",
+"id": "904",
+"datetime": "24 March 2012 8:23:10 AM",
+"tz_datetime": "24 March 2012 8:23:10 AM +0900",
+"latitude": "-34.449",
+"longitude": "20.936"
+},
+{
+"active": "1",
+"id": "903",
+"datetime": "24 March 2012 7:15:21 AM",
+"tz_datetime": "24 March 2012 7:15:21 AM +0900",
+"latitude": "-34.437",
+"longitude": "20.935"
+},
+{
+"active": "1",
+"id": "902",
+"datetime": "24 March 2012 6:42:20 AM",
+"tz_datetime": "24 March 2012 6:42:20 AM +0900",
+"latitude": "-34.436",
+"longitude": "20.947"
+},
+{
+"active": "1",
+"id": "901",
+"datetime": "24 March 2012 6:40:44 AM",
+"tz_datetime": "24 March 2012 6:40:44 AM +0900",
+"latitude": "-34.436",
+"longitude": "20.943"
+},
+{
+"active": "1",
+"id": "900",
+"datetime": "24 March 2012 5:36:12 AM",
+"tz_datetime": "24 March 2012 5:36:12 AM +0900",
+"latitude": "-34.414",
+"longitude": "20.985"
+},
+{
+"active": "1",
+"id": "899",
+"datetime": "24 March 2012 3:19:49 AM",
+"tz_datetime": "24 March 2012 3:19:49 AM +0900",
+"latitude": "-34.395",
+"longitude": "20.99"
+},
+{
+"active": "1",
+"id": "898",
+"datetime": "24 March 2012 1:42:10 AM",
+"tz_datetime": "24 March 2012 1:42:10 AM +0900",
+"latitude": "-34.393",
+"longitude": "20.986"
+},
+{
+"active": "1",
+"id": "897",
+"datetime": "24 March 2012 1:10:54 AM",
+"tz_datetime": "24 March 2012 1:10:54 AM +0900",
+"latitude": "-34.387",
+"longitude": "20.972"
+},
+{
+"active": "1",
+"id": "896",
+"datetime": "24 March 2012 1:02:33 AM",
+"tz_datetime": "24 March 2012 1:02:33 AM +0900",
+"latitude": "-34.383",
+"longitude": "20.97"
+},
+{
+"active": "1",
+"id": "895",
+"datetime": "23 March 2012 11:40:47 PM",
+"tz_datetime": "23 March 2012 11:40:47 PM +0900",
+"latitude": "-34.401",
+"longitude": "20.983"
+},
+{
+"active": "1",
+"id": "893",
+"datetime": "23 March 2012 9:05:20 PM",
+"tz_datetime": "23 March 2012 9:05:20 PM +0900",
+"latitude": "-34.394",
+"longitude": "20.997"
+},
+{
+"active": "1",
+"id": "892",
+"datetime": "23 March 2012 7:50:18 PM",
+"tz_datetime": "23 March 2012 7:50:18 PM +0900",
+"latitude": "-34.412",
+"longitude": "21.01"
+},
+{
+"active": "1",
+"id": "891",
+"datetime": "23 March 2012 6:15:10 PM",
+"tz_datetime": "23 March 2012 6:15:10 PM +0900",
+"latitude": "-34.399",
+"longitude": "21.027"
+},
+{
+"active": "1",
+"id": "890",
+"datetime": "23 March 2012 3:37:14 PM",
+"tz_datetime": "23 March 2012 3:37:14 PM +0900",
+"latitude": "-34.412",
+"longitude": "21.027"
+},
+{
+"active": "1",
+"id": "889",
+"datetime": "23 March 2012 2:26:01 PM",
+"tz_datetime": "23 March 2012 2:26:01 PM +0900",
+"latitude": "-34.411",
+"longitude": "21.028"
+},
+{
+"active": "1",
+"id": "888",
+"datetime": "23 March 2012 5:49:36 AM",
+"tz_datetime": "23 March 2012 5:49:36 AM +0900",
+"latitude": "-34.41",
+"longitude": "21.012"
+},
+{
+"active": "1",
+"id": "887",
+"datetime": "22 March 2012 12:04:44 AM",
+"tz_datetime": "22 March 2012 12:04:44 AM +0900",
+"latitude": "-34.405",
+"longitude": "20.997"
+},
+{
+"active": "1",
+"id": "886",
+"datetime": "21 March 2012 3:15:57 PM",
+"tz_datetime": "21 March 2012 3:15:57 PM +0900",
+"latitude": "-34.402",
+"longitude": "20.972"
+},
+{
+"active": "1",
+"id": "885",
+"datetime": "21 March 2012 2:14:36 PM",
+"tz_datetime": "21 March 2012 2:14:36 PM +0900",
+"latitude": "-34.404",
+"longitude": "20.985"
+},
+{
+"active": "1",
+"id": "884",
+"datetime": "21 March 2012 2:00:02 PM",
+"tz_datetime": "21 March 2012 2:00:02 PM +0900",
+"latitude": "-34.404",
+"longitude": "20.973"
+},
+{
+"active": "1",
+"id": "881",
+"datetime": "21 March 2012 7:53:58 AM",
+"tz_datetime": "21 March 2012 7:53:58 AM +0900",
+"latitude": "-34.388",
+"longitude": "20.988"
+},
+{
+"active": "1",
+"id": "883",
+"datetime": "21 March 2012 12:29:33 AM",
+"tz_datetime": "21 March 2012 12:29:33 AM +0900",
+"latitude": "-34.401",
+"longitude": "20.973"
+},
+{
+"active": "1",
+"id": "882",
+"datetime": "21 March 2012 12:18:31 AM",
+"tz_datetime": "21 March 2012 12:18:31 AM +0900",
+"latitude": "-34.401",
+"longitude": "20.964"
+},
+{
+"active": "1",
+"id": "880",
+"datetime": "20 March 2012 2:29:14 PM",
+"tz_datetime": "20 March 2012 2:29:14 PM +0900",
+"latitude": "-34.407",
+"longitude": "20.958"
+},
+{
+"active": "1",
+"id": "879",
+"datetime": "20 March 2012 2:09:08 PM",
+"tz_datetime": "20 March 2012 2:09:08 PM +0900",
+"latitude": "-34.403",
+"longitude": "20.959"
+},
+{
+"active": "1",
+"id": "878",
+"datetime": "20 March 2012 2:00:15 PM",
+"tz_datetime": "20 March 2012 2:00:15 PM +0900",
+"latitude": "-34.392",
+"longitude": "20.959"
+},
+{
+"active": "1",
+"id": "877",
+"datetime": "20 March 2012 8:04:20 AM",
+"tz_datetime": "20 March 2012 8:04:20 AM +0900",
+"latitude": "-34.374",
+"longitude": "20.917"
+},
+{
+"active": "1",
+"id": "876",
+"datetime": "19 March 2012 5:39:48 PM",
+"tz_datetime": "19 March 2012 5:39:48 PM +0900",
+"latitude": "-34.391",
+"longitude": "21.019"
+},
+{
+"active": "1",
+"id": "875",
+"datetime": "19 March 2012 4:01:43 PM",
+"tz_datetime": "19 March 2012 4:01:43 PM +0900",
+"latitude": "-34.407",
+"longitude": "21.016"
+},
+{
+"active": "1",
+"id": "873",
+"datetime": "19 March 2012 8:29:58 AM",
+"tz_datetime": "19 March 2012 8:29:58 AM +0900",
+"latitude": "-34.391",
+"longitude": "21.044"
+},
+{
+"active": "1",
+"id": "872",
+"datetime": "19 March 2012 6:45:37 AM",
+"tz_datetime": "19 March 2012 6:45:37 AM +0900",
+"latitude": "-34.385",
+"longitude": "21.085"
+},
+{
+"active": "1",
+"id": "874",
+"datetime": "19 March 2012 12:34:39 AM",
+"tz_datetime": "19 March 2012 12:34:39 AM +0900",
+"latitude": "-34.419",
+"longitude": "20.969"
+},
+{
+"active": "1",
+"id": "871",
+"datetime": "18 March 2012 4:23:36 PM",
+"tz_datetime": "18 March 2012 4:23:36 PM +0900",
+"latitude": "-34.429",
+"longitude": "21.256"
+},
+{
+"active": "1",
+"id": "870",
+"datetime": "18 March 2012 4:07:25 AM",
+"tz_datetime": "18 March 2012 4:07:25 AM +0900",
+"latitude": "-34.499",
+"longitude": "21.383"
+},
+{
+"active": "1",
+"id": "868",
+"datetime": "17 March 2012 11:21:48 AM",
+"tz_datetime": "17 March 2012 11:21:48 AM +0900",
+"latitude": "-34.406",
+"longitude": "21.152"
+},
+{
+"active": "1",
+"id": "867",
+"datetime": "17 March 2012 7:29:48 AM",
+"tz_datetime": "17 March 2012 7:29:48 AM +0900",
+"latitude": "-34.386",
+"longitude": "21.001"
+},
+{
+"active": "1",
+"id": "866",
+"datetime": "17 March 2012 6:55:10 AM",
+"tz_datetime": "17 March 2012 6:55:10 AM +0900",
+"latitude": "-34.398",
+"longitude": "21.045"
+},
+{
+"active": "1",
+"id": "865",
+"datetime": "17 March 2012 6:05:25 AM",
+"tz_datetime": "17 March 2012 6:05:25 AM +0900",
+"latitude": "-34.395",
+"longitude": "21.041"
+},
+{
+"active": "1",
+"id": "864",
+"datetime": "17 March 2012 5:47:24 AM",
+"tz_datetime": "17 March 2012 5:47:24 AM +0900",
+"latitude": "-34.386",
+"longitude": "21.059"
+},
+{
+"active": "1",
+"id": "863",
+"datetime": "17 March 2012 5:14:44 AM",
+"tz_datetime": "17 March 2012 5:14:44 AM +0900",
+"latitude": "-34.398",
+"longitude": "21.047"
+},
+{
+"active": "1",
+"id": "861",
+"datetime": "17 March 2012 4:29:07 AM",
+"tz_datetime": "17 March 2012 4:29:07 AM +0900",
+"latitude": "-34.395",
+"longitude": "21.06"
+},
+{
+"active": "1",
+"id": "860",
+"datetime": "16 March 2012 11:11:04 PM",
+"tz_datetime": "16 March 2012 11:11:04 PM +0900",
+"latitude": "-34.392",
+"longitude": "21.058"
+},
+{
+"active": "1",
+"id": "859",
+"datetime": "16 March 2012 8:11:32 PM",
+"tz_datetime": "16 March 2012 8:11:32 PM +0900",
+"latitude": "-34.393",
+"longitude": "21.073"
+},
+{
+"active": "1",
+"id": "858",
+"datetime": "16 March 2012 11:30:55 AM",
+"tz_datetime": "16 March 2012 11:30:55 AM +0900",
+"latitude": "-34.381",
+"longitude": "21.04"
+},
+{
+"active": "1",
+"id": "857",
+"datetime": "16 March 2012 7:15:07 AM",
+"tz_datetime": "16 March 2012 7:15:07 AM +0900",
+"latitude": "-34.412",
+"longitude": "20.96"
+},
+{
+"active": "1",
+"id": "856",
+"datetime": "15 March 2012 12:03:23 AM",
+"tz_datetime": "15 March 2012 12:03:23 AM +0900",
+"latitude": "-34.392",
+"longitude": "20.979"
+},
+{
+"active": "1",
+"id": "855",
+"datetime": "14 March 2012 6:20:29 PM",
+"tz_datetime": "14 March 2012 6:20:29 PM +0900",
+"latitude": "-34.387",
+"longitude": "20.929"
+},
+{
+"active": "1",
+"id": "853",
+"datetime": "14 March 2012 11:52:43 AM",
+"tz_datetime": "14 March 2012 11:52:43 AM +0900",
+"latitude": "-34.397",
+"longitude": "21.019"
+},
+{
+"active": "1",
+"id": "854",
+"datetime": "14 March 2012 12:06:24 AM",
+"tz_datetime": "14 March 2012 12:06:24 AM +0900",
+"latitude": "-34.395",
+"longitude": "21.004"
+},
+{
+"active": "1",
+"id": "852",
+"datetime": "12 March 2012 6:24:47 AM",
+"tz_datetime": "12 March 2012 6:24:47 AM +0900",
+"latitude": "-34.391",
+"longitude": "20.997"
+},
+{
+"active": "1",
+"id": "851",
+"datetime": "11 March 2012 3:59:06 PM",
+"tz_datetime": "11 March 2012 3:59:06 PM +0900",
+"latitude": "-34.393",
+"longitude": "20.964"
+},
+{
+"active": "1",
+"id": "850",
+"datetime": "11 March 2012 2:01:30 PM",
+"tz_datetime": "11 March 2012 2:01:30 PM +0900",
+"latitude": "-34.37",
+"longitude": "20.974"
+},
+{
+"active": "1",
+"id": "848",
+"datetime": "11 March 2012 7:58:09 AM",
+"tz_datetime": "11 March 2012 7:58:09 AM +0900",
+"latitude": "-34.411",
+"longitude": "21.086"
+},
+{
+"active": "1",
+"id": "847",
+"datetime": "11 March 2012 6:27:45 AM",
+"tz_datetime": "11 March 2012 6:27:45 AM +0900",
+"latitude": "-34.401",
+"longitude": "21.169"
+},
+{
+"active": "1",
+"id": "846",
+"datetime": "11 March 2012 6:13:39 AM",
+"tz_datetime": "11 March 2012 6:13:39 AM +0900",
+"latitude": "-34.4",
+"longitude": "21.18"
+},
+{
+"active": "1",
+"id": "849",
+"datetime": "11 March 2012 12:37:51 AM",
+"tz_datetime": "11 March 2012 12:37:51 AM +0900",
+"latitude": "-34.468",
+"longitude": "20.888"
+},
+{
+"active": "1",
+"id": "845",
+"datetime": "10 March 2012 8:29:41 PM",
+"tz_datetime": "10 March 2012 8:29:41 PM +0900",
+"latitude": "-34.43",
+"longitude": "21.594"
+}
+],
+"images": [
+{
+"id": "7",
+"filename": "Brenda Dorsal921A3780.jpg",
+"encrypted_name": "c1a5587a2a403e1a29ff2c124957bf60",
+"description": "",
+"is_primary": true
+},
+{
+"id": "8",
+"filename": "Brenda head_MG_3081.jpg",
+"encrypted_name": "241d16f6e7e61aabf5baa40f1d22fb20",
+"description": "",
+"is_primary": false
+},
+{
+"id": "9",
+"filename": "Brenda Jump_MG_0394.jpg",
+"encrypted_name": "eff4d910981c35eca548e254f2afc5fd",
+"description": "",
+"is_primary": false
+},
+{
+"id": "10",
+"filename": "Brenda side921A3782.jpg",
+"encrypted_name": "08f9a78a94b99ee71d58ed00f6a55d1e",
+"description": "",
+"is_primary": false
+},
+{
+"id": "11",
+"filename": "Brenda underwater Back_MG_2904.jpg",
+"encrypted_name": "e4dfad932b17bf6927517fc0bd0420ea",
+"description": "",
+"is_primary": false
+}
+],
+"videos": [],
+"isMobile": false,
+"platform": null,
+"dist_24_hours": "0.000",
+"dist_72_hours": "0.000",
+"dist_total": "2966.902",
+"is_alive": "1",
+"species_id": "1",
+"active": "1",
+"last_updated": "1381736822",
+"cnt_inactive_pings": "0",
+"zping": "",
+"profile_url": "http://www.ocearch.org/profile/brenda_/",
+"species_icons": {
+"web": {
+"blue": "",
+"red": ""
+},
+"mobile": {
+"blue": "http://www.ocearch.org/tracker/images/mobile/blue.png",
+"red": "http://www.ocearch.org/tracker/images/mobile/red.png"
+}
+},
+"pingCriteria": {
+"interval": "30 year"
+},
+"latestPing": 1350595004,
+"pingAge": "sharkmore30"
+}
+]

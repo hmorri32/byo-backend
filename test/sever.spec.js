@@ -1,3 +1,4 @@
+/* eslint-env node, mocha */
 
 process.env.NODE_ENV = 'test';
 
@@ -10,8 +11,8 @@ chai.use(chaiHttp);
 
 describe('testing stuff', () => {
   it('shouldnt explode', () => {
-    let coolGuy = 'radical'
+    let coolGuy = 'radical';
 
-    coolGuy.should.equal('radical')
+    coolGuy.should.equal('radical');
   });
 });
