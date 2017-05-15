@@ -7,7 +7,9 @@
     "test": "mocha",
     "start": "nodemon server.js"
   },
-  "keywords": ["megaChill"],
+  "keywords": [
+    "megaChill"
+  ],
   "author": "",
   "license": "ISC",
   "dependencies": {
@@ -19,6 +21,7 @@
     "express": "^4.15.2",
     "file-system": "^2.2.2",
     "fs": "0.0.1-security",
+    "json2csv": "^3.7.3",
     "knex": "^0.13.0",
     "md5": "^2.2.1",
     "mocha": "^3.4.1",
