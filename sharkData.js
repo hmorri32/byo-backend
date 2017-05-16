@@ -1,7 +1,7 @@
 /* eslint-disable */
 
 const sharkData = [{
-  "id": 41,
+  "sharks_id": 41,
   "name": "Mary Lee",
   "tagIdNumber": "121425",
   "species": "White Shark (Carcharodon carcharias)",
@@ -4879,7 +4879,7 @@ const sharkData = [{
     "longitude": "-76.15226"
   }]
 }, {
-  "id": 65,
+  "sharks_id": 65,
   "name": "Katharine",
   "tagIdNumber": "132360",
   "species": "White Shark (Carcharodon carcharias)",
