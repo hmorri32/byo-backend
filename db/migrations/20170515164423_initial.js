@@ -5,8 +5,9 @@ exports.up = function(knex, Promise) {
   return Promise.all([
     knex.schema.createTable('sharks', function(table) {
       table.increments('id').primary();
-      table.string('sharks_id');
+      table.integer('sharks_id');
       table.string('name');
+      table.string('tagIdNumber');
       table.string('species');
       table.string('gender');
       table.string('stageOfLife');
