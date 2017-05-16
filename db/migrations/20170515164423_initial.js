@@ -5,7 +5,7 @@ exports.up = function(knex, Promise) {
   return Promise.all([
     knex.schema.createTable('sharks', function(table) {
       table.increments('id').primary();
-      table.integer('sharks_id');
+      table.string('sharks_id');
       table.string('name');
       table.string('species');
       table.string('gender');
@@ -20,8 +20,8 @@ exports.up = function(knex, Promise) {
 
     knex.schema.createTable('pings', function(table) {
       table.increments('id').primary();
-      table.integer('pings_active');
-      table.integer('pings_id');
+      table.string('pings_active');
+      table.string('pings_id');
       table.string('pings_datetime');
       table.string('pings_tz_datetime');
       table.string('pings_latitude');
@@ -41,3 +41,4 @@ exports.down = function(knex, Promise) {
     knex.schema.dropTable('sharks')
   ]);
 };
+
