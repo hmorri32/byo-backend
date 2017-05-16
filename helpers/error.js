@@ -4,12 +4,10 @@ exports.notFound = (req, res, next) => {
   next(err);
 };
 
-exports.flashValidationErrors = (err, req, res, next) => {
-  if (!err.errors) return next(err);
-  // validation errors look like
-  const errorKeys = Object.keys(err.errors);
-  errorKeys.forEach(key => req.flash('error', err.errors[key].message));
-  res.redirect('back');
+exports.arrayLength = (req, res, next) => {
+  const err = new Error('ID not found!');
+  err.status = 404;
+  this.developmentErrors(err, req, res, next);
 };
 
 exports.developmentErrors = (err, req, res, next) => {
@@ -26,4 +24,5 @@ exports.developmentErrors = (err, req, res, next) => {
     },
     'application/json': () => res.json(errorDetails)
   });
+  next();
 };

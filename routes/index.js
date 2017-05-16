@@ -3,6 +3,7 @@ const router        = express.Router();
 const environment   = process.env.NODE_ENV || 'development';
 const configuration = require('../knexfile')[environment];
 const database      = require('knex')(configuration);
+const error         = require('../helpers/error');
 
 // Do work 
 
@@ -18,27 +19,44 @@ router.get('/api/v1/sharks', (request, response) => {
   .then(sharks => {
     response.status(200).json(sharks);
   })
-  .catch(e => catchErrors(e));
+  .catch(() => response.status(404));
 });
 
 router.get('/api/v1/sharks/:id', (request, response) => {
-  database('sharks').where('id', request.params.id).select()
-  .then(sharks => {
-    response.status(200).json(sharks);
-  })
-  .catch(e => console.log(e));
+  const { id } = request.params;
+  
+  database('sharks').where('id', id).select()
+  .then(shark => {
+    shark.length > 0
+    ? response.status(200).json(shark)
+    : error.arrayLength(request, response);
+  });
 });
 
 router.get('/api/v1/pings', (request, response) => {
   database('pings').select()
   .then(pings => {
     response.status(200).json(pings);
-  })
-  .catch(e => console.log(e));
+  });
+});
+
+router.get('/api/v1/pings/:id', (request, response) => {
+  const { id } = request.params;
+
+  database('pings').where('id', id).select()
+  .then(ping => {
+    ping.length > 0 
+    ? response.status(200).json(ping) 
+    : error.arrayLength(request, response);
+  });
 });
 
 
+
 module.exports = router;
+
+
+
 
 
 
