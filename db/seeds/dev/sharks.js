@@ -8,7 +8,7 @@ exports.seed = function(knex, Promise) {
   // Deletes ALL existing entries
   return Promise.all([knex('pings').del(), knex('sharks').del()])
   .then(() => seedFile(knex, path.resolve('sharks.csv'), 'sharks', [
-    'sharks_id',
+    'shark_id',
     'name',
     'tagIdNumber',
     'species',
@@ -30,9 +30,9 @@ exports.seed = function(knex, Promise) {
     'datetime',
     'tz_datetime',
     'latitude',
-    'longitude'
+    'longitude',
   ], {
     columnSeparator: ',',
     ignoreFirstLine: true
-  }))
+  }));
 };
