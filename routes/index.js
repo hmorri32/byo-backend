@@ -4,8 +4,8 @@ const environment   = process.env.NODE_ENV || 'development';
 const configuration = require('../knexfile')[environment];
 const database      = require('knex')(configuration);
 
+// Do work 
 
-// Do work here
 router.get('/', (request, response) => {
   response.json({
     user: 'hugh',
@@ -18,7 +18,7 @@ router.get('/api/v1/sharks', (request, response) => {
   .then(sharks => {
     response.status(200).json(sharks);
   })
-  .catch(e => console.log(e));
+  .catch(e => catchErrors(e));
 });
 
 router.get('/api/v1/sharks/:id', (request, response) => {
@@ -39,3 +39,9 @@ router.get('/api/v1/pings', (request, response) => {
 
 
 module.exports = router;
+
+
+
+
+
+
