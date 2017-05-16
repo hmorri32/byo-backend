@@ -21,14 +21,14 @@ exports.up = function(knex, Promise) {
 
     knex.schema.createTable('pings', function(table) {
       table.increments('id').primary();
-      table.string('pings_active');
-      table.string('pings_id');
-      table.string('pings_datetime');
-      table.string('pings_tz_datetime');
-      table.string('pings_latitude');
-      table.string('pings_longitude');
-      table.integer('shark_id').unsigned();
-      table.foreign('shark_id')
+      table.string('active');
+      table.string('shark_id');
+      table.string('datetime');
+      table.string('tz_datetime');
+      table.string('latitude');
+      table.string('longitude');
+      table.integer('sharks_id').unsigned();
+      table.foreign('sharks_id')
         .references('sharks.id');
 
       table.timestamps(true, true);
@@ -42,4 +42,5 @@ exports.down = function(knex, Promise) {
     knex.schema.dropTable('sharks')
   ]);
 };
+
 
