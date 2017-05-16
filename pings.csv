@@ -1,4 +1,4 @@
-"active","shark_id","id","datetime","tz_datetime","latitude","longitude"
+"active","shark_id","ping_id","datetime","tz_datetime","latitude","longitude"
 "1",41,"61865","12 May 2017 5:56:18 PM","12 May 2017 5:56:18 PM +0900","36.65662","-72.01635"
 "1",41,"61439","23 April 2017 8:49:00 AM","23 April 2017 8:49:00 AM +0900","31.1444","-77.10802"
 "1",41,"61164","15 April 2017 4:00:59 AM","15 April 2017 4:00:59 AM +0900","30.80375","-79.05285"

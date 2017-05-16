@@ -23,14 +23,11 @@ exports.up = function(knex, Promise) {
       table.increments('id').primary();
       table.string('active');
       table.string('shark_id');
+      table.string('ping_id');
       table.string('datetime');
       table.string('tz_datetime');
       table.string('latitude');
       table.string('longitude');
-      table.integer('sharks_id').unsigned();
-      table.foreign('sharks_id')
-        .references('sharks.id');
-
       table.timestamps(true, true);
     })
   ]);

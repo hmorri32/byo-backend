@@ -20,7 +20,7 @@ const sharkData = [{
   "gender": "Female",
   "stageOfLife": "Immature",
   "length": "14 ft. 2 in.",
-  "weight": "2,300 lb.",
+  "weight": "2300 lb.",
   "tagDate": "20 August 2013",
   "tagLocation": "Cape Cod",
   "description": "Katharine, who was tagged off Cape Cod, Massachusetts, was named by Cat Products fans in honor of Katharine Lee Bates, a Cape Cod native and songwriter"
