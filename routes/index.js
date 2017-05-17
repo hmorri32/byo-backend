@@ -46,7 +46,8 @@ router.get('/api/v1/pings', (request, response) => {
   database('pings').select()
   .then(pings => {
     response.status(200).json(pings);
-  });
+  })
+  .catch(() => response.status(404));
 });
 
 
