@@ -10,6 +10,12 @@ exports.arrayLength = (req, res, next) => {
   this.developmentErrors(err, req, res, next);
 };
 
+exports.queryArrayLength = (req, res, next) => {
+  const err = new Error('Your query param is ultra invalid!');
+  err.status = (404);
+  this.developmentErrors(err, req, res, next);
+};
+
 exports.developmentErrors = (err, req, res, next) => {
   err.stack = err.stack || '';
   const errorDetails = {

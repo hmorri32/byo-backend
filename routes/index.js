@@ -23,8 +23,11 @@ router.get('/api/v1/sharks', (request, response) => {
     .catch(() => response.status(404));
   } else {
     database('sharks').where('species', 'like', `%${species}%`).select()
-    .then(sharks => response.status(200).json(sharks))
-    .catch(() => response.status(404));
+    .then(sharks => {
+      sharks.length > 0
+        ? response.status(200).json(sharks)
+        : error.queryArrayLength(request, response);
+    });
   }
 });
 
@@ -49,11 +52,19 @@ router.get('/api/v1/sharks/:id/pings', (request, response) => {
 });
 
 router.get('/api/v1/pings', (request, response) => {
-  database('pings').select()
-  .then(pings => {
-    response.status(200).json(pings);
-  })
-  .catch(() => response.status(404));
+  const { shark_id } = request.query;
+  if(!shark_id){
+    database('pings').select()
+    .then(pings => response.status(200).json(pings))
+    .catch(() => response.status(404));
+  } else {
+    database('pings').where('shark_id', shark_id).select()
+    .then(pings => {
+      pings.length > 0 
+        ? response.status(200).json(pings)
+        : error.queryArrayLength(request, response);
+    });
+  }
 });
 
 
