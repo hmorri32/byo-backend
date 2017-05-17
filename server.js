@@ -29,3 +29,5 @@ if (app.get('env') === 'development') {
 const server = app.listen(app.get('port'), () => {
   console.log(`Magic happens on port ${server.address().port}`);
 });
+
+module.exports = app;

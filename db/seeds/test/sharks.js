@@ -70,7 +70,7 @@ exports.seed = function(knex, Promise) {
           return knex('pings').insert([{
             id: 4,
             key: 2,
-            shark_id: 12,
+            shark_id: 6,
             ping_id: "61865",
             datetime: "12 May 2017 5:56:18 PM",
             tz_datetime: "12 May 2017 5:56:18 PM +0900",
@@ -79,7 +79,7 @@ exports.seed = function(knex, Promise) {
           }, {
             id: 5,
             key: 2,
-            shark_id: 12,
+            shark_id: 6,
             ping_id: "61439",
             datetime: "23 April 2017 8:49:00 AM",
             tz_datetime: "23 April 2017 8:49:00 AM +0900",
@@ -88,7 +88,7 @@ exports.seed = function(knex, Promise) {
           }, {
             id: 6,
             key: 2,
-            shark_id: 12,
+            shark_id: 6,
             ping_id: "61164",
             datetime: "15 April 2017 4:00:59 AM",
             tz_datetime: "15 April 2017 4:00:59 AM +0900",
