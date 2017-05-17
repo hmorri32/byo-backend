@@ -25,6 +25,7 @@ exports.seed = function(knex, Promise) {
   }))
   .then(() => seedFile(knex, path.resolve('pings.csv'), 'pings', [
     'active',
+    'key',
     'shark_id',
     'ping_id',
     'datetime',

@@ -24,12 +24,21 @@ router.get('/api/v1/sharks', (request, response) => {
 
 router.get('/api/v1/sharks/:id', (request, response) => {
   const { id } = request.params;
-  
+
   database('sharks').where('id', id).select()
   .then(shark => {
     shark.length > 0
-    ? response.status(200).json(shark)
-    : error.arrayLength(request, response);
+      ? response.status(200).json(shark)
+      : error.arrayLength(request, response);
+  });
+});
+
+router.get('/api/v1/sharks/:id/pings', (request, response) => {
+  database('pings').where('key', request.params.id).select()
+  .then(sharks => {
+    sharks.length > 0 
+      ? response.status(200).json(sharks)
+      : error.arrayLength(request, response);
   });
 });
 
@@ -40,17 +49,17 @@ router.get('/api/v1/pings', (request, response) => {
   });
 });
 
+
 router.get('/api/v1/pings/:id', (request, response) => {
   const { id } = request.params;
 
   database('pings').where('id', id).select()
   .then(ping => {
     ping.length > 0 
-    ? response.status(200).json(ping) 
-    : error.arrayLength(request, response);
+      ? response.status(200).json(ping) 
+      : error.arrayLength(request, response);
   });
 });
-
 
 
 module.exports = router;
