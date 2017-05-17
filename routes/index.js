@@ -15,11 +15,17 @@ router.get('/', (request, response) => {
 });
 
 router.get('/api/v1/sharks', (request, response) => {
-  database('sharks').select()
-  .then(sharks => {
-    response.status(200).json(sharks);
-  })
-  .catch(() => response.status(404));
+  const { species } = request.query;
+
+  if(!species) {
+    database('sharks').select()
+    .then(sharks => response.status(200).json(sharks))
+    .catch(() => response.status(404));
+  } else {
+    database('sharks').where('species', 'like', `%${species}%`).select()
+    .then(sharks => response.status(200).json(sharks))
+    .catch(() => response.status(404));
+  }
 });
 
 router.get('/api/v1/sharks/:id', (request, response) => {
