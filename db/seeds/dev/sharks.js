@@ -7,7 +7,7 @@ const seedFile = require('knex-seed-file');
 exports.seed = function(knex, Promise) {
   // Deletes ALL existing entries
   return Promise.all([knex('pings').del(), knex('sharks').del()])
-  .then(() => seedFile(knex, path.resolve('sharks.csv'), 'sharks', [
+  .then(() => seedFile(knex, path.resolve('data/sharks.csv'), 'sharks', [
     'shark_id',
     'name',
     'tagIdNumber',
@@ -23,7 +23,7 @@ exports.seed = function(knex, Promise) {
     columnSeparator: ',',
     ignoreFirstLine: true
   }))
-  .then(() => seedFile(knex, path.resolve('pings.csv'), 'pings', [
+  .then(() => seedFile(knex, path.resolve('data/pings.csv'), 'pings', [
     'active',
     'key',
     'shark_id',
