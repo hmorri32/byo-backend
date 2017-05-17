@@ -1,7 +1,6 @@
 /* eslint-disable */
 
 const pingData = [{
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "61865",
@@ -10,7 +9,6 @@ const pingData = [{
   "latitude": "36.65662",
   "longitude": "-72.01635"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "61439",
@@ -19,7 +17,6 @@ const pingData = [{
   "latitude": "31.1444",
   "longitude": "-77.10802"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "61164",
@@ -28,7 +25,6 @@ const pingData = [{
   "latitude": "30.80375",
   "longitude": "-79.05285"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "61113",
@@ -37,7 +33,6 @@ const pingData = [{
   "latitude": "31.32171",
   "longitude": "-79.07424"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "61087",
@@ -46,7 +41,6 @@ const pingData = [{
   "latitude": "31.16405",
   "longitude": "-78.93902"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "61086",
@@ -55,7 +49,6 @@ const pingData = [{
   "latitude": "31.16405",
   "longitude": "-78.93902"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "60498",
@@ -64,7 +57,6 @@ const pingData = [{
   "latitude": "31.22323",
   "longitude": "-78.62511"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "60475",
@@ -73,7 +65,6 @@ const pingData = [{
   "latitude": "31.22249",
   "longitude": "-78.86723"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "60472",
@@ -82,7 +73,6 @@ const pingData = [{
   "latitude": "31.19112",
   "longitude": "-78.94279"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "60314",
@@ -91,7 +81,6 @@ const pingData = [{
   "latitude": "31.0747",
   "longitude": "-79.20387"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "60273",
@@ -100,7 +89,6 @@ const pingData = [{
   "latitude": "31.27604",
   "longitude": "-79.05368"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "60217",
@@ -109,7 +97,6 @@ const pingData = [{
   "latitude": "31.12612",
   "longitude": "-79.12704"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "60205",
@@ -118,7 +105,6 @@ const pingData = [{
   "latitude": "31.23092",
   "longitude": "-79.1007"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "60170",
@@ -127,7 +113,6 @@ const pingData = [{
   "latitude": "31.30535",
   "longitude": "-79.23541"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "60105",
@@ -136,7 +121,6 @@ const pingData = [{
   "latitude": "31.14577",
   "longitude": "-79.12772"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "60022",
@@ -145,7 +129,6 @@ const pingData = [{
   "latitude": "31.28468",
   "longitude": "-79.33033"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "60011",
@@ -154,7 +137,6 @@ const pingData = [{
   "latitude": "31.14939",
   "longitude": "-79.26378"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "59995",
@@ -163,7 +145,6 @@ const pingData = [{
   "latitude": "31.30975",
   "longitude": "-79.03703"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "59993",
@@ -172,7 +153,6 @@ const pingData = [{
   "latitude": "31.30828",
   "longitude": "-79.03818"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "59991",
@@ -181,7 +161,6 @@ const pingData = [{
   "latitude": "31.29981",
   "longitude": "-79.03267"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "59895",
@@ -190,7 +169,6 @@ const pingData = [{
   "latitude": "31.15287",
   "longitude": "-78.95188"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "59879",
@@ -199,7 +177,6 @@ const pingData = [{
   "latitude": "31.09694",
   "longitude": "-78.98688"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "59877",
@@ -208,7 +185,6 @@ const pingData = [{
   "latitude": "31.08611",
   "longitude": "-78.99077"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "59876",
@@ -217,7 +193,6 @@ const pingData = [{
   "latitude": "31.08337",
   "longitude": "-78.98044"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "59788",
@@ -226,7 +201,6 @@ const pingData = [{
   "latitude": "31.27357",
   "longitude": "-78.95681"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "59787",
@@ -235,7 +209,6 @@ const pingData = [{
   "latitude": "31.26519",
   "longitude": "-78.98256"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "59769",
@@ -244,7 +217,6 @@ const pingData = [{
   "latitude": "31.30753",
   "longitude": "-78.97902"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "59763",
@@ -253,7 +225,6 @@ const pingData = [{
   "latitude": "31.29869",
   "longitude": "-78.98539"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "59750",
@@ -262,7 +233,6 @@ const pingData = [{
   "latitude": "31.05558",
   "longitude": "-79.05107"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "59742",
@@ -271,7 +241,6 @@ const pingData = [{
   "latitude": "31.0598",
   "longitude": "-79.04975"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "59741",
@@ -280,7 +249,6 @@ const pingData = [{
   "latitude": "31.08401",
   "longitude": "-78.91374"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "59715",
@@ -289,7 +257,6 @@ const pingData = [{
   "latitude": "31.16867",
   "longitude": "-78.86118"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "59416",
@@ -298,7 +265,6 @@ const pingData = [{
   "latitude": "31.29548",
   "longitude": "-79.32794"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "59412",
@@ -307,7 +273,6 @@ const pingData = [{
   "latitude": "31.29573",
   "longitude": "-79.31753"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "59411",
@@ -316,7 +281,6 @@ const pingData = [{
   "latitude": "31.29574",
   "longitude": "-79.31754"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "59286",
@@ -325,7 +289,6 @@ const pingData = [{
   "latitude": "31.46324",
   "longitude": "-79.06938"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "59138",
@@ -334,7 +297,6 @@ const pingData = [{
   "latitude": "31.44671",
   "longitude": "-78.93339"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "59067",
@@ -343,7 +305,6 @@ const pingData = [{
   "latitude": "31.87147",
   "longitude": "-77.35744"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "59030",
@@ -352,7 +313,6 @@ const pingData = [{
   "latitude": "31.63496",
   "longitude": "-78.7792"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "59026",
@@ -361,7 +321,6 @@ const pingData = [{
   "latitude": "31.51787",
   "longitude": "-79.10326"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "59006",
@@ -370,7 +329,6 @@ const pingData = [{
   "latitude": "31.51488",
   "longitude": "-79.13822"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "58600",
@@ -379,7 +337,6 @@ const pingData = [{
   "latitude": "31.3104",
   "longitude": "-78.96395"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "58567",
@@ -388,7 +345,6 @@ const pingData = [{
   "latitude": "31.54169",
   "longitude": "-78.49156"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "58525",
@@ -397,7 +353,6 @@ const pingData = [{
   "latitude": "31.49061",
   "longitude": "-78.69292"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "58526",
@@ -406,7 +361,6 @@ const pingData = [{
   "latitude": "31.4859",
   "longitude": "-78.69695"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "58505",
@@ -415,7 +369,6 @@ const pingData = [{
   "latitude": "31.48697",
   "longitude": "-78.84183"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "58450",
@@ -424,7 +377,6 @@ const pingData = [{
   "latitude": "31.41303",
   "longitude": "-79.31047"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "58354",
@@ -433,7 +385,6 @@ const pingData = [{
   "latitude": "31.02384",
   "longitude": "-78.19803"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "58252",
@@ -442,7 +393,6 @@ const pingData = [{
   "latitude": "31.50544",
   "longitude": "-77.08085"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "58238",
@@ -451,7 +401,6 @@ const pingData = [{
   "latitude": "31.95577",
   "longitude": "-77.37063"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "58203",
@@ -460,7 +409,6 @@ const pingData = [{
   "latitude": "32.30046",
   "longitude": "-78.19735"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "58202",
@@ -469,7 +417,6 @@ const pingData = [{
   "latitude": "32.29535",
   "longitude": "-78.20633"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "58181",
@@ -478,7 +425,6 @@ const pingData = [{
   "latitude": "32.34934",
   "longitude": "-78.37099"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "58075",
@@ -487,7 +433,6 @@ const pingData = [{
   "latitude": "31.3761",
   "longitude": "-79.2295"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "57969",
@@ -496,7 +441,6 @@ const pingData = [{
   "latitude": "31.44543",
   "longitude": "-78.6739"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "57694",
@@ -505,7 +449,6 @@ const pingData = [{
   "latitude": "31.47899",
   "longitude": "-78.95284"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "57579",
@@ -514,7 +457,6 @@ const pingData = [{
   "latitude": "31.67428",
   "longitude": "-78.8833"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "57578",
@@ -523,7 +465,6 @@ const pingData = [{
   "latitude": "31.59617",
   "longitude": "-78.8922"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "57545",
@@ -532,7 +473,6 @@ const pingData = [{
   "latitude": "31.26918",
   "longitude": "-79.33872"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "57468",
@@ -541,7 +481,6 @@ const pingData = [{
   "latitude": "30.91614",
   "longitude": "-78.65992"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "57446",
@@ -550,7 +489,6 @@ const pingData = [{
   "latitude": "31.50635",
   "longitude": "-76.00479"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "57444",
@@ -559,7 +497,6 @@ const pingData = [{
   "latitude": "31.69623",
   "longitude": "-75.66385"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "57431",
@@ -568,7 +505,6 @@ const pingData = [{
   "latitude": "31.73659",
   "longitude": "-75.96664"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "57370",
@@ -577,7 +513,6 @@ const pingData = [{
   "latitude": "31.79232",
   "longitude": "-79.19172"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "57364",
@@ -586,7 +521,6 @@ const pingData = [{
   "latitude": "31.75234",
   "longitude": "-79.176"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "57027",
@@ -595,7 +529,6 @@ const pingData = [{
   "latitude": "31.90583",
   "longitude": "-77.85454"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "56594",
@@ -604,7 +537,6 @@ const pingData = [{
   "latitude": "32.00863",
   "longitude": "-78.87824"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "56590",
@@ -613,7 +545,6 @@ const pingData = [{
   "latitude": "32.05949",
   "longitude": "-79.81638"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "56209",
@@ -622,7 +553,6 @@ const pingData = [{
   "latitude": "31.9757",
   "longitude": "-80.19268"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "56190",
@@ -631,7 +561,6 @@ const pingData = [{
   "latitude": "32.09201",
   "longitude": "-79.94613"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "56180",
@@ -640,7 +569,6 @@ const pingData = [{
   "latitude": "32.15312",
   "longitude": "-79.86559"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "56154",
@@ -649,7 +577,6 @@ const pingData = [{
   "latitude": "32.06022",
   "longitude": "-79.74049"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "56150",
@@ -658,7 +585,6 @@ const pingData = [{
   "latitude": "32.05051",
   "longitude": "-79.72597"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "56133",
@@ -667,7 +593,6 @@ const pingData = [{
   "latitude": "32.03591",
   "longitude": "-79.72385"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "54138",
@@ -676,7 +601,6 @@ const pingData = [{
   "latitude": "32.21759",
   "longitude": "-79.01743"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "54134",
@@ -685,7 +609,6 @@ const pingData = [{
   "latitude": "32.22172",
   "longitude": "-79.06763"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "54099",
@@ -694,7 +617,6 @@ const pingData = [{
   "latitude": "32.20899",
   "longitude": "-79.04301"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "53983",
@@ -703,7 +625,6 @@ const pingData = [{
   "latitude": "32.33881",
   "longitude": "-79.03728"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "53766",
@@ -712,7 +633,6 @@ const pingData = [{
   "latitude": "31.57246",
   "longitude": "-79.32608"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "53749",
@@ -721,7 +641,6 @@ const pingData = [{
   "latitude": "31.54044",
   "longitude": "-79.32624"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "53622",
@@ -730,7 +649,6 @@ const pingData = [{
   "latitude": "31.21047",
   "longitude": "-79.4152"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "53572",
@@ -739,7 +657,6 @@ const pingData = [{
   "latitude": "31.34148",
   "longitude": "-78.81726"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "53301",
@@ -748,7 +665,6 @@ const pingData = [{
   "latitude": "31.65347",
   "longitude": "-79.33011"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "53230",
@@ -757,7 +673,6 @@ const pingData = [{
   "latitude": "31.80047",
   "longitude": "-79.20688"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "53222",
@@ -766,7 +681,6 @@ const pingData = [{
   "latitude": "31.67424",
   "longitude": "-79.07685"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "53220",
@@ -775,7 +689,6 @@ const pingData = [{
   "latitude": "31.67219",
   "longitude": "-79.0779"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "52443",
@@ -784,7 +697,6 @@ const pingData = [{
   "latitude": "32.99034",
   "longitude": "-77.24555"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "52440",
@@ -793,7 +705,6 @@ const pingData = [{
   "latitude": "32.78827",
   "longitude": "-77.45243"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "52418",
@@ -802,7 +713,6 @@ const pingData = [{
   "latitude": "32.15799",
   "longitude": "-78.52763"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "52217",
@@ -811,7 +721,6 @@ const pingData = [{
   "latitude": "31.6834",
   "longitude": "-77.27899"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "52005",
@@ -820,7 +729,6 @@ const pingData = [{
   "latitude": "31.20237",
   "longitude": "-78.39483"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "51983",
@@ -829,7 +737,6 @@ const pingData = [{
   "latitude": "30.68823",
   "longitude": "-77.76601"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "51982",
@@ -838,7 +745,6 @@ const pingData = [{
   "latitude": "30.68823",
   "longitude": "-77.76601"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "51624",
@@ -847,7 +753,6 @@ const pingData = [{
   "latitude": "31.83437",
   "longitude": "-77.57658"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "51613",
@@ -856,7 +761,6 @@ const pingData = [{
   "latitude": "32.0754",
   "longitude": "-76.68781"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "51549",
@@ -865,7 +769,6 @@ const pingData = [{
   "latitude": "34.5825",
   "longitude": "-74.47433"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "51477",
@@ -874,7 +777,6 @@ const pingData = [{
   "latitude": "35.59395",
   "longitude": "-74.78188"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "51476",
@@ -883,7 +785,6 @@ const pingData = [{
   "latitude": "35.63571",
   "longitude": "-74.80059"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "51467",
@@ -892,7 +793,6 @@ const pingData = [{
   "latitude": "36.02585",
   "longitude": "-74.63865"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "51466",
@@ -901,7 +801,6 @@ const pingData = [{
   "latitude": "36.02567",
   "longitude": "-74.64117"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "51455",
@@ -910,7 +809,6 @@ const pingData = [{
   "latitude": "36.48996",
   "longitude": "-74.34659"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "51434",
@@ -919,7 +817,6 @@ const pingData = [{
   "latitude": "37.25114",
   "longitude": "-73.65293"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "51433",
@@ -928,7 +825,6 @@ const pingData = [{
   "latitude": "37.18794",
   "longitude": "-73.68199"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "51410",
@@ -937,7 +833,6 @@ const pingData = [{
   "latitude": "37.84437",
   "longitude": "-73.45394"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "51409",
@@ -946,7 +841,6 @@ const pingData = [{
   "latitude": "37.81253",
   "longitude": "-73.55068"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "51389",
@@ -955,7 +849,6 @@ const pingData = [{
   "latitude": "36.71124",
   "longitude": "-73.76105"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "51383",
@@ -964,7 +857,6 @@ const pingData = [{
   "latitude": "36.51548",
   "longitude": "-73.95583"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "51334",
@@ -973,7 +865,6 @@ const pingData = [{
   "latitude": "35.9659",
   "longitude": "-73.40123"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "51333",
@@ -982,7 +873,6 @@ const pingData = [{
   "latitude": "35.9659",
   "longitude": "-73.40123"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "51326",
@@ -991,7 +881,6 @@ const pingData = [{
   "latitude": "36.01255",
   "longitude": "-73.4291"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "51325",
@@ -1000,7 +889,6 @@ const pingData = [{
   "latitude": "36.01255",
   "longitude": "-73.4291"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "51312",
@@ -1009,7 +897,6 @@ const pingData = [{
   "latitude": "36.07942",
   "longitude": "-73.51022"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "51311",
@@ -1018,7 +905,6 @@ const pingData = [{
   "latitude": "36.07942",
   "longitude": "-73.51022"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "51270",
@@ -1027,7 +913,6 @@ const pingData = [{
   "latitude": "36.49691",
   "longitude": "-74.91237"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "51269",
@@ -1036,7 +921,6 @@ const pingData = [{
   "latitude": "36.49691",
   "longitude": "-74.91237"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "51168",
@@ -1045,7 +929,6 @@ const pingData = [{
   "latitude": "37.70707",
   "longitude": "-75.0424"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "51159",
@@ -1054,7 +937,6 @@ const pingData = [{
   "latitude": "37.62188",
   "longitude": "-74.84342"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "51157",
@@ -1063,7 +945,6 @@ const pingData = [{
   "latitude": "37.66054",
   "longitude": "-74.86735"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "51155",
@@ -1072,7 +953,6 @@ const pingData = [{
   "latitude": "37.66558",
   "longitude": "-74.86642"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "51152",
@@ -1081,7 +961,6 @@ const pingData = [{
   "latitude": "37.64492",
   "longitude": "-74.90828"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "51151",
@@ -1090,7 +969,6 @@ const pingData = [{
   "latitude": "37.6442",
   "longitude": "-74.9112"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "51149",
@@ -1099,7 +977,6 @@ const pingData = [{
   "latitude": "37.64304",
   "longitude": "-74.90974"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "51059",
@@ -1108,7 +985,6 @@ const pingData = [{
   "latitude": "40.62823",
   "longitude": "-72.70386"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "51055",
@@ -1117,7 +993,6 @@ const pingData = [{
   "latitude": "40.65079",
   "longitude": "-72.55458"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "51052",
@@ -1126,7 +1001,6 @@ const pingData = [{
   "latitude": "40.64768",
   "longitude": "-72.38032"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "51043",
@@ -1135,7 +1009,6 @@ const pingData = [{
   "latitude": "40.81634",
   "longitude": "-72.10197"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "51029",
@@ -1144,7 +1017,6 @@ const pingData = [{
   "latitude": "40.89177",
   "longitude": "-72.17262"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "51028",
@@ -1153,7 +1025,6 @@ const pingData = [{
   "latitude": "40.87861",
   "longitude": "-72.15627"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "51027",
@@ -1162,7 +1033,6 @@ const pingData = [{
   "latitude": "40.86076",
   "longitude": "-72.12372"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "51026",
@@ -1171,7 +1041,6 @@ const pingData = [{
   "latitude": "40.84895",
   "longitude": "-72.10474"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "51025",
@@ -1180,7 +1049,6 @@ const pingData = [{
   "latitude": "40.81558",
   "longitude": "-72.00636"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "51024",
@@ -1189,7 +1057,6 @@ const pingData = [{
   "latitude": "40.79778",
   "longitude": "-71.99719"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "51023",
@@ -1198,7 +1065,6 @@ const pingData = [{
   "latitude": "40.75471",
   "longitude": "-71.99229"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "51001",
@@ -1207,7 +1073,6 @@ const pingData = [{
   "latitude": "40.32739313108896",
   "longitude": "-73.67256124999994"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "51000",
@@ -1216,7 +1081,6 @@ const pingData = [{
   "latitude": "39.64291616256428",
   "longitude": "-73.82703742187505"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "50927",
@@ -1225,7 +1089,6 @@ const pingData = [{
   "latitude": "39.08907",
   "longitude": "-74.09382"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "50923",
@@ -1234,7 +1097,6 @@ const pingData = [{
   "latitude": "39.00014",
   "longitude": "-73.93063"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "50921",
@@ -1243,7 +1105,6 @@ const pingData = [{
   "latitude": "38.95042",
   "longitude": "-73.78341"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "50919",
@@ -1252,7 +1113,6 @@ const pingData = [{
   "latitude": "38.9138",
   "longitude": "-73.68039"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "50915",
@@ -1261,7 +1121,6 @@ const pingData = [{
   "latitude": "38.82265",
   "longitude": "-73.61052"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "50914",
@@ -1270,7 +1129,6 @@ const pingData = [{
   "latitude": "38.8185",
   "longitude": "-73.58494"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "50912",
@@ -1279,7 +1137,6 @@ const pingData = [{
   "latitude": "38.81067",
   "longitude": "-73.53184"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "50908",
@@ -1288,7 +1145,6 @@ const pingData = [{
   "latitude": "38.81279",
   "longitude": "-73.53612"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "50907",
@@ -1297,7 +1153,6 @@ const pingData = [{
   "latitude": "38.8601",
   "longitude": "-73.67413"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "50898",
@@ -1306,7 +1161,6 @@ const pingData = [{
   "latitude": "38.64592",
   "longitude": "-72.58453"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "50896",
@@ -1315,7 +1169,6 @@ const pingData = [{
   "latitude": "38.64727",
   "longitude": "-72.55594"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "50895",
@@ -1324,7 +1177,6 @@ const pingData = [{
   "latitude": "38.64159",
   "longitude": "-72.50651"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "50894",
@@ -1333,7 +1185,6 @@ const pingData = [{
   "latitude": "38.64471",
   "longitude": "-72.51034"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "50891",
@@ -1342,7 +1193,6 @@ const pingData = [{
   "latitude": "38.64644",
   "longitude": "-72.34266"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "50885",
@@ -1351,7 +1201,6 @@ const pingData = [{
   "latitude": "38.65209",
   "longitude": "-72.15354"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "50883",
@@ -1360,7 +1209,6 @@ const pingData = [{
   "latitude": "38.63679",
   "longitude": "-72.10417"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "50882",
@@ -1369,7 +1217,6 @@ const pingData = [{
   "latitude": "38.64667",
   "longitude": "-72.12722"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "50878",
@@ -1378,7 +1225,6 @@ const pingData = [{
   "latitude": "38.63445",
   "longitude": "-72.08382"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "50876",
@@ -1387,7 +1233,6 @@ const pingData = [{
   "latitude": "38.56464",
   "longitude": "-72.00411"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "50881",
@@ -1396,7 +1241,6 @@ const pingData = [{
   "latitude": "38.26009",
   "longitude": "-71.11539"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "50873",
@@ -1405,7 +1249,6 @@ const pingData = [{
   "latitude": "38.28359",
   "longitude": "-71.11784"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "50872",
@@ -1414,7 +1257,6 @@ const pingData = [{
   "latitude": "38.36892",
   "longitude": "-71.13599"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "50852",
@@ -1423,7 +1265,6 @@ const pingData = [{
   "latitude": "38.23104",
   "longitude": "-71.21278"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "50833",
@@ -1432,7 +1273,6 @@ const pingData = [{
   "latitude": "37.95763",
   "longitude": "-71.41107"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "50832",
@@ -1441,7 +1281,6 @@ const pingData = [{
   "latitude": "37.95745",
   "longitude": "-71.41105"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "50769",
@@ -1450,7 +1289,6 @@ const pingData = [{
   "latitude": "37.43544",
   "longitude": "-71.59101"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "50768",
@@ -1459,7 +1297,6 @@ const pingData = [{
   "latitude": "37.45089",
   "longitude": "-71.58169"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "50767",
@@ -1468,7 +1305,6 @@ const pingData = [{
   "latitude": "37.60479",
   "longitude": "-71.56357"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "50697",
@@ -1477,7 +1313,6 @@ const pingData = [{
   "latitude": "38.04105",
   "longitude": "-72.4167"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "50696",
@@ -1486,7 +1321,6 @@ const pingData = [{
   "latitude": "38.1111",
   "longitude": "-72.85043"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "50695",
@@ -1495,7 +1329,6 @@ const pingData = [{
   "latitude": "38.21095",
   "longitude": "-72.81279"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "50691",
@@ -1504,7 +1337,6 @@ const pingData = [{
   "latitude": "38.37552",
   "longitude": "-72.70963"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "50690",
@@ -1513,7 +1345,6 @@ const pingData = [{
   "latitude": "38.40668",
   "longitude": "-72.65079"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "50688",
@@ -1522,7 +1353,6 @@ const pingData = [{
   "latitude": "38.507",
   "longitude": "-72.51423"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "50654",
@@ -1531,7 +1361,6 @@ const pingData = [{
   "latitude": "38.49456",
   "longitude": "-72.34331"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "50653",
@@ -1540,7 +1369,6 @@ const pingData = [{
   "latitude": "38.52052",
   "longitude": "-72.32738"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "50652",
@@ -1549,7 +1377,6 @@ const pingData = [{
   "latitude": "38.50515",
   "longitude": "-72.27812"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "50651",
@@ -1558,7 +1385,6 @@ const pingData = [{
   "latitude": "38.49346",
   "longitude": "-72.15246"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "50650",
@@ -1567,7 +1393,6 @@ const pingData = [{
   "latitude": "38.48369",
   "longitude": "-72.14711"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "50649",
@@ -1576,7 +1401,6 @@ const pingData = [{
   "latitude": "38.4764",
   "longitude": "-72.12793"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "50648",
@@ -1585,7 +1409,6 @@ const pingData = [{
   "latitude": "38.46607",
   "longitude": "-72.06224"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "50647",
@@ -1594,7 +1417,6 @@ const pingData = [{
   "latitude": "38.46289",
   "longitude": "-72.04132"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "50646",
@@ -1603,7 +1425,6 @@ const pingData = [{
   "latitude": "38.71936",
   "longitude": "-71.07117"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "50645",
@@ -1612,7 +1433,6 @@ const pingData = [{
   "latitude": "38.65663",
   "longitude": "-71.09955"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "50644",
@@ -1621,7 +1441,6 @@ const pingData = [{
   "latitude": "38.62661",
   "longitude": "-71.12201"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "50643",
@@ -1630,7 +1449,6 @@ const pingData = [{
   "latitude": "38.30477",
   "longitude": "-70.75695"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "50642",
@@ -1639,7 +1457,6 @@ const pingData = [{
   "latitude": "38.12594",
   "longitude": "-70.82938"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "50631",
@@ -1648,7 +1465,6 @@ const pingData = [{
   "latitude": "38.16867",
   "longitude": "-71.2203"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "50630",
@@ -1657,7 +1473,6 @@ const pingData = [{
   "latitude": "38.22887",
   "longitude": "-71.56214"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "50626",
@@ -1666,7 +1481,6 @@ const pingData = [{
   "latitude": "38.33017",
   "longitude": "-71.63989"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "50625",
@@ -1675,7 +1489,6 @@ const pingData = [{
   "latitude": "38.32285",
   "longitude": "-71.64673"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "50624",
@@ -1684,7 +1497,6 @@ const pingData = [{
   "latitude": "38.3719",
   "longitude": "-71.59835"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "50621",
@@ -1693,7 +1505,6 @@ const pingData = [{
   "latitude": "38.52293",
   "longitude": "-71.78726"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "50620",
@@ -1702,7 +1513,6 @@ const pingData = [{
   "latitude": "38.54939",
   "longitude": "-71.73867"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "50619",
@@ -1711,7 +1521,6 @@ const pingData = [{
   "latitude": "38.5831",
   "longitude": "-71.67944"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "50616",
@@ -1720,7 +1529,6 @@ const pingData = [{
   "latitude": "38.5983",
   "longitude": "-71.65204"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "50615",
@@ -1729,7 +1537,6 @@ const pingData = [{
   "latitude": "38.74351",
   "longitude": "-71.48436"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "50614",
@@ -1738,7 +1545,6 @@ const pingData = [{
   "latitude": "38.75685",
   "longitude": "-71.4717"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "50612",
@@ -1747,7 +1553,6 @@ const pingData = [{
   "latitude": "38.73628",
   "longitude": "-71.44285"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "50610",
@@ -1756,7 +1561,6 @@ const pingData = [{
   "latitude": "38.85984",
   "longitude": "-71.41965"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "50606",
@@ -1765,7 +1569,6 @@ const pingData = [{
   "latitude": "38.81158",
   "longitude": "-71.31326"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "50604",
@@ -1774,7 +1577,6 @@ const pingData = [{
   "latitude": "38.74364",
   "longitude": "-71.30736"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "50603",
@@ -1783,7 +1585,6 @@ const pingData = [{
   "latitude": "38.68712",
   "longitude": "-71.29931"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "50598",
@@ -1792,7 +1593,6 @@ const pingData = [{
   "latitude": "38.46435",
   "longitude": "-71.40236"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "50596",
@@ -1801,7 +1601,6 @@ const pingData = [{
   "latitude": "38.45075",
   "longitude": "-71.41164"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "50595",
@@ -1810,7 +1609,6 @@ const pingData = [{
   "latitude": "38.43327",
   "longitude": "-71.38992"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "50593",
@@ -1819,7 +1617,6 @@ const pingData = [{
   "latitude": "38.41948",
   "longitude": "-71.36666"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "50591",
@@ -1828,7 +1625,6 @@ const pingData = [{
   "latitude": "38.38225",
   "longitude": "-71.36248"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "50565",
@@ -1837,7 +1633,6 @@ const pingData = [{
   "latitude": "37.74396",
   "longitude": "-70.89339"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "50525",
@@ -1846,7 +1641,6 @@ const pingData = [{
   "latitude": "37.11115",
   "longitude": "-70.94744"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "50522",
@@ -1855,7 +1649,6 @@ const pingData = [{
   "latitude": "37.07039",
   "longitude": "-70.76498"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "50520",
@@ -1864,7 +1657,6 @@ const pingData = [{
   "latitude": "37.00781",
   "longitude": "-70.62134"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "50519",
@@ -1873,7 +1665,6 @@ const pingData = [{
   "latitude": "37.00664",
   "longitude": "-70.60411"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "50510",
@@ -1882,7 +1673,6 @@ const pingData = [{
   "latitude": "36.86173",
   "longitude": "-70.75639"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "50507",
@@ -1891,7 +1681,6 @@ const pingData = [{
   "latitude": "36.90618",
   "longitude": "-70.64772"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "50502",
@@ -1900,7 +1689,6 @@ const pingData = [{
   "latitude": "36.85916",
   "longitude": "-70.36281"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "50500",
@@ -1909,7 +1697,6 @@ const pingData = [{
   "latitude": "36.77174",
   "longitude": "-70.38127"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "50497",
@@ -1918,7 +1705,6 @@ const pingData = [{
   "latitude": "36.86523",
   "longitude": "-70.20893"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "50495",
@@ -1927,7 +1713,6 @@ const pingData = [{
   "latitude": "36.98144",
   "longitude": "-70.11151"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "50494",
@@ -1936,7 +1721,6 @@ const pingData = [{
   "latitude": "37.00259",
   "longitude": "-70.08965"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "50493",
@@ -1945,7 +1729,6 @@ const pingData = [{
   "latitude": "37.01535",
   "longitude": "-70.07935"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "50492",
@@ -1954,7 +1737,6 @@ const pingData = [{
   "latitude": "37.09069",
   "longitude": "-70.05741"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "50490",
@@ -1963,7 +1745,6 @@ const pingData = [{
   "latitude": "37.11681",
   "longitude": "-69.91009"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "50488",
@@ -1972,7 +1753,6 @@ const pingData = [{
   "latitude": "37.2117",
   "longitude": "-69.7417"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "50468",
@@ -1981,7 +1761,6 @@ const pingData = [{
   "latitude": "37.25642",
   "longitude": "-69.89411"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "50455",
@@ -1990,7 +1769,6 @@ const pingData = [{
   "latitude": "37.29203",
   "longitude": "-70.09773"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "50454",
@@ -1999,7 +1777,6 @@ const pingData = [{
   "latitude": "37.35249",
   "longitude": "-70.06011"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "50451",
@@ -2008,7 +1785,6 @@ const pingData = [{
   "latitude": "37.29194",
   "longitude": "-70.38761"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "50450",
@@ -2017,7 +1793,6 @@ const pingData = [{
   "latitude": "37.29351",
   "longitude": "-70.40874"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "50402",
@@ -2026,7 +1801,6 @@ const pingData = [{
   "latitude": "37.88941",
   "longitude": "-72.20129"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "50401",
@@ -2035,7 +1809,6 @@ const pingData = [{
   "latitude": "37.87731",
   "longitude": "-72.21126"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "50390",
@@ -2044,7 +1817,6 @@ const pingData = [{
   "latitude": "37.81744",
   "longitude": "-72.5519"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "50387",
@@ -2053,7 +1825,6 @@ const pingData = [{
   "latitude": "37.79093",
   "longitude": "-72.70379"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "50386",
@@ -2062,7 +1833,6 @@ const pingData = [{
   "latitude": "37.78603",
   "longitude": "-72.68554"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "50383",
@@ -2071,7 +1841,6 @@ const pingData = [{
   "latitude": "37.74871",
   "longitude": "-72.80518000000001"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "50382",
@@ -2080,7 +1849,6 @@ const pingData = [{
   "latitude": "37.71345",
   "longitude": "-72.88876"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "50380",
@@ -2089,7 +1857,6 @@ const pingData = [{
   "latitude": "37.68556",
   "longitude": "-72.90218"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "50377",
@@ -2098,7 +1865,6 @@ const pingData = [{
   "latitude": "37.69071",
   "longitude": "-72.90462"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "50376",
@@ -2107,7 +1873,6 @@ const pingData = [{
   "latitude": "37.67393",
   "longitude": "-72.90965"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "50375",
@@ -2116,7 +1881,6 @@ const pingData = [{
   "latitude": "37.65916",
   "longitude": "-72.94205"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "50374",
@@ -2125,7 +1889,6 @@ const pingData = [{
   "latitude": "37.63985",
   "longitude": "-73.00967"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "50373",
@@ -2134,7 +1897,6 @@ const pingData = [{
   "latitude": "37.72819",
   "longitude": "-74.07512"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "50372",
@@ -2143,7 +1905,6 @@ const pingData = [{
   "latitude": "37.49795",
   "longitude": "-73.36206"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "50371",
@@ -2152,7 +1913,6 @@ const pingData = [{
   "latitude": "37.46219",
   "longitude": "-73.04009"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "50370",
@@ -2161,7 +1921,6 @@ const pingData = [{
   "latitude": "37.80942",
   "longitude": "-74.17274"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "50356",
@@ -2170,7 +1929,6 @@ const pingData = [{
   "latitude": "36.49013",
   "longitude": "-73.12029"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "50355",
@@ -2179,7 +1937,6 @@ const pingData = [{
   "latitude": "36.48922",
   "longitude": "-73.12693"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "50354",
@@ -2188,7 +1945,6 @@ const pingData = [{
   "latitude": "36.48654",
   "longitude": "-73.12734"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "50353",
@@ -2197,7 +1953,6 @@ const pingData = [{
   "latitude": "36.48217",
   "longitude": "-73.12241"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "50293",
@@ -2206,7 +1961,6 @@ const pingData = [{
   "latitude": "32.80242",
   "longitude": "-76.12403"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "50292",
@@ -2215,7 +1969,6 @@ const pingData = [{
   "latitude": "32.7356",
   "longitude": "-76.04395"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "50244",
@@ -2224,7 +1977,6 @@ const pingData = [{
   "latitude": "32.62878",
   "longitude": "-75.20701"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "50217",
@@ -2233,7 +1985,6 @@ const pingData = [{
   "latitude": "32.57659",
   "longitude": "-75.46961"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "50197",
@@ -2242,7 +1993,6 @@ const pingData = [{
   "latitude": "32.62839",
   "longitude": "-75.22716"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "50187",
@@ -2251,7 +2001,6 @@ const pingData = [{
   "latitude": "32.81439",
   "longitude": "-74.4666"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "50186",
@@ -2260,7 +2009,6 @@ const pingData = [{
   "latitude": "32.76201",
   "longitude": "-74.46517"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "50180",
@@ -2269,7 +2017,6 @@ const pingData = [{
   "latitude": "32.76869",
   "longitude": "-74.60623"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "50173",
@@ -2278,7 +2025,6 @@ const pingData = [{
   "latitude": "32.79614",
   "longitude": "-74.28931"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "50171",
@@ -2287,7 +2033,6 @@ const pingData = [{
   "latitude": "32.85542",
   "longitude": "-74.04894"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "50170",
@@ -2296,7 +2041,6 @@ const pingData = [{
   "latitude": "33.09732",
   "longitude": "-73.75313"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "50155",
@@ -2305,7 +2049,6 @@ const pingData = [{
   "latitude": "32.952",
   "longitude": "-73.59128"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "50151",
@@ -2314,7 +2057,6 @@ const pingData = [{
   "latitude": "32.92855",
   "longitude": "-73.57225"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "50146",
@@ -2323,7 +2065,6 @@ const pingData = [{
   "latitude": "32.92338",
   "longitude": "-73.5765"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "50144",
@@ -2332,7 +2073,6 @@ const pingData = [{
   "latitude": "32.91919",
   "longitude": "-73.57146"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "50141",
@@ -2341,7 +2081,6 @@ const pingData = [{
   "latitude": "32.90354",
   "longitude": "-73.54934"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "50054",
@@ -2350,7 +2089,6 @@ const pingData = [{
   "latitude": "34.58095",
   "longitude": "-70.27446"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "50036",
@@ -2359,7 +2097,6 @@ const pingData = [{
   "latitude": "35.67282",
   "longitude": "-69.70239"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "50035",
@@ -2368,7 +2105,6 @@ const pingData = [{
   "latitude": "35.66718",
   "longitude": "-69.6973"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "50033",
@@ -2377,7 +2113,6 @@ const pingData = [{
   "latitude": "35.89958",
   "longitude": "-69.43682"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "50027",
@@ -2386,7 +2121,6 @@ const pingData = [{
   "latitude": "36.46411",
   "longitude": "-68.8959"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "50026",
@@ -2395,7 +2129,6 @@ const pingData = [{
   "latitude": "36.521",
   "longitude": "-68.78352"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "50025",
@@ -2404,7 +2137,6 @@ const pingData = [{
   "latitude": "36.59125",
   "longitude": "-68.79413"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "50024",
@@ -2413,7 +2145,6 @@ const pingData = [{
   "latitude": "36.59911",
   "longitude": "-68.77014"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "50011",
@@ -2422,7 +2153,6 @@ const pingData = [{
   "latitude": "37.47827",
   "longitude": "-68.69051"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "50007",
@@ -2431,7 +2161,6 @@ const pingData = [{
   "latitude": "37.64302",
   "longitude": "-68.97715"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "50008",
@@ -2440,7 +2169,6 @@ const pingData = [{
   "latitude": "37.62809",
   "longitude": "-69.0458"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "50006",
@@ -2449,7 +2177,6 @@ const pingData = [{
   "latitude": "37.66411",
   "longitude": "-69.20382"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "50005",
@@ -2458,7 +2185,6 @@ const pingData = [{
   "latitude": "37.71555",
   "longitude": "-69.23738"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "50004",
@@ -2467,7 +2193,6 @@ const pingData = [{
   "latitude": "37.77082",
   "longitude": "-69.46354"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "50002",
@@ -2476,7 +2201,6 @@ const pingData = [{
   "latitude": "37.90235",
   "longitude": "-69.5821"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49995",
@@ -2485,7 +2209,6 @@ const pingData = [{
   "latitude": "38.23783",
   "longitude": "-69.49483"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49993",
@@ -2494,7 +2217,6 @@ const pingData = [{
   "latitude": "38.25371",
   "longitude": "-69.39352"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49983",
@@ -2503,7 +2225,6 @@ const pingData = [{
   "latitude": "38.91189",
   "longitude": "-69.60151"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49980",
@@ -2512,7 +2233,6 @@ const pingData = [{
   "latitude": "38.98712",
   "longitude": "-69.65241"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49978",
@@ -2521,7 +2241,6 @@ const pingData = [{
   "latitude": "39.01127",
   "longitude": "-69.65569"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49977",
@@ -2530,7 +2249,6 @@ const pingData = [{
   "latitude": "38.81951",
   "longitude": "-70.13633"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49974",
@@ -2539,7 +2257,6 @@ const pingData = [{
   "latitude": "39.05809",
   "longitude": "-70.0333"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49973",
@@ -2548,7 +2265,6 @@ const pingData = [{
   "latitude": "39.14561",
   "longitude": "-69.98993"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49972",
@@ -2557,7 +2273,6 @@ const pingData = [{
   "latitude": "39.22195",
   "longitude": "-69.9461"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49971",
@@ -2566,7 +2281,6 @@ const pingData = [{
   "latitude": "39.33028",
   "longitude": "-69.92401"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49966",
@@ -2575,7 +2289,6 @@ const pingData = [{
   "latitude": "39.38721",
   "longitude": "-69.8821"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49964",
@@ -2584,7 +2297,6 @@ const pingData = [{
   "latitude": "39.39054",
   "longitude": "-69.87893"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49961",
@@ -2593,7 +2305,6 @@ const pingData = [{
   "latitude": "39.49119",
   "longitude": "-69.81092"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49984",
@@ -2602,7 +2313,6 @@ const pingData = [{
   "latitude": "39.49031",
   "longitude": "-69.81014"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49959",
@@ -2611,7 +2321,6 @@ const pingData = [{
   "latitude": "39.58793",
   "longitude": "-70.34654"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49957",
@@ -2620,7 +2329,6 @@ const pingData = [{
   "latitude": "39.68859",
   "longitude": "-70.28915"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49952",
@@ -2629,7 +2337,6 @@ const pingData = [{
   "latitude": "39.88361",
   "longitude": "-70.13588"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49940",
@@ -2638,7 +2345,6 @@ const pingData = [{
   "latitude": "40.60235",
   "longitude": "-69.93496"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49939",
@@ -2647,7 +2353,6 @@ const pingData = [{
   "latitude": "40.63711",
   "longitude": "-69.92345"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49924",
@@ -2656,7 +2361,6 @@ const pingData = [{
   "latitude": "40.46091",
   "longitude": "-68.70401"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49923",
@@ -2665,7 +2369,6 @@ const pingData = [{
   "latitude": "40.5142",
   "longitude": "-68.72396"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49919",
@@ -2674,7 +2377,6 @@ const pingData = [{
   "latitude": "40.51064",
   "longitude": "-68.69054"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49915",
@@ -2683,7 +2385,6 @@ const pingData = [{
   "latitude": "40.50639",
   "longitude": "-68.68916"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49914",
@@ -2692,7 +2393,6 @@ const pingData = [{
   "latitude": "40.50599",
   "longitude": "-68.69641"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49913",
@@ -2701,7 +2401,6 @@ const pingData = [{
   "latitude": "40.50703",
   "longitude": "-68.67829"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49912",
@@ -2710,7 +2409,6 @@ const pingData = [{
   "latitude": "40.5117",
   "longitude": "-68.69451"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49911",
@@ -2719,7 +2417,6 @@ const pingData = [{
   "latitude": "40.53534",
   "longitude": "-68.7731"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49910",
@@ -2728,7 +2425,6 @@ const pingData = [{
   "latitude": "40.57725",
   "longitude": "-68.58061"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49908",
@@ -2737,7 +2433,6 @@ const pingData = [{
   "latitude": "40.51695",
   "longitude": "-68.57751"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49905",
@@ -2746,7 +2441,6 @@ const pingData = [{
   "latitude": "40.43727",
   "longitude": "-68.32779"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49918",
@@ -2755,7 +2449,6 @@ const pingData = [{
   "latitude": "40.41117",
   "longitude": "-68.25811"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49903",
@@ -2764,7 +2457,6 @@ const pingData = [{
   "latitude": "40.41116",
   "longitude": "-68.2577"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49901",
@@ -2773,7 +2465,6 @@ const pingData = [{
   "latitude": "40.40491",
   "longitude": "-68.24814"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49899",
@@ -2782,7 +2473,6 @@ const pingData = [{
   "latitude": "40.24503",
   "longitude": "-68.14428"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49898",
@@ -2791,7 +2481,6 @@ const pingData = [{
   "latitude": "40.23357",
   "longitude": "-68.14246"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49881",
@@ -2800,7 +2489,6 @@ const pingData = [{
   "latitude": "39.17559",
   "longitude": "-67.35805"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49880",
@@ -2809,7 +2497,6 @@ const pingData = [{
   "latitude": "39.16071",
   "longitude": "-67.32685"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49879",
@@ -2818,7 +2505,6 @@ const pingData = [{
   "latitude": "39.1312",
   "longitude": "-67.31181"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49875",
@@ -2827,7 +2513,6 @@ const pingData = [{
   "latitude": "39.0958",
   "longitude": "-67.30487"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49873",
@@ -2836,7 +2521,6 @@ const pingData = [{
   "latitude": "39.07775",
   "longitude": "-67.27191"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49917",
@@ -2845,7 +2529,6 @@ const pingData = [{
   "latitude": "39.06032",
   "longitude": "-67.27465"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49872",
@@ -2854,7 +2537,6 @@ const pingData = [{
   "latitude": "39.06029",
   "longitude": "-67.27474"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49868",
@@ -2863,7 +2545,6 @@ const pingData = [{
   "latitude": "38.19832",
   "longitude": "-66.61114"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49866",
@@ -2872,7 +2553,6 @@ const pingData = [{
   "latitude": "38.18137",
   "longitude": "-66.6106"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49865",
@@ -2881,7 +2561,6 @@ const pingData = [{
   "latitude": "38.15011",
   "longitude": "-66.62855"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49861",
@@ -2890,7 +2569,6 @@ const pingData = [{
   "latitude": "37.52376",
   "longitude": "-67.16095"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49916",
@@ -2899,7 +2577,6 @@ const pingData = [{
   "latitude": "37.52361",
   "longitude": "-67.16053"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49860",
@@ -2908,7 +2585,6 @@ const pingData = [{
   "latitude": "37.49207",
   "longitude": "-67.04377"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49854",
@@ -2917,7 +2593,6 @@ const pingData = [{
   "latitude": "37.49333",
   "longitude": "-67.12786"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49851",
@@ -2926,7 +2601,6 @@ const pingData = [{
   "latitude": "37.45268",
   "longitude": "-66.87436"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49847",
@@ -2935,7 +2609,6 @@ const pingData = [{
   "latitude": "37.44012",
   "longitude": "-66.81924"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49846",
@@ -2944,7 +2617,6 @@ const pingData = [{
   "latitude": "37.45306",
   "longitude": "-66.84996"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49845",
@@ -2953,7 +2625,6 @@ const pingData = [{
   "latitude": "37.47688",
   "longitude": "-66.76404"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49844",
@@ -2962,7 +2633,6 @@ const pingData = [{
   "latitude": "37.47895",
   "longitude": "-66.74658"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49843",
@@ -2971,7 +2641,6 @@ const pingData = [{
   "latitude": "37.42607",
   "longitude": "-66.64939"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49841",
@@ -2980,7 +2649,6 @@ const pingData = [{
   "latitude": "37.40811",
   "longitude": "-66.59298"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49839",
@@ -2989,7 +2657,6 @@ const pingData = [{
   "latitude": "37.33486",
   "longitude": "-66.49561"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49834",
@@ -2998,7 +2665,6 @@ const pingData = [{
   "latitude": "37.2278",
   "longitude": "-66.03272"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49832",
@@ -3007,7 +2673,6 @@ const pingData = [{
   "latitude": "37.22453",
   "longitude": "-66.03702"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49831",
@@ -3016,7 +2681,6 @@ const pingData = [{
   "latitude": "37.21073",
   "longitude": "-65.87403"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49830",
@@ -3025,7 +2689,6 @@ const pingData = [{
   "latitude": "37.21773",
   "longitude": "-65.87296"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49828",
@@ -3034,7 +2697,6 @@ const pingData = [{
   "latitude": "37.17331",
   "longitude": "-65.92169"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49827",
@@ -3043,7 +2705,6 @@ const pingData = [{
   "latitude": "37.07458",
   "longitude": "-65.94868"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49825",
@@ -3052,7 +2713,6 @@ const pingData = [{
   "latitude": "36.99093",
   "longitude": "-66.12357"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49824",
@@ -3061,7 +2721,6 @@ const pingData = [{
   "latitude": "36.99015",
   "longitude": "-66.14406"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49820",
@@ -3070,7 +2729,6 @@ const pingData = [{
   "latitude": "36.97215",
   "longitude": "-65.66562"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49818",
@@ -3079,7 +2737,6 @@ const pingData = [{
   "latitude": "36.97585",
   "longitude": "-65.49929"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49816",
@@ -3088,7 +2745,6 @@ const pingData = [{
   "latitude": "36.97836",
   "longitude": "-65.51409"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49814",
@@ -3097,7 +2753,6 @@ const pingData = [{
   "latitude": "36.97759",
   "longitude": "-65.4913"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49813",
@@ -3106,7 +2761,6 @@ const pingData = [{
   "latitude": "36.97014",
   "longitude": "-65.47971"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49812",
@@ -3115,7 +2769,6 @@ const pingData = [{
   "latitude": "36.97861",
   "longitude": "-65.4585"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49811",
@@ -3124,7 +2777,6 @@ const pingData = [{
   "latitude": "36.95883",
   "longitude": "-65.3937"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49803",
@@ -3133,7 +2785,6 @@ const pingData = [{
   "latitude": "36.91172",
   "longitude": "-65.13516"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49802",
@@ -3142,7 +2793,6 @@ const pingData = [{
   "latitude": "36.89774",
   "longitude": "-64.94326"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49836",
@@ -3151,7 +2801,6 @@ const pingData = [{
   "latitude": "36.90627",
   "longitude": "-64.94751"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49800",
@@ -3160,7 +2809,6 @@ const pingData = [{
   "latitude": "36.90512",
   "longitude": "-64.89012"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49796",
@@ -3169,7 +2817,6 @@ const pingData = [{
   "latitude": "37.04851",
   "longitude": "-64.49895"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49791",
@@ -3178,7 +2825,6 @@ const pingData = [{
   "latitude": "37.01211",
   "longitude": "-64.14738"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49790",
@@ -3187,7 +2833,6 @@ const pingData = [{
   "latitude": "37.01757",
   "longitude": "-64.13702"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49788",
@@ -3196,7 +2841,6 @@ const pingData = [{
   "latitude": "37.02637",
   "longitude": "-63.81605"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49786",
@@ -3205,7 +2849,6 @@ const pingData = [{
   "latitude": "37.02084",
   "longitude": "-63.6112"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49785",
@@ -3214,7 +2857,6 @@ const pingData = [{
   "latitude": "36.99277",
   "longitude": "-63.70288"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49784",
@@ -3223,7 +2865,6 @@ const pingData = [{
   "latitude": "37.00224",
   "longitude": "-63.61003"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49782",
@@ -3232,7 +2873,6 @@ const pingData = [{
   "latitude": "37.04394",
   "longitude": "-63.3845"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49781",
@@ -3241,7 +2881,6 @@ const pingData = [{
   "latitude": "37.09187",
   "longitude": "-63.36047"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49780",
@@ -3250,7 +2889,6 @@ const pingData = [{
   "latitude": "37.09109",
   "longitude": "-63.34608"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49779",
@@ -3259,7 +2897,6 @@ const pingData = [{
   "latitude": "37.12309",
   "longitude": "-63.29832"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49777",
@@ -3268,7 +2905,6 @@ const pingData = [{
   "latitude": "37.16781",
   "longitude": "-63.01273"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49776",
@@ -3277,7 +2913,6 @@ const pingData = [{
   "latitude": "37.18853",
   "longitude": "-62.97579"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49773",
@@ -3286,7 +2921,6 @@ const pingData = [{
   "latitude": "37.2679",
   "longitude": "-62.51326"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49765",
@@ -3295,7 +2929,6 @@ const pingData = [{
   "latitude": "37.25335",
   "longitude": "-62.18562"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49764",
@@ -3304,7 +2937,6 @@ const pingData = [{
   "latitude": "37.27125",
   "longitude": "-62.12447"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49763",
@@ -3313,7 +2945,6 @@ const pingData = [{
   "latitude": "37.30494",
   "longitude": "-62.06033"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49761",
@@ -3322,7 +2953,6 @@ const pingData = [{
   "latitude": "37.32348",
   "longitude": "-62.00974"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49760",
@@ -3331,7 +2961,6 @@ const pingData = [{
   "latitude": "37.36344",
   "longitude": "-61.94219"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49759",
@@ -3340,7 +2969,6 @@ const pingData = [{
   "latitude": "37.35855",
   "longitude": "-61.96166"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49755",
@@ -3349,7 +2977,6 @@ const pingData = [{
   "latitude": "37.38685",
   "longitude": "-61.62984"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49754",
@@ -3358,7 +2985,6 @@ const pingData = [{
   "latitude": "37.37709",
   "longitude": "-61.59021"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49768",
@@ -3367,7 +2993,6 @@ const pingData = [{
   "latitude": "37.39072",
   "longitude": "-61.5711"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49753",
@@ -3376,7 +3001,6 @@ const pingData = [{
   "latitude": "37.38274",
   "longitude": "-61.56371"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49752",
@@ -3385,7 +3009,6 @@ const pingData = [{
   "latitude": "37.39069",
   "longitude": "-61.57106"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49747",
@@ -3394,7 +3017,6 @@ const pingData = [{
   "latitude": "37.62923",
   "longitude": "-60.62873"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49746",
@@ -3403,7 +3025,6 @@ const pingData = [{
   "latitude": "37.6511",
   "longitude": "-60.58095"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49744",
@@ -3412,7 +3033,6 @@ const pingData = [{
   "latitude": "37.48453",
   "longitude": "-60.56433"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49743",
@@ -3421,7 +3041,6 @@ const pingData = [{
   "latitude": "37.61494",
   "longitude": "-60.17031"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49742",
@@ -3430,7 +3049,6 @@ const pingData = [{
   "latitude": "37.67135",
   "longitude": "-60.08735"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49741",
@@ -3439,7 +3057,6 @@ const pingData = [{
   "latitude": "37.77315",
   "longitude": "-59.97721"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49738",
@@ -3448,7 +3065,6 @@ const pingData = [{
   "latitude": "37.76387",
   "longitude": "-59.87418"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49736",
@@ -3457,7 +3073,6 @@ const pingData = [{
   "latitude": "37.78396",
   "longitude": "-59.87695"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49732",
@@ -3466,7 +3081,6 @@ const pingData = [{
   "latitude": "37.77377",
   "longitude": "-59.86883"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49729",
@@ -3475,7 +3089,6 @@ const pingData = [{
   "latitude": "37.81197",
   "longitude": "-59.89687"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49726",
@@ -3484,7 +3097,6 @@ const pingData = [{
   "latitude": "38.06204",
   "longitude": "-59.64855"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49721",
@@ -3493,7 +3105,6 @@ const pingData = [{
   "latitude": "38.41461",
   "longitude": "-59.07475"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49718",
@@ -3502,7 +3113,6 @@ const pingData = [{
   "latitude": "38.30738",
   "longitude": "-59.50323"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49716",
@@ -3511,7 +3121,6 @@ const pingData = [{
   "latitude": "38.24381",
   "longitude": "-59.66455"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49714",
@@ -3520,7 +3129,6 @@ const pingData = [{
   "latitude": "38.25978",
   "longitude": "-59.74486"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49710",
@@ -3529,7 +3137,6 @@ const pingData = [{
   "latitude": "38.28699",
   "longitude": "-59.84866"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49709",
@@ -3538,7 +3145,6 @@ const pingData = [{
   "latitude": "38.30161",
   "longitude": "-59.93621"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49708",
@@ -3547,7 +3153,6 @@ const pingData = [{
   "latitude": "38.25913",
   "longitude": "-60.00609"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49707",
@@ -3556,7 +3161,6 @@ const pingData = [{
   "latitude": "38.25814",
   "longitude": "-60.0772"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49706",
@@ -3565,7 +3169,6 @@ const pingData = [{
   "latitude": "38.26149",
   "longitude": "-60.084"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49705",
@@ -3574,7 +3177,6 @@ const pingData = [{
   "latitude": "38.28926",
   "longitude": "-60.14594"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49703",
@@ -3583,7 +3185,6 @@ const pingData = [{
   "latitude": "38.4517",
   "longitude": "-60.25513"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49702",
@@ -3592,7 +3193,6 @@ const pingData = [{
   "latitude": "38.45777",
   "longitude": "-60.27117"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49701",
@@ -3601,7 +3201,6 @@ const pingData = [{
   "latitude": "38.41318",
   "longitude": "-60.3919"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49700",
@@ -3610,7 +3209,6 @@ const pingData = [{
   "latitude": "38.42699",
   "longitude": "-60.32077"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49699",
@@ -3619,7 +3217,6 @@ const pingData = [{
   "latitude": "38.42637",
   "longitude": "-60.31574"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49698",
@@ -3628,7 +3225,6 @@ const pingData = [{
   "latitude": "38.42556",
   "longitude": "-60.30604"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49697",
@@ -3637,7 +3233,6 @@ const pingData = [{
   "latitude": "38.41982",
   "longitude": "-60.29935"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49696",
@@ -3646,7 +3241,6 @@ const pingData = [{
   "latitude": "38.44435",
   "longitude": "-60.30416"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49695",
@@ -3655,7 +3249,6 @@ const pingData = [{
   "latitude": "38.49454",
   "longitude": "-60.3223"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49694",
@@ -3664,7 +3257,6 @@ const pingData = [{
   "latitude": "38.52486",
   "longitude": "-60.34766"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49691",
@@ -3673,7 +3265,6 @@ const pingData = [{
   "latitude": "38.65845",
   "longitude": "-60.12456"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49692",
@@ -3682,7 +3273,6 @@ const pingData = [{
   "latitude": "38.728",
   "longitude": "-59.9962"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49689",
@@ -3691,7 +3281,6 @@ const pingData = [{
   "latitude": "38.82254",
   "longitude": "-59.79166"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49684",
@@ -3700,7 +3289,6 @@ const pingData = [{
   "latitude": "38.70482",
   "longitude": "-59.86977"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49683",
@@ -3709,7 +3297,6 @@ const pingData = [{
   "latitude": "38.5681",
   "longitude": "-59.90978"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49682",
@@ -3718,7 +3305,6 @@ const pingData = [{
   "latitude": "38.55779",
   "longitude": "-59.98312"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49675",
@@ -3727,7 +3313,6 @@ const pingData = [{
   "latitude": "38.60117",
   "longitude": "-60.13856"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49676",
@@ -3736,7 +3321,6 @@ const pingData = [{
   "latitude": "38.63514",
   "longitude": "-60.14889"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49673",
@@ -3745,7 +3329,6 @@ const pingData = [{
   "latitude": "38.29616",
   "longitude": "-59.70274"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49670",
@@ -3754,7 +3337,6 @@ const pingData = [{
   "latitude": "38.09409",
   "longitude": "-60.35704"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49669",
@@ -3763,7 +3345,6 @@ const pingData = [{
   "latitude": "37.95596",
   "longitude": "-60.47311"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49654",
@@ -3772,7 +3353,6 @@ const pingData = [{
   "latitude": "38.09311",
   "longitude": "-62.4905"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49652",
@@ -3781,7 +3361,6 @@ const pingData = [{
   "latitude": "38.04638",
   "longitude": "-62.82893"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49649",
@@ -3790,7 +3369,6 @@ const pingData = [{
   "latitude": "38.00308",
   "longitude": "-62.76304"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49647",
@@ -3799,7 +3377,6 @@ const pingData = [{
   "latitude": "38.1121",
   "longitude": "-63.89169"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49644",
@@ -3808,7 +3385,6 @@ const pingData = [{
   "latitude": "38.34961",
   "longitude": "-64.39242"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49646",
@@ -3817,7 +3393,6 @@ const pingData = [{
   "latitude": "38.12365",
   "longitude": "-64.07126"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49641",
@@ -3826,7 +3401,6 @@ const pingData = [{
   "latitude": "38.21104",
   "longitude": "-65.18165"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49639",
@@ -3835,7 +3409,6 @@ const pingData = [{
   "latitude": "38.23621",
   "longitude": "-65.51512"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49637",
@@ -3844,7 +3417,6 @@ const pingData = [{
   "latitude": "38.17796",
   "longitude": "-65.90922"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49636",
@@ -3853,7 +3425,6 @@ const pingData = [{
   "latitude": "38.21333",
   "longitude": "-65.87499"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49634",
@@ -3862,7 +3433,6 @@ const pingData = [{
   "latitude": "38.37702",
   "longitude": "-66.53186"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49630",
@@ -3871,7 +3441,6 @@ const pingData = [{
   "latitude": "38.50337",
   "longitude": "-66.40643"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49629",
@@ -3880,7 +3449,6 @@ const pingData = [{
   "latitude": "38.47425",
   "longitude": "-66.62496"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49627",
@@ -3889,7 +3457,6 @@ const pingData = [{
   "latitude": "38.501",
   "longitude": "-66.60506"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49626",
@@ -3898,7 +3465,6 @@ const pingData = [{
   "latitude": "38.49345",
   "longitude": "-66.6736"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49625",
@@ -3907,7 +3473,6 @@ const pingData = [{
   "latitude": "38.47768",
   "longitude": "-66.80674"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49628",
@@ -3916,7 +3481,6 @@ const pingData = [{
   "latitude": "38.47662",
   "longitude": "-66.8042"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49624",
@@ -3925,7 +3489,6 @@ const pingData = [{
   "latitude": "38.4734",
   "longitude": "-66.84958"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49623",
@@ -3934,7 +3497,6 @@ const pingData = [{
   "latitude": "38.49683",
   "longitude": "-66.90571"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49619",
@@ -3943,7 +3505,6 @@ const pingData = [{
   "latitude": "38.4658",
   "longitude": "-67.30177"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49616",
@@ -3952,7 +3513,6 @@ const pingData = [{
   "latitude": "38.49101",
   "longitude": "-67.42739"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49615",
@@ -3961,7 +3521,6 @@ const pingData = [{
   "latitude": "38.44151",
   "longitude": "-67.87044"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49614",
@@ -3970,7 +3529,6 @@ const pingData = [{
   "latitude": "38.44087",
   "longitude": "-67.86561"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49613",
@@ -3979,7 +3537,6 @@ const pingData = [{
   "latitude": "38.41821",
   "longitude": "-68.03047"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49612",
@@ -3988,7 +3545,6 @@ const pingData = [{
   "latitude": "38.39736",
   "longitude": "-68.11055"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49611",
@@ -3997,7 +3553,6 @@ const pingData = [{
   "latitude": "38.3472",
   "longitude": "-68.30919"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49610",
@@ -4006,7 +3561,6 @@ const pingData = [{
   "latitude": "38.27641",
   "longitude": "-68.55946"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49608",
@@ -4015,7 +3569,6 @@ const pingData = [{
   "latitude": "38.30452",
   "longitude": "-70.08934"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49603",
@@ -4024,7 +3577,6 @@ const pingData = [{
   "latitude": "38.26496",
   "longitude": "-70.23219"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49601",
@@ -4033,7 +3585,6 @@ const pingData = [{
   "latitude": "38.17212",
   "longitude": "-70.36998"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49600",
@@ -4042,7 +3593,6 @@ const pingData = [{
   "latitude": "38.04953",
   "longitude": "-70.47527"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49598",
@@ -4051,7 +3601,6 @@ const pingData = [{
   "latitude": "37.94635",
   "longitude": "-70.48358"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49596",
@@ -4060,7 +3609,6 @@ const pingData = [{
   "latitude": "37.73828",
   "longitude": "-70.65152"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49591",
@@ -4069,7 +3617,6 @@ const pingData = [{
   "latitude": "37.68273",
   "longitude": "-70.67629"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49571",
@@ -4078,7 +3625,6 @@ const pingData = [{
   "latitude": "36.39787",
   "longitude": "-74.36761"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49543",
@@ -4087,7 +3633,6 @@ const pingData = [{
   "latitude": "34.72471",
   "longitude": "-75.37451"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49541",
@@ -4096,7 +3641,6 @@ const pingData = [{
   "latitude": "34.44468",
   "longitude": "-75.19693"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49514",
@@ -4105,7 +3649,6 @@ const pingData = [{
   "latitude": "32.67283",
   "longitude": "-75.64053"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49509",
@@ -4114,7 +3657,6 @@ const pingData = [{
   "latitude": "32.62347",
   "longitude": "-75.66035"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49507",
@@ -4123,7 +3665,6 @@ const pingData = [{
   "latitude": "32.30044",
   "longitude": "-75.36082"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49506",
@@ -4132,7 +3673,6 @@ const pingData = [{
   "latitude": "32.29465",
   "longitude": "-75.35824"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49503",
@@ -4141,7 +3681,6 @@ const pingData = [{
   "latitude": "32.07288",
   "longitude": "-75.29014"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49501",
@@ -4150,7 +3689,6 @@ const pingData = [{
   "latitude": "31.95709",
   "longitude": "-75.19903"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49498",
@@ -4159,7 +3697,6 @@ const pingData = [{
   "latitude": "31.94671",
   "longitude": "-75.19227"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49497",
@@ -4168,7 +3705,6 @@ const pingData = [{
   "latitude": "31.94033",
   "longitude": "-75.18865"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49496",
@@ -4177,7 +3713,6 @@ const pingData = [{
   "latitude": "31.8931",
   "longitude": "-75.09094"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49493",
@@ -4186,7 +3721,6 @@ const pingData = [{
   "latitude": "31.55061",
   "longitude": "-75.08635"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49490",
@@ -4195,7 +3729,6 @@ const pingData = [{
   "latitude": "31.31802",
   "longitude": "-75.06342"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49489",
@@ -4204,7 +3737,6 @@ const pingData = [{
   "latitude": "31.32481",
   "longitude": "-75.01675"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49488",
@@ -4213,7 +3745,6 @@ const pingData = [{
   "latitude": "31.2834",
   "longitude": "-75.0717"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49487",
@@ -4222,7 +3753,6 @@ const pingData = [{
   "latitude": "31.21895",
   "longitude": "-75.05045"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49486",
@@ -4231,7 +3761,6 @@ const pingData = [{
   "latitude": "31.12804",
   "longitude": "-75.12422"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49485",
@@ -4240,7 +3769,6 @@ const pingData = [{
   "latitude": "30.99545",
   "longitude": "-75.01815"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49483",
@@ -4249,7 +3777,6 @@ const pingData = [{
   "latitude": "30.97965",
   "longitude": "-74.7775"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49482",
@@ -4258,7 +3785,6 @@ const pingData = [{
   "latitude": "30.97679",
   "longitude": "-74.63351"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49478",
@@ -4267,7 +3793,6 @@ const pingData = [{
   "latitude": "30.96471",
   "longitude": "-74.67292"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49477",
@@ -4276,7 +3801,6 @@ const pingData = [{
   "latitude": "30.97596",
   "longitude": "-74.61745"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49476",
@@ -4285,7 +3809,6 @@ const pingData = [{
   "latitude": "30.97842",
   "longitude": "-74.59447"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49475",
@@ -4294,7 +3817,6 @@ const pingData = [{
   "latitude": "30.9226",
   "longitude": "-74.76567"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49474",
@@ -4303,7 +3825,6 @@ const pingData = [{
   "latitude": "30.92689",
   "longitude": "-74.663"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49472",
@@ -4312,7 +3833,6 @@ const pingData = [{
   "latitude": "30.95229",
   "longitude": "-74.57886"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49471",
@@ -4321,7 +3841,6 @@ const pingData = [{
   "latitude": "30.95046",
   "longitude": "-74.5773"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49470",
@@ -4330,7 +3849,6 @@ const pingData = [{
   "latitude": "30.94533",
   "longitude": "-74.55033"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49463",
@@ -4339,7 +3857,6 @@ const pingData = [{
   "latitude": "31.27419",
   "longitude": "-73.80683"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49462",
@@ -4348,7 +3865,6 @@ const pingData = [{
   "latitude": "31.24258",
   "longitude": "-73.8644"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49461",
@@ -4357,7 +3873,6 @@ const pingData = [{
   "latitude": "31.32843",
   "longitude": "-73.67518"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49459",
@@ -4366,7 +3881,6 @@ const pingData = [{
   "latitude": "31.51187",
   "longitude": "-73.22171"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49457",
@@ -4375,7 +3889,6 @@ const pingData = [{
   "latitude": "31.50718",
   "longitude": "-73.24163"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49458",
@@ -4384,7 +3897,6 @@ const pingData = [{
   "latitude": "31.53031",
   "longitude": "-73.16881"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49456",
@@ -4393,7 +3905,6 @@ const pingData = [{
   "latitude": "31.5207",
   "longitude": "-73.19442"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49455",
@@ -4402,7 +3913,6 @@ const pingData = [{
   "latitude": "31.55916",
   "longitude": "-73.12824"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49454",
@@ -4411,7 +3921,6 @@ const pingData = [{
   "latitude": "31.52363",
   "longitude": "-73.09282"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49453",
@@ -4420,7 +3929,6 @@ const pingData = [{
   "latitude": "31.47904",
   "longitude": "-72.87147"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49446",
@@ -4429,7 +3937,6 @@ const pingData = [{
   "latitude": "31.83843",
   "longitude": "-72.50434"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49438",
@@ -4438,7 +3945,6 @@ const pingData = [{
   "latitude": "31.92453",
   "longitude": "-71.84075"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49429",
@@ -4447,7 +3953,6 @@ const pingData = [{
   "latitude": "31.74633",
   "longitude": "-71.68534"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49428",
@@ -4456,7 +3961,6 @@ const pingData = [{
   "latitude": "31.70178",
   "longitude": "-71.68222"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49425",
@@ -4465,7 +3969,6 @@ const pingData = [{
   "latitude": "31.73757",
   "longitude": "-71.60929"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49423",
@@ -4474,7 +3977,6 @@ const pingData = [{
   "latitude": "31.97987",
   "longitude": "-71.51179"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49421",
@@ -4483,7 +3985,6 @@ const pingData = [{
   "latitude": "32.3056",
   "longitude": "-71.53564"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49419",
@@ -4492,7 +3993,6 @@ const pingData = [{
   "latitude": "32.36183",
   "longitude": "-71.5283"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49417",
@@ -4501,7 +4001,6 @@ const pingData = [{
   "latitude": "32.44532",
   "longitude": "-71.52041"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49416",
@@ -4510,7 +4009,6 @@ const pingData = [{
   "latitude": "32.51449",
   "longitude": "-71.52656"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49415",
@@ -4519,7 +4017,6 @@ const pingData = [{
   "latitude": "32.4929",
   "longitude": "-71.50475"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49409",
@@ -4528,7 +4025,6 @@ const pingData = [{
   "latitude": "32.94369",
   "longitude": "-71.42857"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49408",
@@ -4537,7 +4033,6 @@ const pingData = [{
   "latitude": "32.96678",
   "longitude": "-71.42766"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49406",
@@ -4546,7 +4041,6 @@ const pingData = [{
   "latitude": "33.09271",
   "longitude": "-71.44977"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49405",
@@ -4555,7 +4049,6 @@ const pingData = [{
   "latitude": "33.16177",
   "longitude": "-71.47952"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49402",
@@ -4564,7 +4057,6 @@ const pingData = [{
   "latitude": "33.2352",
   "longitude": "-71.50534"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49400",
@@ -4573,7 +4065,6 @@ const pingData = [{
   "latitude": "33.2908",
   "longitude": "-71.46592"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49346",
@@ -4582,7 +4073,6 @@ const pingData = [{
   "latitude": "33.80373",
   "longitude": "-71.33283"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49495",
@@ -4591,7 +4081,6 @@ const pingData = [{
   "latitude": "33.81328",
   "longitude": "-71.34098"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49343",
@@ -4600,7 +4089,6 @@ const pingData = [{
   "latitude": "33.8133",
   "longitude": "-71.34104"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49335",
@@ -4609,7 +4097,6 @@ const pingData = [{
   "latitude": "34.51634",
   "longitude": "-71.93295"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49334",
@@ -4618,7 +4105,6 @@ const pingData = [{
   "latitude": "34.50971",
   "longitude": "-71.94435"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49332",
@@ -4627,7 +4113,6 @@ const pingData = [{
   "latitude": "34.52953",
   "longitude": "-71.91659"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49330",
@@ -4636,7 +4121,6 @@ const pingData = [{
   "latitude": "34.54486",
   "longitude": "-72.00529"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49327",
@@ -4645,7 +4129,6 @@ const pingData = [{
   "latitude": "34.54418",
   "longitude": "-72.01226"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49326",
@@ -4654,7 +4137,6 @@ const pingData = [{
   "latitude": "34.62377",
   "longitude": "-71.87356"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49325",
@@ -4663,7 +4145,6 @@ const pingData = [{
   "latitude": "34.75321",
   "longitude": "-71.5551"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49324",
@@ -4672,7 +4153,6 @@ const pingData = [{
   "latitude": "34.78928",
   "longitude": "-71.73335"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49323",
@@ -4681,7 +4161,6 @@ const pingData = [{
   "latitude": "34.79501",
   "longitude": "-71.6448"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49320",
@@ -4690,7 +4169,6 @@ const pingData = [{
   "latitude": "34.78272",
   "longitude": "-71.49451"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49319",
@@ -4699,7 +4177,6 @@ const pingData = [{
   "latitude": "34.78981",
   "longitude": "-71.46195"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49318",
@@ -4708,7 +4185,6 @@ const pingData = [{
   "latitude": "34.79158",
   "longitude": "-71.05062"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49307",
@@ -4717,7 +4193,6 @@ const pingData = [{
   "latitude": "34.85058",
   "longitude": "-70.83193"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49311",
@@ -4726,7 +4201,6 @@ const pingData = [{
   "latitude": "34.80934",
   "longitude": "-70.98808"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49306",
@@ -4735,7 +4209,6 @@ const pingData = [{
   "latitude": "34.85761",
   "longitude": "-70.82207"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49294",
@@ -4744,7 +4217,6 @@ const pingData = [{
   "latitude": "34.81081",
   "longitude": "-70.5678"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49298",
@@ -4753,7 +4225,6 @@ const pingData = [{
   "latitude": "34.92985",
   "longitude": "-70.59183"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49289",
@@ -4762,7 +4233,6 @@ const pingData = [{
   "latitude": "35.07722",
   "longitude": "-70.33479"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49285",
@@ -4771,7 +4241,6 @@ const pingData = [{
   "latitude": "35.14264",
   "longitude": "-70.25777"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49281",
@@ -4780,7 +4249,6 @@ const pingData = [{
   "latitude": "35.57162",
   "longitude": "-69.8617"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49269",
@@ -4789,7 +4257,6 @@ const pingData = [{
   "latitude": "35.96304",
   "longitude": "-69.58255"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49268",
@@ -4798,7 +4265,6 @@ const pingData = [{
   "latitude": "36.13475",
   "longitude": "-69.47457"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49260",
@@ -4807,7 +4273,6 @@ const pingData = [{
   "latitude": "36.82006",
   "longitude": "-68.57407"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49257",
@@ -4816,7 +4281,6 @@ const pingData = [{
   "latitude": "36.99815",
   "longitude": "-68.37098"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49247",
@@ -4825,7 +4289,6 @@ const pingData = [{
   "latitude": "37.36502",
   "longitude": "-68.43387"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49241",
@@ -4834,7 +4297,6 @@ const pingData = [{
   "latitude": "37.52592",
   "longitude": "-68.3637"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49240",
@@ -4843,7 +4305,6 @@ const pingData = [{
   "latitude": "37.99444",
   "longitude": "-68.12793"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49232",
@@ -4852,7 +4313,6 @@ const pingData = [{
   "latitude": "38.41566",
   "longitude": "-68.75727"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49229",
@@ -4861,7 +4321,6 @@ const pingData = [{
   "latitude": "38.47883",
   "longitude": "-69.22368"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49228",
@@ -4870,7 +4329,6 @@ const pingData = [{
   "latitude": "38.533",
   "longitude": "-69.25069"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49224",
@@ -4879,7 +4337,6 @@ const pingData = [{
   "latitude": "38.81696",
   "longitude": "-69.29546"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49223",
@@ -4888,7 +4345,6 @@ const pingData = [{
   "latitude": "38.81299",
   "longitude": "-69.28905"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49220",
@@ -4897,7 +4353,6 @@ const pingData = [{
   "latitude": "38.90626",
   "longitude": "-69.30541"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49212",
@@ -4906,7 +4361,6 @@ const pingData = [{
   "latitude": "39.10085",
   "longitude": "-69.22731"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49208",
@@ -4915,7 +4369,6 @@ const pingData = [{
   "latitude": "39.23124",
   "longitude": "-69.1265"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49207",
@@ -4924,7 +4377,6 @@ const pingData = [{
   "latitude": "39.25757",
   "longitude": "-69.20689"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49204",
@@ -4933,7 +4385,6 @@ const pingData = [{
   "latitude": "39.36454",
   "longitude": "-69.34417"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49203",
@@ -4942,7 +4393,6 @@ const pingData = [{
   "latitude": "39.35311",
   "longitude": "-69.35887"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49201",
@@ -4951,7 +4401,6 @@ const pingData = [{
   "latitude": "39.34003",
   "longitude": "-69.37527"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49199",
@@ -4960,7 +4409,6 @@ const pingData = [{
   "latitude": "39.32255",
   "longitude": "-69.36797"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49197",
@@ -4969,7 +4417,6 @@ const pingData = [{
   "latitude": "39.24496",
   "longitude": "-69.43231"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49195",
@@ -4978,7 +4425,6 @@ const pingData = [{
   "latitude": "39.2396",
   "longitude": "-69.44656"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49191",
@@ -4987,7 +4433,6 @@ const pingData = [{
   "latitude": "39.22351",
   "longitude": "-69.49263"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49189",
@@ -4996,7 +4441,6 @@ const pingData = [{
   "latitude": "39.22574",
   "longitude": "-69.49081"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49190",
@@ -5005,7 +4449,6 @@ const pingData = [{
   "latitude": "39.24512",
   "longitude": "-69.38664"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49187",
@@ -5014,7 +4457,6 @@ const pingData = [{
   "latitude": "39.24065",
   "longitude": "-69.37451"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49185",
@@ -5023,7 +4465,6 @@ const pingData = [{
   "latitude": "39.24033",
   "longitude": "-69.37465"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49183",
@@ -5032,7 +4473,6 @@ const pingData = [{
   "latitude": "39.66477",
   "longitude": "-67.25467"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49151",
@@ -5041,7 +4481,6 @@ const pingData = [{
   "latitude": "41.30529",
   "longitude": "-68.91858"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49149",
@@ -5050,7 +4489,6 @@ const pingData = [{
   "latitude": "41.05025",
   "longitude": "-68.69367"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49148",
@@ -5059,7 +4497,6 @@ const pingData = [{
   "latitude": "40.95683",
   "longitude": "-68.66881"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49145",
@@ -5068,7 +4505,6 @@ const pingData = [{
   "latitude": "40.58034",
   "longitude": "-68.56117"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49146",
@@ -5077,7 +4513,6 @@ const pingData = [{
   "latitude": "40.55873",
   "longitude": "-68.56195"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49142",
@@ -5086,7 +4521,6 @@ const pingData = [{
   "latitude": "40.54386",
   "longitude": "-68.54972"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49139",
@@ -5095,7 +4529,6 @@ const pingData = [{
   "latitude": "40.25285",
   "longitude": "-68.46251"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49138",
@@ -5104,7 +4537,6 @@ const pingData = [{
   "latitude": "40.20256",
   "longitude": "-68.61085"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49137",
@@ -5113,7 +4545,6 @@ const pingData = [{
   "latitude": "40.10432",
   "longitude": "-68.30863"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49136",
@@ -5122,7 +4553,6 @@ const pingData = [{
   "latitude": "40.04724",
   "longitude": "-68.25804"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49135",
@@ -5131,7 +4561,6 @@ const pingData = [{
   "latitude": "40.01771",
   "longitude": "-68.15489"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49134",
@@ -5140,7 +4569,6 @@ const pingData = [{
   "latitude": "39.97587",
   "longitude": "-68.19519"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49130",
@@ -5149,7 +4577,6 @@ const pingData = [{
   "latitude": "39.90248",
   "longitude": "-68.02289"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49125",
@@ -5158,7 +4585,6 @@ const pingData = [{
   "latitude": "39.94112",
   "longitude": "-67.9086"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49113",
@@ -5167,7 +4593,6 @@ const pingData = [{
   "latitude": "40.04912",
   "longitude": "-67.50495"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49111",
@@ -5176,7 +4601,6 @@ const pingData = [{
   "latitude": "40.28659",
   "longitude": "-68.15451"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49107",
@@ -5185,7 +4609,6 @@ const pingData = [{
   "latitude": "40.00196",
   "longitude": "-67.91447"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49106",
@@ -5194,7 +4617,6 @@ const pingData = [{
   "latitude": "39.72337",
   "longitude": "-68.26771"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49105",
@@ -5203,7 +4625,6 @@ const pingData = [{
   "latitude": "39.75866",
   "longitude": "-68.30736"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49103",
@@ -5212,7 +4633,6 @@ const pingData = [{
   "latitude": "39.7845",
   "longitude": "-68.4534"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49095",
@@ -5221,7 +4641,6 @@ const pingData = [{
   "latitude": "39.74302",
   "longitude": "-68.27454"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49098",
@@ -5230,7 +4649,6 @@ const pingData = [{
   "latitude": "39.73306",
   "longitude": "-68.23135"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49091",
@@ -5239,7 +4657,6 @@ const pingData = [{
   "latitude": "39.73519",
   "longitude": "-68.22429"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49080",
@@ -5248,7 +4665,6 @@ const pingData = [{
   "latitude": "39.40797",
   "longitude": "-68.22113"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49078",
@@ -5257,7 +4673,6 @@ const pingData = [{
   "latitude": "39.31807",
   "longitude": "-67.89071"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49076",
@@ -5266,7 +4681,6 @@ const pingData = [{
   "latitude": "39.04665",
   "longitude": "-67.8985"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49075",
@@ -5275,7 +4689,6 @@ const pingData = [{
   "latitude": "38.94813",
   "longitude": "-67.39079"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49074",
@@ -5284,7 +4697,6 @@ const pingData = [{
   "latitude": "38.90372",
   "longitude": "-67.27284"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49073",
@@ -5293,7 +4705,6 @@ const pingData = [{
   "latitude": "38.82381",
   "longitude": "-67.03836"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49071",
@@ -5302,7 +4713,6 @@ const pingData = [{
   "latitude": "38.89824",
   "longitude": "-67.21802"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49070",
@@ -5311,7 +4721,6 @@ const pingData = [{
   "latitude": "38.87369",
   "longitude": "-66.96009"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49069",
@@ -5320,7 +4729,6 @@ const pingData = [{
   "latitude": "38.91091",
   "longitude": "-67.07922"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49067",
@@ -5329,7 +4737,6 @@ const pingData = [{
   "latitude": "38.8967",
   "longitude": "-67.07384"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49066",
@@ -5338,7 +4745,6 @@ const pingData = [{
   "latitude": "38.90104",
   "longitude": "-67.09433"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49065",
@@ -5347,7 +4753,6 @@ const pingData = [{
   "latitude": "39.0217",
   "longitude": "-67.45607"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49061",
@@ -5356,7 +4761,6 @@ const pingData = [{
   "latitude": "39.07957",
   "longitude": "-67.56435"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49052",
@@ -5365,7 +4769,6 @@ const pingData = [{
   "latitude": "39.3086",
   "longitude": "-67.45943"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49049",
@@ -5374,7 +4777,6 @@ const pingData = [{
   "latitude": "39.3585",
   "longitude": "-67.694"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49048",
@@ -5383,7 +4785,6 @@ const pingData = [{
   "latitude": "39.35651",
   "longitude": "-67.69995"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49047",
@@ -5392,7 +4793,6 @@ const pingData = [{
   "latitude": "39.35184",
   "longitude": "-67.70917"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49040",
@@ -5401,7 +4801,6 @@ const pingData = [{
   "latitude": "39.05521",
   "longitude": "-68.06626"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49039",
@@ -5410,7 +4809,6 @@ const pingData = [{
   "latitude": "39.05418",
   "longitude": "-68.07074"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49037",
@@ -5419,7 +4817,6 @@ const pingData = [{
   "latitude": "39.03467",
   "longitude": "-68.12779"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49036",
@@ -5428,7 +4825,6 @@ const pingData = [{
   "latitude": "39.05447",
   "longitude": "-68.11678"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49034",
@@ -5437,7 +4833,6 @@ const pingData = [{
   "latitude": "39.05091",
   "longitude": "-68.10341"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49031",
@@ -5446,7 +4841,6 @@ const pingData = [{
   "latitude": "39.05505",
   "longitude": "-68.09512"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49033",
@@ -5455,7 +4849,6 @@ const pingData = [{
   "latitude": "39.05127",
   "longitude": "-68.13132"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49026",
@@ -5464,7 +4857,6 @@ const pingData = [{
   "latitude": "39.12925",
   "longitude": "-68.13664"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49024",
@@ -5473,7 +4865,6 @@ const pingData = [{
   "latitude": "39.11638",
   "longitude": "-68.14892"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49025",
@@ -5482,7 +4873,6 @@ const pingData = [{
   "latitude": "39.13822",
   "longitude": "-68.11811"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49012",
@@ -5491,7 +4881,6 @@ const pingData = [{
   "latitude": "39.17118",
   "longitude": "-68.11642"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49011",
@@ -5500,7 +4889,6 @@ const pingData = [{
   "latitude": "39.17278",
   "longitude": "-68.11347"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49010",
@@ -5509,7 +4897,6 @@ const pingData = [{
   "latitude": "39.19675",
   "longitude": "-68.12538"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49009",
@@ -5518,7 +4905,6 @@ const pingData = [{
   "latitude": "39.21771",
   "longitude": "-68.08677"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49008",
@@ -5527,7 +4913,6 @@ const pingData = [{
   "latitude": "39.22657",
   "longitude": "-68.14307"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49007",
@@ -5536,7 +4921,6 @@ const pingData = [{
   "latitude": "39.22785",
   "longitude": "-68.11282"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49005",
@@ -5545,7 +4929,6 @@ const pingData = [{
   "latitude": "39.28196",
   "longitude": "-68.34807"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "49004",
@@ -5554,7 +4937,6 @@ const pingData = [{
   "latitude": "39.2334",
   "longitude": "-68.20954"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "48996",
@@ -5563,7 +4945,6 @@ const pingData = [{
   "latitude": "39.22694",
   "longitude": "-68.00194"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "48995",
@@ -5572,7 +4953,6 @@ const pingData = [{
   "latitude": "39.22331",
   "longitude": "-67.88056"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "48994",
@@ -5581,7 +4961,6 @@ const pingData = [{
   "latitude": "38.68808",
   "longitude": "-67.0753"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "48985",
@@ -5590,7 +4969,6 @@ const pingData = [{
   "latitude": "39.13094",
   "longitude": "-67.61017"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "48981",
@@ -5599,7 +4977,6 @@ const pingData = [{
   "latitude": "39.198",
   "longitude": "-67.64897"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "48983",
@@ -5608,7 +4985,6 @@ const pingData = [{
   "latitude": "39.17292",
   "longitude": "-67.66429"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "48979",
@@ -5617,7 +4993,6 @@ const pingData = [{
   "latitude": "39.19517",
   "longitude": "-67.67885"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "48978",
@@ -5626,7 +5001,6 @@ const pingData = [{
   "latitude": "39.19355",
   "longitude": "-67.66631"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "48977",
@@ -5635,7 +5009,6 @@ const pingData = [{
   "latitude": "39.24222",
   "longitude": "-67.70795"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "48971",
@@ -5644,7 +5017,6 @@ const pingData = [{
   "latitude": "39.55858",
   "longitude": "-67.66158"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "48968",
@@ -5653,7 +5025,6 @@ const pingData = [{
   "latitude": "39.6202",
   "longitude": "-67.69185"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "48966",
@@ -5662,7 +5033,6 @@ const pingData = [{
   "latitude": "39.60869",
   "longitude": "-67.69765"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "48964",
@@ -5671,7 +5041,6 @@ const pingData = [{
   "latitude": "39.64716",
   "longitude": "-67.71541"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "48961",
@@ -5680,7 +5049,6 @@ const pingData = [{
   "latitude": "39.67614",
   "longitude": "-67.73529"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "48960",
@@ -5689,7 +5057,6 @@ const pingData = [{
   "latitude": "39.78535",
   "longitude": "-67.82479"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "48959",
@@ -5698,7 +5065,6 @@ const pingData = [{
   "latitude": "39.79604",
   "longitude": "-67.8284"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "48958",
@@ -5707,7 +5073,6 @@ const pingData = [{
   "latitude": "39.81224",
   "longitude": "-67.8441"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "48957",
@@ -5716,7 +5081,6 @@ const pingData = [{
   "latitude": "39.82703",
   "longitude": "-67.85343"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "48956",
@@ -5725,7 +5089,6 @@ const pingData = [{
   "latitude": "39.89051",
   "longitude": "-67.90649"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "48955",
@@ -5734,7 +5097,6 @@ const pingData = [{
   "latitude": "40.02529",
   "longitude": "-68.01606"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "48954",
@@ -5743,7 +5105,6 @@ const pingData = [{
   "latitude": "40.26422",
   "longitude": "-68.23519"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "48952",
@@ -5752,7 +5113,6 @@ const pingData = [{
   "latitude": "40.47681",
   "longitude": "-68.12088"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "48947",
@@ -5761,7 +5121,6 @@ const pingData = [{
   "latitude": "40.6021",
   "longitude": "-68.04789"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "48944",
@@ -5770,7 +5129,6 @@ const pingData = [{
   "latitude": "40.66975",
   "longitude": "-68.00621"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "48943",
@@ -5779,7 +5137,6 @@ const pingData = [{
   "latitude": "40.68783",
   "longitude": "-67.98415"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "48942",
@@ -5788,7 +5145,6 @@ const pingData = [{
   "latitude": "40.83952",
   "longitude": "-67.80062"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "48941",
@@ -5797,7 +5153,6 @@ const pingData = [{
   "latitude": "40.81572",
   "longitude": "-67.44139"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "48926",
@@ -5806,7 +5161,6 @@ const pingData = [{
   "latitude": "41.2272",
   "longitude": "-67.39946"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "48924",
@@ -5815,7 +5169,6 @@ const pingData = [{
   "latitude": "40.78163",
   "longitude": "-67.27648"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "48920",
@@ -5824,7 +5177,6 @@ const pingData = [{
   "latitude": "40.77172",
   "longitude": "-67.27986"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "48913",
@@ -5833,7 +5185,6 @@ const pingData = [{
   "latitude": "40.54611",
   "longitude": "-67.40594"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "48912",
@@ -5842,7 +5193,6 @@ const pingData = [{
   "latitude": "40.42653",
   "longitude": "-67.21022"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "48910",
@@ -5851,7 +5201,6 @@ const pingData = [{
   "latitude": "40.45752",
   "longitude": "-67.17142"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "48908",
@@ -5860,7 +5209,6 @@ const pingData = [{
   "latitude": "40.49566",
   "longitude": "-67.16068"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "48907",
@@ -5869,7 +5217,6 @@ const pingData = [{
   "latitude": "40.44543",
   "longitude": "-67.34149"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "48906",
@@ -5878,7 +5225,6 @@ const pingData = [{
   "latitude": "40.53755",
   "longitude": "-67.19442"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "48900",
@@ -5887,7 +5233,6 @@ const pingData = [{
   "latitude": "40.08098",
   "longitude": "-68.06337"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "48899",
@@ -5896,7 +5241,6 @@ const pingData = [{
   "latitude": "39.90915",
   "longitude": "-68.37093"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "48897",
@@ -5905,7 +5249,6 @@ const pingData = [{
   "latitude": "39.87438",
   "longitude": "-68.36376"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "48894",
@@ -5914,7 +5257,6 @@ const pingData = [{
   "latitude": "39.87142",
   "longitude": "-68.36002"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "48891",
@@ -5923,7 +5265,6 @@ const pingData = [{
   "latitude": "39.88991",
   "longitude": "-68.34501"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "48890",
@@ -5932,7 +5273,6 @@ const pingData = [{
   "latitude": "40.23236",
   "longitude": "-68.24212"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "48885",
@@ -5941,7 +5281,6 @@ const pingData = [{
   "latitude": "39.95776",
   "longitude": "-68.83727"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "48884",
@@ -5950,7 +5289,6 @@ const pingData = [{
   "latitude": "39.95087",
   "longitude": "-68.8609"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "48883",
@@ -5959,7 +5297,6 @@ const pingData = [{
   "latitude": "39.92794",
   "longitude": "-68.90594"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "48882",
@@ -5968,7 +5305,6 @@ const pingData = [{
   "latitude": "39.93756",
   "longitude": "-68.8876"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "48881",
@@ -5977,7 +5313,6 @@ const pingData = [{
   "latitude": "39.89471",
   "longitude": "-68.91464"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "48878",
@@ -5986,7 +5321,6 @@ const pingData = [{
   "latitude": "39.80174",
   "longitude": "-68.99102"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "48876",
@@ -5995,7 +5329,6 @@ const pingData = [{
   "latitude": "39.76408",
   "longitude": "-69.02301"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "48873",
@@ -6004,7 +5337,6 @@ const pingData = [{
   "latitude": "39.69074",
   "longitude": "-69.10077"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "48877",
@@ -6013,7 +5345,6 @@ const pingData = [{
   "latitude": "39.92229",
   "longitude": "-69.15527"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "48870",
@@ -6022,7 +5353,6 @@ const pingData = [{
   "latitude": "39.73366",
   "longitude": "-69.20262"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "48868",
@@ -6031,7 +5361,6 @@ const pingData = [{
   "latitude": "39.73769",
   "longitude": "-69.1914"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "48869",
@@ -6040,7 +5369,6 @@ const pingData = [{
   "latitude": "39.69841",
   "longitude": "-69.17604"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "48866",
@@ -6049,7 +5377,6 @@ const pingData = [{
   "latitude": "39.65809",
   "longitude": "-69.15983"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "48863",
@@ -6058,7 +5385,6 @@ const pingData = [{
   "latitude": "39.64821",
   "longitude": "-69.15341"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "48861",
@@ -6067,7 +5393,6 @@ const pingData = [{
   "latitude": "39.61036",
   "longitude": "-69.13848"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "48859",
@@ -6076,7 +5401,6 @@ const pingData = [{
   "latitude": "39.63018",
   "longitude": "-69.11917"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "48857",
@@ -6085,7 +5409,6 @@ const pingData = [{
   "latitude": "39.60641",
   "longitude": "-69.10264"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "48856",
@@ -6094,7 +5417,6 @@ const pingData = [{
   "latitude": "39.57031",
   "longitude": "-69.0204"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "48852",
@@ -6103,7 +5425,6 @@ const pingData = [{
   "latitude": "39.45803",
   "longitude": "-69.05545"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "48848",
@@ -6112,7 +5433,6 @@ const pingData = [{
   "latitude": "39.28991",
   "longitude": "-69.11305"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "48844",
@@ -6121,7 +5441,6 @@ const pingData = [{
   "latitude": "39.24787",
   "longitude": "-69.13732"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "48847",
@@ -6130,7 +5449,6 @@ const pingData = [{
   "latitude": "39.25101",
   "longitude": "-69.1065"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "48836",
@@ -6139,7 +5457,6 @@ const pingData = [{
   "latitude": "38.86007",
   "longitude": "-69.25145"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "48835",
@@ -6148,7 +5465,6 @@ const pingData = [{
   "latitude": "38.72957",
   "longitude": "-69.31325"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "48833",
@@ -6157,7 +5473,6 @@ const pingData = [{
   "latitude": "38.70573",
   "longitude": "-69.31685"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "48831",
@@ -6166,7 +5481,6 @@ const pingData = [{
   "latitude": "38.72259",
   "longitude": "-69.26281"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "48830",
@@ -6175,7 +5489,6 @@ const pingData = [{
   "latitude": "38.67271",
   "longitude": "-69.31688"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "48829",
@@ -6184,7 +5497,6 @@ const pingData = [{
   "latitude": "38.58919",
   "longitude": "-69.45881"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "48826",
@@ -6193,7 +5505,6 @@ const pingData = [{
   "latitude": "38.44577",
   "longitude": "-70.05326"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "48819",
@@ -6202,7 +5513,6 @@ const pingData = [{
   "latitude": "38.31063",
   "longitude": "-70.15842"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "48748",
@@ -6211,7 +5521,6 @@ const pingData = [{
   "latitude": "34.09392",
   "longitude": "-75.95433"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "48728",
@@ -6220,7 +5529,6 @@ const pingData = [{
   "latitude": "34.27017",
   "longitude": "-76.1242"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "48724",
@@ -6229,7 +5537,6 @@ const pingData = [{
   "latitude": "34.42936",
   "longitude": "-76.12682"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "48716",
@@ -6238,7 +5545,6 @@ const pingData = [{
   "latitude": "34.57081",
   "longitude": "-76.13283"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "48711",
@@ -6247,7 +5553,6 @@ const pingData = [{
   "latitude": "34.56253",
   "longitude": "-76.17906"
 }, {
-  "active": "1",
   "key": 1,
   "shark_id": 41,
   "id": "48712",
@@ -6256,7 +5561,6 @@ const pingData = [{
   "latitude": "34.55226",
   "longitude": "-76.15226"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "61730",
@@ -6265,7 +5569,6 @@ const pingData = [{
   "latitude": "28.97645",
   "longitude": "-79.84243"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "61705",
@@ -6274,7 +5577,6 @@ const pingData = [{
   "latitude": "28.82793",
   "longitude": "-79.84356"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "61704",
@@ -6283,7 +5585,6 @@ const pingData = [{
   "latitude": "28.81807",
   "longitude": "-79.83471"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "61621",
@@ -6292,7 +5593,6 @@ const pingData = [{
   "latitude": "28.12231",
   "longitude": "-79.4796"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "61620",
@@ -6301,7 +5601,6 @@ const pingData = [{
   "latitude": "28.12655",
   "longitude": "-79.45639"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "61574",
@@ -6310,7 +5609,6 @@ const pingData = [{
   "latitude": "27.75442",
   "longitude": "-79.14577"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "61333",
@@ -6319,7 +5617,6 @@ const pingData = [{
   "latitude": "27.74023",
   "longitude": "-79.5014"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "61341",
@@ -6328,7 +5625,6 @@ const pingData = [{
   "latitude": "27.74717",
   "longitude": "-79.49512"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "61337",
@@ -6337,7 +5633,6 @@ const pingData = [{
   "latitude": "27.73749",
   "longitude": "-79.493"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "59739",
@@ -6346,7 +5641,6 @@ const pingData = [{
   "latitude": "27.56944",
   "longitude": "-79.45435"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "59196",
@@ -6355,7 +5649,6 @@ const pingData = [{
   "latitude": "28.58629",
   "longitude": "-79.71612"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "59185",
@@ -6364,7 +5657,6 @@ const pingData = [{
   "latitude": "28.28062",
   "longitude": "-79.82703"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "59126",
@@ -6373,7 +5665,6 @@ const pingData = [{
   "latitude": "28.22431",
   "longitude": "-79.79706"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "59120",
@@ -6382,7 +5673,6 @@ const pingData = [{
   "latitude": "28.14809",
   "longitude": "-79.73979"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "59118",
@@ -6391,7 +5681,6 @@ const pingData = [{
   "latitude": "28.14535",
   "longitude": "-79.74763"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "59117",
@@ -6400,7 +5689,6 @@ const pingData = [{
   "latitude": "28.13586",
   "longitude": "-79.74673"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "59116",
@@ -6409,7 +5697,6 @@ const pingData = [{
   "latitude": "28.14067",
   "longitude": "-79.76387"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "59114",
@@ -6418,7 +5705,6 @@ const pingData = [{
   "latitude": "28.13684",
   "longitude": "-79.75283"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "59113",
@@ -6427,7 +5713,6 @@ const pingData = [{
   "latitude": "28.13675",
   "longitude": "-79.75253"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "59082",
@@ -6436,7 +5721,6 @@ const pingData = [{
   "latitude": "28.09706",
   "longitude": "-79.88606"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "59076",
@@ -6445,7 +5729,6 @@ const pingData = [{
   "latitude": "28.05478",
   "longitude": "-79.69147"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "58454",
@@ -6454,7 +5737,6 @@ const pingData = [{
   "latitude": "26.61933",
   "longitude": "-79.86769"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "58439",
@@ -6463,7 +5745,6 @@ const pingData = [{
   "latitude": "26.60912",
   "longitude": "-79.65202"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "58411",
@@ -6472,7 +5753,6 @@ const pingData = [{
   "latitude": "26.58172",
   "longitude": "-79.44294"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "58262",
@@ -6481,7 +5761,6 @@ const pingData = [{
   "latitude": "27.00623",
   "longitude": "-79.30707"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "58260",
@@ -6490,7 +5769,6 @@ const pingData = [{
   "latitude": "27.01263",
   "longitude": "-79.25156"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "58259",
@@ -6499,7 +5777,6 @@ const pingData = [{
   "latitude": "27.01381",
   "longitude": "-79.24339"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "58258",
@@ -6508,7 +5785,6 @@ const pingData = [{
   "latitude": "27.01371",
   "longitude": "-79.19497"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "55950",
@@ -6517,7 +5793,6 @@ const pingData = [{
   "latitude": "30.00949",
   "longitude": "-79.53591"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "55884",
@@ -6526,7 +5801,6 @@ const pingData = [{
   "latitude": "30.40242",
   "longitude": "-77.97864"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "55680",
@@ -6535,7 +5809,6 @@ const pingData = [{
   "latitude": "31.77865",
   "longitude": "-78.82243"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "55675",
@@ -6544,7 +5817,6 @@ const pingData = [{
   "latitude": "32.10818",
   "longitude": "-78.97614"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "55656",
@@ -6553,7 +5825,6 @@ const pingData = [{
   "latitude": "32.06609",
   "longitude": "-79.03227"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "55634",
@@ -6562,7 +5833,6 @@ const pingData = [{
   "latitude": "32.22248",
   "longitude": "-78.97581"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "55564",
@@ -6571,7 +5841,6 @@ const pingData = [{
   "latitude": "31.90989",
   "longitude": "-78.87937"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "55479",
@@ -6580,7 +5849,6 @@ const pingData = [{
   "latitude": "32.51811",
   "longitude": "-78.2631"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "55442",
@@ -6589,7 +5857,6 @@ const pingData = [{
   "latitude": "32.78389",
   "longitude": "-78.27454"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "55352",
@@ -6598,7 +5865,6 @@ const pingData = [{
   "latitude": "32.84394",
   "longitude": "-77.1904"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "54981",
@@ -6607,7 +5873,6 @@ const pingData = [{
   "latitude": "33.2419",
   "longitude": "-76.81473"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "54901",
@@ -6616,7 +5881,6 @@ const pingData = [{
   "latitude": "33.73386",
   "longitude": "-76.47927"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "54900",
@@ -6625,7 +5889,6 @@ const pingData = [{
   "latitude": "33.72481",
   "longitude": "-76.455"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "54896",
@@ -6634,7 +5897,6 @@ const pingData = [{
   "latitude": "33.73096",
   "longitude": "-76.39577"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "54872",
@@ -6643,7 +5905,6 @@ const pingData = [{
   "latitude": "33.83417",
   "longitude": "-76.3764"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "54852",
@@ -6652,7 +5913,6 @@ const pingData = [{
   "latitude": "33.89126",
   "longitude": "-76.15645"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "54851",
@@ -6661,7 +5921,6 @@ const pingData = [{
   "latitude": "33.97973",
   "longitude": "-76.19597"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "54824",
@@ -6670,7 +5929,6 @@ const pingData = [{
   "latitude": "34.02622",
   "longitude": "-76.15566"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "54823",
@@ -6679,7 +5937,6 @@ const pingData = [{
   "latitude": "34.05825",
   "longitude": "-75.9894"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "54805",
@@ -6688,7 +5945,6 @@ const pingData = [{
   "latitude": "34.07724",
   "longitude": "-75.96091"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "54783",
@@ -6697,7 +5953,6 @@ const pingData = [{
   "latitude": "34.06169",
   "longitude": "-75.91177"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "54777",
@@ -6706,7 +5961,6 @@ const pingData = [{
   "latitude": "34.03532",
   "longitude": "-75.90411"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "54745",
@@ -6715,7 +5969,6 @@ const pingData = [{
   "latitude": "33.7933",
   "longitude": "-75.85707"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "54744",
@@ -6724,7 +5977,6 @@ const pingData = [{
   "latitude": "33.64109",
   "longitude": "-76.36761"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "54728",
@@ -6733,7 +5985,6 @@ const pingData = [{
   "latitude": "33.66555",
   "longitude": "-76.35809"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "54700",
@@ -6742,7 +5993,6 @@ const pingData = [{
   "latitude": "33.68979",
   "longitude": "-76.30164"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "54668",
@@ -6751,7 +6001,6 @@ const pingData = [{
   "latitude": "33.91233",
   "longitude": "-76.16699"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "54649",
@@ -6760,7 +6009,6 @@ const pingData = [{
   "latitude": "33.91534",
   "longitude": "-76.15806"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "54648",
@@ -6769,7 +6017,6 @@ const pingData = [{
   "latitude": "33.92589",
   "longitude": "-76.13966"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "54635",
@@ -6778,7 +6025,6 @@ const pingData = [{
   "latitude": "33.88212",
   "longitude": "-76.18452"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "54474",
@@ -6787,7 +6033,6 @@ const pingData = [{
   "latitude": "34.21055",
   "longitude": "-75.95371"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "54461",
@@ -6796,7 +6041,6 @@ const pingData = [{
   "latitude": "34.12721",
   "longitude": "-75.87799"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "54449",
@@ -6805,7 +6049,6 @@ const pingData = [{
   "latitude": "34.12728",
   "longitude": "-75.87889"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "54345",
@@ -6814,7 +6057,6 @@ const pingData = [{
   "latitude": "34.0003",
   "longitude": "-76.19511"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "54230",
@@ -6823,7 +6065,6 @@ const pingData = [{
   "latitude": "34.31628",
   "longitude": "-75.81944"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "54071",
@@ -6832,7 +6073,6 @@ const pingData = [{
   "latitude": "34.42804",
   "longitude": "-75.81622"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "53899",
@@ -6841,7 +6081,6 @@ const pingData = [{
   "latitude": "33.69864",
   "longitude": "-76.03054"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "53585",
@@ -6850,7 +6089,6 @@ const pingData = [{
   "latitude": "34.09178",
   "longitude": "-75.89205"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "53364",
@@ -6859,7 +6097,6 @@ const pingData = [{
   "latitude": "34.52188",
   "longitude": "-75.32083"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "53339",
@@ -6868,7 +6105,6 @@ const pingData = [{
   "latitude": "34.45248",
   "longitude": "-75.45832"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "52830",
@@ -6877,7 +6113,6 @@ const pingData = [{
   "latitude": "34.59099",
   "longitude": "-74.83987"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "52762",
@@ -6886,7 +6121,6 @@ const pingData = [{
   "latitude": "34.77721",
   "longitude": "-74.93071"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "52570",
@@ -6895,7 +6129,6 @@ const pingData = [{
   "latitude": "34.19431",
   "longitude": "-74.58769"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "52483",
@@ -6904,7 +6137,6 @@ const pingData = [{
   "latitude": "34.51363",
   "longitude": "-74.67731"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "52436",
@@ -6913,7 +6145,6 @@ const pingData = [{
   "latitude": "35.37208",
   "longitude": "-74.12492"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "52104",
@@ -6922,7 +6153,6 @@ const pingData = [{
   "latitude": "35.56255",
   "longitude": "-64.75847"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "52090",
@@ -6931,7 +6161,6 @@ const pingData = [{
   "latitude": "35.49735",
   "longitude": "-64.53632"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "51904",
@@ -6940,7 +6169,6 @@ const pingData = [{
   "latitude": "35.45954",
   "longitude": "-75.08925"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "51902",
@@ -6949,7 +6177,6 @@ const pingData = [{
   "latitude": "35.41654",
   "longitude": "-75.11765"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "51831",
@@ -6958,7 +6185,6 @@ const pingData = [{
   "latitude": "34.65224",
   "longitude": "-75.60899"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "51829",
@@ -6967,7 +6193,6 @@ const pingData = [{
   "latitude": "33.77189",
   "longitude": "-75.92336"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "51828",
@@ -6976,7 +6201,6 @@ const pingData = [{
   "latitude": "33.77189",
   "longitude": "-75.92336"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "51795",
@@ -6985,7 +6209,6 @@ const pingData = [{
   "latitude": "33.03309",
   "longitude": "-76.98125"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "51289",
@@ -6994,7 +6217,6 @@ const pingData = [{
   "latitude": "29.47636",
   "longitude": "-78.12051"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "51287",
@@ -7003,7 +6225,6 @@ const pingData = [{
   "latitude": "29.4883",
   "longitude": "-78.12623"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "51220",
@@ -7012,7 +6233,6 @@ const pingData = [{
   "latitude": "30.88565",
   "longitude": "-79.09792"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "51219",
@@ -7021,7 +6241,6 @@ const pingData = [{
   "latitude": "30.89852",
   "longitude": "-79.0585"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "50655",
@@ -7030,7 +6249,6 @@ const pingData = [{
   "latitude": "31.09249",
   "longitude": "-76.58207"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "50433",
@@ -7039,7 +6257,6 @@ const pingData = [{
   "latitude": "32.21623",
   "longitude": "-77.23641"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "50429",
@@ -7048,7 +6265,6 @@ const pingData = [{
   "latitude": "32.18296",
   "longitude": "-77.19131"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "50432",
@@ -7057,7 +6273,6 @@ const pingData = [{
   "latitude": "32.54391",
   "longitude": "-76.58122"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "50423",
@@ -7066,7 +6281,6 @@ const pingData = [{
   "latitude": "32.28497",
   "longitude": "-76.71105"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "50410",
@@ -7075,7 +6289,6 @@ const pingData = [{
   "latitude": "32.15222",
   "longitude": "-76.39674"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "50409",
@@ -7084,7 +6297,6 @@ const pingData = [{
   "latitude": "32.06542",
   "longitude": "-76.43318"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "49909",
@@ -7093,7 +6305,6 @@ const pingData = [{
   "latitude": "36.87105",
   "longitude": "-68.47573"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "49904",
@@ -7102,7 +6313,6 @@ const pingData = [{
   "latitude": "36.55247",
   "longitude": "-68.40834"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "49902",
@@ -7111,7 +6321,6 @@ const pingData = [{
   "latitude": "36.38548",
   "longitude": "-68.37799"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "49896",
@@ -7120,7 +6329,6 @@ const pingData = [{
   "latitude": "36.41258",
   "longitude": "-68.38536"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "49892",
@@ -7129,7 +6337,6 @@ const pingData = [{
   "latitude": "36.15803",
   "longitude": "-68.3883"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "49891",
@@ -7138,7 +6345,6 @@ const pingData = [{
   "latitude": "36.09078",
   "longitude": "-68.29526"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "49885",
@@ -7147,7 +6353,6 @@ const pingData = [{
   "latitude": "35.71082",
   "longitude": "-68.08948"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "49884",
@@ -7156,7 +6361,6 @@ const pingData = [{
   "latitude": "35.70808",
   "longitude": "-68.21778"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "49882",
@@ -7165,7 +6369,6 @@ const pingData = [{
   "latitude": "35.65768",
   "longitude": "-68.08862"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "49883",
@@ -7174,7 +6377,6 @@ const pingData = [{
   "latitude": "35.25199",
   "longitude": "-68.35096"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "49871",
@@ -7183,7 +6385,6 @@ const pingData = [{
   "latitude": "35.01813",
   "longitude": "-67.72837"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "49864",
@@ -7192,7 +6393,6 @@ const pingData = [{
   "latitude": "34.59205",
   "longitude": "-66.57534"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "49850",
@@ -7201,7 +6401,6 @@ const pingData = [{
   "latitude": "34.05132",
   "longitude": "-65.38772"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "49849",
@@ -7210,7 +6409,6 @@ const pingData = [{
   "latitude": "34.12377",
   "longitude": "-65.00066"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "49848",
@@ -7219,7 +6417,6 @@ const pingData = [{
   "latitude": "34.11418",
   "longitude": "-64.99152"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "49840",
@@ -7228,7 +6425,6 @@ const pingData = [{
   "latitude": "34.05529",
   "longitude": "-64.80531"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "49833",
@@ -7237,7 +6433,6 @@ const pingData = [{
   "latitude": "33.9136",
   "longitude": "-64.44327"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "49829",
@@ -7246,7 +6441,6 @@ const pingData = [{
   "latitude": "33.97331",
   "longitude": "-64.28035"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "49826",
@@ -7255,7 +6449,6 @@ const pingData = [{
   "latitude": "33.88695",
   "longitude": "-64.22048"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "49823",
@@ -7264,7 +6457,6 @@ const pingData = [{
   "latitude": "33.82253",
   "longitude": "-64.16252"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "49822",
@@ -7273,7 +6465,6 @@ const pingData = [{
   "latitude": "33.8128",
   "longitude": "-64.16556"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "49821",
@@ -7282,7 +6473,6 @@ const pingData = [{
   "latitude": "33.81488",
   "longitude": "-64.1649"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "49653",
@@ -7291,7 +6481,6 @@ const pingData = [{
   "latitude": "39.40933",
   "longitude": "-58.37851"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "49642",
@@ -7300,7 +6489,6 @@ const pingData = [{
   "latitude": "40.48163",
   "longitude": "-59.02547"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "49640",
@@ -7309,7 +6497,6 @@ const pingData = [{
   "latitude": "40.50277",
   "longitude": "-59.04264"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "49621",
@@ -7318,7 +6505,6 @@ const pingData = [{
   "latitude": "40.76049",
   "longitude": "-58.60065"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "49620",
@@ -7327,7 +6513,6 @@ const pingData = [{
   "latitude": "40.81704",
   "longitude": "-58.62007"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "49618",
@@ -7336,7 +6521,6 @@ const pingData = [{
   "latitude": "40.74886",
   "longitude": "-58.60153"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "49605",
@@ -7345,7 +6529,6 @@ const pingData = [{
   "latitude": "41.35173",
   "longitude": "-58.58476"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "49604",
@@ -7354,7 +6537,6 @@ const pingData = [{
   "latitude": "41.3691",
   "longitude": "-58.61029"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "49602",
@@ -7363,7 +6545,6 @@ const pingData = [{
   "latitude": "41.39231",
   "longitude": "-58.607"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "49597",
@@ -7372,7 +6553,6 @@ const pingData = [{
   "latitude": "41.68294",
   "longitude": "-58.83297"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "49594",
@@ -7381,7 +6561,6 @@ const pingData = [{
   "latitude": "41.67063",
   "longitude": "-58.85674"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "49593",
@@ -7390,7 +6569,6 @@ const pingData = [{
   "latitude": "41.73558",
   "longitude": "-58.78207"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "49590",
@@ -7399,7 +6577,6 @@ const pingData = [{
   "latitude": "41.78159",
   "longitude": "-58.72832"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "49589",
@@ -7408,7 +6585,6 @@ const pingData = [{
   "latitude": "41.78891",
   "longitude": "-58.71025"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "49588",
@@ -7417,7 +6593,6 @@ const pingData = [{
   "latitude": "41.85139",
   "longitude": "-58.59575"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "49587",
@@ -7426,7 +6601,6 @@ const pingData = [{
   "latitude": "42.05612",
   "longitude": "-58.39654"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "49586",
@@ -7435,7 +6609,6 @@ const pingData = [{
   "latitude": "42.07459",
   "longitude": "-58.37713"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "49584",
@@ -7444,7 +6617,6 @@ const pingData = [{
   "latitude": "42.4869",
   "longitude": "-58.283"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "49585",
@@ -7453,7 +6625,6 @@ const pingData = [{
   "latitude": "42.13975",
   "longitude": "-58.35775"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "49583",
@@ -7462,7 +6633,6 @@ const pingData = [{
   "latitude": "42.47531",
   "longitude": "-58.25251"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "49578",
@@ -7471,7 +6641,6 @@ const pingData = [{
   "latitude": "42.77578",
   "longitude": "-58.18217"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "49577",
@@ -7480,7 +6649,6 @@ const pingData = [{
   "latitude": "42.80668",
   "longitude": "-58.18583"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "49575",
@@ -7489,7 +6657,6 @@ const pingData = [{
   "latitude": "42.95362",
   "longitude": "-58.22958"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "49573",
@@ -7498,7 +6665,6 @@ const pingData = [{
   "latitude": "42.9709",
   "longitude": "-58.17808"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "49572",
@@ -7507,7 +6673,6 @@ const pingData = [{
   "latitude": "44.33245",
   "longitude": "-51.47298"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "49570",
@@ -7516,7 +6681,6 @@ const pingData = [{
   "latitude": "43.20882",
   "longitude": "-58.06061"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "49567",
@@ -7525,7 +6689,6 @@ const pingData = [{
   "latitude": "43.26894",
   "longitude": "-58.07489"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "49565",
@@ -7534,7 +6697,6 @@ const pingData = [{
   "latitude": "43.27349",
   "longitude": "-58.0691"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "49561",
@@ -7543,7 +6705,6 @@ const pingData = [{
   "latitude": "43.29611",
   "longitude": "-58.04441"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "49562",
@@ -7552,7 +6713,6 @@ const pingData = [{
   "latitude": "43.68535",
   "longitude": "-55.53364"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "49484",
@@ -7561,7 +6721,6 @@ const pingData = [{
   "latitude": "44.72793",
   "longitude": "-54.9139"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "49433",
@@ -7570,7 +6729,6 @@ const pingData = [{
   "latitude": "43.48263",
   "longitude": "-51.98055"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "49430",
@@ -7579,7 +6737,6 @@ const pingData = [{
   "latitude": "43.32572",
   "longitude": "-52.29334"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "49424",
@@ -7588,7 +6745,6 @@ const pingData = [{
   "latitude": "43.16512",
   "longitude": "-52.56889"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "49422",
@@ -7597,7 +6753,6 @@ const pingData = [{
   "latitude": "42.77966",
   "longitude": "-52.72055"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "49407",
@@ -7606,7 +6761,6 @@ const pingData = [{
   "latitude": "42.49867",
   "longitude": "-53.8418"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "49404",
@@ -7615,7 +6769,6 @@ const pingData = [{
   "latitude": "42.4062",
   "longitude": "-54.15472"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "49403",
@@ -7624,7 +6777,6 @@ const pingData = [{
   "latitude": "42.34565",
   "longitude": "-54.3705"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "49401",
@@ -7633,7 +6785,6 @@ const pingData = [{
   "latitude": "42.33018",
   "longitude": "-54.46522"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "49399",
@@ -7642,7 +6793,6 @@ const pingData = [{
   "latitude": "42.3157",
   "longitude": "-54.58529"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "49396",
@@ -7651,7 +6801,6 @@ const pingData = [{
   "latitude": "42.30847",
   "longitude": "-54.63271"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "49395",
@@ -7660,7 +6809,6 @@ const pingData = [{
   "latitude": "42.29285",
   "longitude": "-54.69933"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "49394",
@@ -7669,7 +6817,6 @@ const pingData = [{
   "latitude": "42.2379",
   "longitude": "-54.71653"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "49393",
@@ -7678,7 +6825,6 @@ const pingData = [{
   "latitude": "42.23872",
   "longitude": "-54.64185"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "49367",
@@ -7687,7 +6833,6 @@ const pingData = [{
   "latitude": "42.21619",
   "longitude": "-54.8202"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "49366",
@@ -7696,7 +6841,6 @@ const pingData = [{
   "latitude": "42.23289",
   "longitude": "-54.77114"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "49365",
@@ -7705,7 +6849,6 @@ const pingData = [{
   "latitude": "42.15625",
   "longitude": "-55.24426"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "49364",
@@ -7714,7 +6857,6 @@ const pingData = [{
   "latitude": "42.23748",
   "longitude": "-54.95678"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "49357",
@@ -7723,7 +6865,6 @@ const pingData = [{
   "latitude": "42.04713",
   "longitude": "-56.30406"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "49356",
@@ -7732,7 +6873,6 @@ const pingData = [{
   "latitude": "42.02964",
   "longitude": "-56.40927"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "49354",
@@ -7741,7 +6881,6 @@ const pingData = [{
   "latitude": "42.02983",
   "longitude": "-56.41046"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "49353",
@@ -7750,7 +6889,6 @@ const pingData = [{
   "latitude": "42.03142",
   "longitude": "-56.41161"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "49352",
@@ -7759,7 +6897,6 @@ const pingData = [{
   "latitude": "42.02751",
   "longitude": "-56.43648"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "49355",
@@ -7768,7 +6905,6 @@ const pingData = [{
   "latitude": "42.01844",
   "longitude": "-56.47166"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "49351",
@@ -7777,7 +6913,6 @@ const pingData = [{
   "latitude": "42.00479",
   "longitude": "-56.54341"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "49350",
@@ -7786,7 +6921,6 @@ const pingData = [{
   "latitude": "41.9077",
   "longitude": "-56.99485"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "49341",
@@ -7795,7 +6929,6 @@ const pingData = [{
   "latitude": "41.92632",
   "longitude": "-57.02761"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "49339",
@@ -7804,7 +6937,6 @@ const pingData = [{
   "latitude": "42.11786",
   "longitude": "-56.87611"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "49338",
@@ -7813,7 +6945,6 @@ const pingData = [{
   "latitude": "42.22815",
   "longitude": "-56.91275"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "49337",
@@ -7822,7 +6953,6 @@ const pingData = [{
   "latitude": "42.50975",
   "longitude": "-57.41599"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "49336",
@@ -7831,7 +6961,6 @@ const pingData = [{
   "latitude": "42.49072",
   "longitude": "-57.47202"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "49329",
@@ -7840,7 +6969,6 @@ const pingData = [{
   "latitude": "42.74334",
   "longitude": "-58.31905"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "49316",
@@ -7849,7 +6977,6 @@ const pingData = [{
   "latitude": "42.87402",
   "longitude": "-58.26142"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "49309",
@@ -7858,7 +6985,6 @@ const pingData = [{
   "latitude": "42.78172",
   "longitude": "-58.03647"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "49308",
@@ -7867,7 +6993,6 @@ const pingData = [{
   "latitude": "42.78042",
   "longitude": "-58.03579"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "49305",
@@ -7876,7 +7001,6 @@ const pingData = [{
   "latitude": "42.73663",
   "longitude": "-58.00612"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "49304",
@@ -7885,7 +7009,6 @@ const pingData = [{
   "latitude": "42.73214",
   "longitude": "-58.02277"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "49303",
@@ -7894,7 +7017,6 @@ const pingData = [{
   "latitude": "42.47597",
   "longitude": "-57.89403"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "49299",
@@ -7903,7 +7025,6 @@ const pingData = [{
   "latitude": "42.61841",
   "longitude": "-58.10526"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "49292",
@@ -7912,7 +7033,6 @@ const pingData = [{
   "latitude": "42.64331",
   "longitude": "-58.10748"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "49291",
@@ -7921,7 +7041,6 @@ const pingData = [{
   "latitude": "42.72514",
   "longitude": "-58.13591"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "49286",
@@ -7930,7 +7049,6 @@ const pingData = [{
   "latitude": "42.2216",
   "longitude": "-57.36556"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "49280",
@@ -7939,7 +7057,6 @@ const pingData = [{
   "latitude": "42.74376",
   "longitude": "-58.06547"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "49279",
@@ -7948,7 +7065,6 @@ const pingData = [{
   "latitude": "42.77166",
   "longitude": "-58.06756"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "49278",
@@ -7957,7 +7073,6 @@ const pingData = [{
   "latitude": "42.82149",
   "longitude": "-58.13063"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "49277",
@@ -7966,7 +7081,6 @@ const pingData = [{
   "latitude": "42.95324",
   "longitude": "-58.37304"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "49271",
@@ -7975,7 +7089,6 @@ const pingData = [{
   "latitude": "43.05298",
   "longitude": "-58.29708"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "49245",
@@ -7984,7 +7097,6 @@ const pingData = [{
   "latitude": "45.1282",
   "longitude": "-55.78173"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "49218",
@@ -7993,7 +7105,6 @@ const pingData = [{
   "latitude": "44.78277",
   "longitude": "-55.68105"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "49143",
@@ -8002,7 +7113,6 @@ const pingData = [{
   "latitude": "44.34317",
   "longitude": "-54.51942"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "49144",
@@ -8011,7 +7121,6 @@ const pingData = [{
   "latitude": "44.28276",
   "longitude": "-54.49329"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "49140",
@@ -8020,7 +7129,6 @@ const pingData = [{
   "latitude": "44.29093",
   "longitude": "-54.482169999999996"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "49132",
@@ -8029,7 +7137,6 @@ const pingData = [{
   "latitude": "43.76895",
   "longitude": "-55.02805"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "49131",
@@ -8038,7 +7145,6 @@ const pingData = [{
   "latitude": "43.70734",
   "longitude": "-55.16351"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "49129",
@@ -8047,7 +7153,6 @@ const pingData = [{
   "latitude": "43.7553",
   "longitude": "-55.50616"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "49126",
@@ -8056,7 +7161,6 @@ const pingData = [{
   "latitude": "43.50394",
   "longitude": "-55.29998"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "49123",
@@ -8065,7 +7169,6 @@ const pingData = [{
   "latitude": "42.99784",
   "longitude": "-54.92252"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "49124",
@@ -8074,7 +7177,6 @@ const pingData = [{
   "latitude": "42.94396",
   "longitude": "-54.88094"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "49120",
@@ -8083,7 +7185,6 @@ const pingData = [{
   "latitude": "42.85427",
   "longitude": "-54.8265"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "49119",
@@ -8092,7 +7193,6 @@ const pingData = [{
   "latitude": "42.83544",
   "longitude": "-54.80783"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "49117",
@@ -8101,7 +7201,6 @@ const pingData = [{
   "latitude": "42.79641",
   "longitude": "-54.79764"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "49116",
@@ -8110,7 +7209,6 @@ const pingData = [{
   "latitude": "42.70743",
   "longitude": "-54.78987"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "49114",
@@ -8119,7 +7217,6 @@ const pingData = [{
   "latitude": "42.50968",
   "longitude": "-54.5794"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "49112",
@@ -8128,7 +7225,6 @@ const pingData = [{
   "latitude": "42.51709",
   "longitude": "-54.40335"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "49096",
@@ -8137,7 +7233,6 @@ const pingData = [{
   "latitude": "41.89956",
   "longitude": "-54.55358"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "49092",
@@ -8146,7 +7241,6 @@ const pingData = [{
   "latitude": "41.83845",
   "longitude": "-54.571"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "49089",
@@ -8155,7 +7249,6 @@ const pingData = [{
   "latitude": "41.83857",
   "longitude": "-54.57016"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "49088",
@@ -8164,7 +7257,6 @@ const pingData = [{
   "latitude": "40.76561",
   "longitude": "-54.83433"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "49083",
@@ -8173,7 +7265,6 @@ const pingData = [{
   "latitude": "41.13314",
   "longitude": "-54.6842"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "49082",
@@ -8182,7 +7273,6 @@ const pingData = [{
   "latitude": "40.79951",
   "longitude": "-54.84515"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "49063",
@@ -8191,7 +7281,6 @@ const pingData = [{
   "latitude": "40.98845",
   "longitude": "-54.53542"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "49042",
@@ -8200,7 +7289,6 @@ const pingData = [{
   "latitude": "40.60706",
   "longitude": "-54.46067"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "49044",
@@ -8209,7 +7297,6 @@ const pingData = [{
   "latitude": "40.7415",
   "longitude": "-54.53032"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "49041",
@@ -8218,7 +7305,6 @@ const pingData = [{
   "latitude": "40.58222",
   "longitude": "-54.43109"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "49032",
@@ -8227,7 +7313,6 @@ const pingData = [{
   "latitude": "40.79389",
   "longitude": "-54.52781"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "49029",
@@ -8236,7 +7321,6 @@ const pingData = [{
   "latitude": "40.95116",
   "longitude": "-54.58985"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "49028",
@@ -8245,7 +7329,6 @@ const pingData = [{
   "latitude": "40.88759",
   "longitude": "-54.77433"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "49027",
@@ -8254,7 +7337,6 @@ const pingData = [{
   "latitude": "41.06514",
   "longitude": "-54.96584"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "49013",
@@ -8263,7 +7345,6 @@ const pingData = [{
   "latitude": "41.20896",
   "longitude": "-54.99869"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "49006",
@@ -8272,7 +7353,6 @@ const pingData = [{
   "latitude": "41.33157",
   "longitude": "-54.99117"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "49002",
@@ -8281,7 +7361,6 @@ const pingData = [{
   "latitude": "41.43721",
   "longitude": "-54.92381"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "49001",
@@ -8290,7 +7369,6 @@ const pingData = [{
   "latitude": "41.44177",
   "longitude": "-54.90853"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "48997",
@@ -8299,7 +7377,6 @@ const pingData = [{
   "latitude": "41.41624",
   "longitude": "-55.14686"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "48888",
@@ -8308,7 +7385,6 @@ const pingData = [{
   "latitude": "45.09533",
   "longitude": "-55.06021"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "48887",
@@ -8317,7 +7393,6 @@ const pingData = [{
   "latitude": "45.36112",
   "longitude": "-54.86167"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "48874",
@@ -8326,7 +7401,6 @@ const pingData = [{
   "latitude": "44.90421",
   "longitude": "-55.19965"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "48871",
@@ -8335,7 +7409,6 @@ const pingData = [{
   "latitude": "44.43117",
   "longitude": "-55.52826"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "48867",
@@ -8344,7 +7417,6 @@ const pingData = [{
   "latitude": "44.33267",
   "longitude": "-55.71207"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "48864",
@@ -8353,7 +7425,6 @@ const pingData = [{
   "latitude": "44.25946",
   "longitude": "-55.71213"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "48862",
@@ -8362,7 +7433,6 @@ const pingData = [{
   "latitude": "44.1765",
   "longitude": "-55.71465"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "48860",
@@ -8371,7 +7441,6 @@ const pingData = [{
   "latitude": "44.16501",
   "longitude": "-55.71788"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "48858",
@@ -8380,7 +7449,6 @@ const pingData = [{
   "latitude": "44.16502",
   "longitude": "-55.71788"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "48838",
@@ -8389,7 +7457,6 @@ const pingData = [{
   "latitude": "42.91224",
   "longitude": "-56.58612"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "48839",
@@ -8398,7 +7465,6 @@ const pingData = [{
   "latitude": "42.49948",
   "longitude": "-56.30952"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "48832",
@@ -8407,7 +7473,6 @@ const pingData = [{
   "latitude": "42.57012",
   "longitude": "-56.14719"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "48778",
@@ -8416,7 +7481,6 @@ const pingData = [{
   "latitude": "41.93045",
   "longitude": "-55.54621"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "48776",
@@ -8425,7 +7489,6 @@ const pingData = [{
   "latitude": "41.97341",
   "longitude": "-55.53467"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "48766",
@@ -8434,7 +7497,6 @@ const pingData = [{
   "latitude": "42.39325",
   "longitude": "-55.35004"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "48746",
@@ -8443,7 +7505,6 @@ const pingData = [{
   "latitude": "43.06835",
   "longitude": "-55.58018"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "48747",
@@ -8452,7 +7513,6 @@ const pingData = [{
   "latitude": "43.14675",
   "longitude": "-55.51745"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "48745",
@@ -8461,7 +7521,6 @@ const pingData = [{
   "latitude": "43.20835",
   "longitude": "-55.46023"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "48744",
@@ -8470,7 +7529,6 @@ const pingData = [{
   "latitude": "43.24165",
   "longitude": "-55.43451"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "48743",
@@ -8479,7 +7537,6 @@ const pingData = [{
   "latitude": "43.27806",
   "longitude": "-55.40045"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "48740",
@@ -8488,7 +7545,6 @@ const pingData = [{
   "latitude": "43.53211",
   "longitude": "-55.18501"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "48739",
@@ -8497,7 +7553,6 @@ const pingData = [{
   "latitude": "43.57006",
   "longitude": "-55.18066"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "48737",
@@ -8506,7 +7561,6 @@ const pingData = [{
   "latitude": "43.4054",
   "longitude": "-55.1337"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "48729",
@@ -8515,7 +7569,6 @@ const pingData = [{
   "latitude": "44.06712",
   "longitude": "-55.14063"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "48727",
@@ -8524,7 +7577,6 @@ const pingData = [{
   "latitude": "44.1489",
   "longitude": "-55.15031"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "48726",
@@ -8533,7 +7585,6 @@ const pingData = [{
   "latitude": "44.09753",
   "longitude": "-54.40285"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "48725",
@@ -8542,7 +7593,6 @@ const pingData = [{
   "latitude": "44.10567",
   "longitude": "-54.36074"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "48723",
@@ -8551,7 +7601,6 @@ const pingData = [{
   "latitude": "44.59652",
   "longitude": "-54.23762"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "48722",
@@ -8560,7 +7609,6 @@ const pingData = [{
   "latitude": "44.55009",
   "longitude": "-54.08521"
 }, {
-  "active": "1",
   "key": 2,
   "shark_id": 65,
   "id": "48721",
@@ -8568,6 +7616,2550 @@ const pingData = [{
   "tz_datetime": "1 January 2016 7:43:56 PM +0900",
   "latitude": "44.53878",
   "longitude": "-54.09196"
+}, {
+  "key": 3,
+  "shark_id": 239,
+  "id": "61936",
+  "datetime": "17 May 2017 7:08:52 AM",
+  "tz_datetime": "17 May 2017 7:08:52 AM +0900",
+  "latitude": "28.78741",
+  "longitude": "-89.7833"
+}, {
+  "key": 3,
+  "shark_id": 239,
+  "id": "61935",
+  "datetime": "17 May 2017 6:15:17 AM",
+  "tz_datetime": "17 May 2017 6:15:17 AM +0900",
+  "latitude": "28.79233",
+  "longitude": "-89.77755"
+}, {
+  "key": 3,
+  "shark_id": 239,
+  "id": "61934",
+  "datetime": "17 May 2017 4:35:48 AM",
+  "tz_datetime": "17 May 2017 4:35:48 AM +0900",
+  "latitude": "28.79493",
+  "longitude": "-89.75718"
+}, {
+  "key": 3,
+  "shark_id": 239,
+  "id": "61892",
+  "datetime": "14 May 2017 12:37:21 AM",
+  "tz_datetime": "14 May 2017 12:37:21 AM +0900",
+  "latitude": "28.59366",
+  "longitude": "-89.79251"
+}, {
+  "key": 3,
+  "shark_id": 239,
+  "id": "61884",
+  "datetime": "13 May 2017 8:43:58 AM",
+  "tz_datetime": "13 May 2017 8:43:58 AM +0900",
+  "latitude": "28.63537",
+  "longitude": "-89.84493"
+}, {
+  "key": 3,
+  "shark_id": 239,
+  "id": "61876",
+  "datetime": "13 May 2017 8:38:28 AM",
+  "tz_datetime": "13 May 2017 8:38:28 AM +0900",
+  "latitude": "28.63639",
+  "longitude": "-89.84628"
+}, {
+  "key": 3,
+  "shark_id": 239,
+  "id": "61872",
+  "datetime": "13 May 2017 12:03:42 AM",
+  "tz_datetime": "13 May 2017 12:03:42 AM +0900",
+  "latitude": "28.74784",
+  "longitude": "-89.95804"
+}, {
+  "key": 3,
+  "shark_id": 239,
+  "id": "61853",
+  "datetime": "12 May 2017 8:57:54 AM",
+  "tz_datetime": "12 May 2017 8:57:54 AM +0900",
+  "latitude": "28.66633",
+  "longitude": "-90.0615"
+}, {
+  "key": 3,
+  "shark_id": 239,
+  "id": "61845",
+  "datetime": "12 May 2017 2:00:00 AM",
+  "tz_datetime": "12 May 2017 2:00:00 AM +0900",
+  "latitude": "28.63985",
+  "longitude": "-90.07128"
+}, {
+  "key": 3,
+  "shark_id": 239,
+  "id": "61802",
+  "datetime": "10 May 2017 12:59:29 AM",
+  "tz_datetime": "10 May 2017 12:59:29 AM +0900",
+  "latitude": "28.52547",
+  "longitude": "-89.63927"
+}, {
+  "key": 3,
+  "shark_id": 239,
+  "id": "61801",
+  "datetime": "10 May 2017 12:12:59 AM",
+  "tz_datetime": "10 May 2017 12:12:59 AM +0900",
+  "latitude": "28.52348",
+  "longitude": "-89.64434"
+}, {
+  "key": 3,
+  "shark_id": 239,
+  "id": "61800",
+  "datetime": "9 May 2017 11:44:00 PM",
+  "tz_datetime": "9 May 2017 11:44:00 PM +0900",
+  "latitude": "28.5251",
+  "longitude": "-89.64575"
+}, {
+  "key": 3,
+  "shark_id": 239,
+  "id": "61799",
+  "datetime": "9 May 2017 11:23:51 PM",
+  "tz_datetime": "9 May 2017 11:23:51 PM +0900",
+  "latitude": "28.55626",
+  "longitude": "-89.63237"
+}, {
+  "key": 3,
+  "shark_id": 239,
+  "id": "61798",
+  "datetime": "9 May 2017 10:52:39 PM",
+  "tz_datetime": "9 May 2017 10:52:39 PM +0900",
+  "latitude": "28.55554",
+  "longitude": "-89.63294"
+}, {
+  "key": 3,
+  "shark_id": 239,
+  "id": "61706",
+  "datetime": "6 May 2017 6:46:38 AM",
+  "tz_datetime": "6 May 2017 6:46:38 AM +0900",
+  "latitude": "28.71283",
+  "longitude": "-89.97582"
+}, {
+  "key": 3,
+  "shark_id": 239,
+  "id": "61679",
+  "datetime": "5 May 2017 2:01:23 AM",
+  "tz_datetime": "5 May 2017 2:01:23 AM +0900",
+  "latitude": "28.92466",
+  "longitude": "-89.94864"
+}, {
+  "key": 3,
+  "shark_id": 239,
+  "id": "61678",
+  "datetime": "5 May 2017 1:06:17 AM",
+  "tz_datetime": "5 May 2017 1:06:17 AM +0900",
+  "latitude": "28.92344",
+  "longitude": "-89.94611"
+}, {
+  "key": 3,
+  "shark_id": 239,
+  "id": "61677",
+  "datetime": "5 May 2017 12:17:31 AM",
+  "tz_datetime": "5 May 2017 12:17:31 AM +0900",
+  "latitude": "28.91863",
+  "longitude": "-89.95778"
+}, {
+  "key": 3,
+  "shark_id": 239,
+  "id": "61671",
+  "datetime": "4 May 2017 7:30:45 PM",
+  "tz_datetime": "4 May 2017 7:30:45 PM +0900",
+  "latitude": "28.91106",
+  "longitude": "-89.89436"
+}, {
+  "key": 3,
+  "shark_id": 239,
+  "id": "61670",
+  "datetime": "4 May 2017 7:30:22 PM",
+  "tz_datetime": "4 May 2017 7:30:22 PM +0900",
+  "latitude": "28.83458",
+  "longitude": "-89.73457"
+}, {
+  "key": 3,
+  "shark_id": 239,
+  "id": "61669",
+  "datetime": "4 May 2017 5:58:03 PM",
+  "tz_datetime": "4 May 2017 5:58:03 PM +0900",
+  "latitude": "28.82498",
+  "longitude": "-89.70107"
+}, {
+  "key": 3,
+  "shark_id": 239,
+  "id": "61618",
+  "datetime": "2 May 2017 6:18:48 PM",
+  "tz_datetime": "2 May 2017 6:18:48 PM +0900",
+  "latitude": "28.70532",
+  "longitude": "-89.78895"
+}, {
+  "key": 3,
+  "shark_id": 239,
+  "id": "61610",
+  "datetime": "1 May 2017 8:08:37 PM",
+  "tz_datetime": "1 May 2017 8:08:37 PM +0900",
+  "latitude": "28.6316",
+  "longitude": "-89.80014"
+}, {
+  "key": 3,
+  "shark_id": 239,
+  "id": "61609",
+  "datetime": "1 May 2017 6:27:37 PM",
+  "tz_datetime": "1 May 2017 6:27:37 PM +0900",
+  "latitude": "28.63774",
+  "longitude": "-89.73214"
+}, {
+  "key": 3,
+  "shark_id": 239,
+  "id": "61649",
+  "datetime": "1 May 2017 9:54:33 AM",
+  "tz_datetime": "1 May 2017 9:54:33 AM +0900",
+  "latitude": "28.57887",
+  "longitude": "-89.74519"
+}, {
+  "key": 3,
+  "shark_id": 239,
+  "id": "61601",
+  "datetime": "1 May 2017 9:51:26 AM",
+  "tz_datetime": "1 May 2017 9:51:26 AM +0900",
+  "latitude": "28.57887",
+  "longitude": "-89.7452"
+}, {
+  "key": 3,
+  "shark_id": 239,
+  "id": "61594",
+  "datetime": "1 May 2017 4:15:48 AM",
+  "tz_datetime": "1 May 2017 4:15:48 AM +0900",
+  "latitude": "28.52473",
+  "longitude": "-89.60519"
+}, {
+  "key": 3,
+  "shark_id": 239,
+  "id": "61575",
+  "datetime": "30 April 2017 9:39:22 AM",
+  "tz_datetime": "30 April 2017 9:39:22 AM +0900",
+  "latitude": "28.66252",
+  "longitude": "-89.59715"
+}, {
+  "key": 3,
+  "shark_id": 239,
+  "id": "61572",
+  "datetime": "30 April 2017 8:49:06 AM",
+  "tz_datetime": "30 April 2017 8:49:06 AM +0900",
+  "latitude": "28.70011",
+  "longitude": "-89.62487"
+}, {
+  "key": 3,
+  "shark_id": 239,
+  "id": "61569",
+  "datetime": "30 April 2017 6:07:16 AM",
+  "tz_datetime": "30 April 2017 6:07:16 AM +0900",
+  "latitude": "28.74753",
+  "longitude": "-89.59521"
+}, {
+  "key": 3,
+  "shark_id": 239,
+  "id": "61566",
+  "datetime": "29 April 2017 8:39:41 PM",
+  "tz_datetime": "29 April 2017 8:39:41 PM +0900",
+  "latitude": "28.77685",
+  "longitude": "-89.60223"
+}, {
+  "key": 3,
+  "shark_id": 239,
+  "id": "61549",
+  "datetime": "29 April 2017 6:22:34 AM",
+  "tz_datetime": "29 April 2017 6:22:34 AM +0900",
+  "latitude": "28.69622",
+  "longitude": "-89.62364"
+}, {
+  "key": 3,
+  "shark_id": 239,
+  "id": "61530",
+  "datetime": "28 April 2017 1:49:22 AM",
+  "tz_datetime": "28 April 2017 1:49:22 AM +0900",
+  "latitude": "28.56349",
+  "longitude": "-89.92426"
+}, {
+  "key": 3,
+  "shark_id": 239,
+  "id": "61528",
+  "datetime": "28 April 2017 12:15:02 AM",
+  "tz_datetime": "28 April 2017 12:15:02 AM +0900",
+  "latitude": "28.58681",
+  "longitude": "-89.89571"
+}, {
+  "key": 3,
+  "shark_id": 239,
+  "id": "61527",
+  "datetime": "27 April 2017 10:50:00 PM",
+  "tz_datetime": "27 April 2017 10:50:00 PM +0900",
+  "latitude": "28.58781",
+  "longitude": "-89.89474"
+}, {
+  "key": 3,
+  "shark_id": 239,
+  "id": "61526",
+  "datetime": "27 April 2017 10:47:50 PM",
+  "tz_datetime": "27 April 2017 10:47:50 PM +0900",
+  "latitude": "28.60895",
+  "longitude": "-89.76637"
+}, {
+  "key": 3,
+  "shark_id": 239,
+  "id": "61478",
+  "datetime": "25 April 2017 12:22:46 AM",
+  "tz_datetime": "25 April 2017 12:22:46 AM +0900",
+  "latitude": "28.39001",
+  "longitude": "-90.59191"
+}, {
+  "key": 3,
+  "shark_id": 239,
+  "id": "61452",
+  "datetime": "24 April 2017 1:32:49 AM",
+  "tz_datetime": "24 April 2017 1:32:49 AM +0900",
+  "latitude": "28.4126",
+  "longitude": "-90.79078"
+}, {
+  "key": 3,
+  "shark_id": 239,
+  "id": "61450",
+  "datetime": "24 April 2017 12:48:58 AM",
+  "tz_datetime": "24 April 2017 12:48:58 AM +0900",
+  "latitude": "28.37586",
+  "longitude": "-90.63743"
+}, {
+  "key": 3,
+  "shark_id": 239,
+  "id": "61445",
+  "datetime": "23 April 2017 11:24:04 AM",
+  "tz_datetime": "23 April 2017 11:24:04 AM +0900",
+  "latitude": "28.49975",
+  "longitude": "-90.85786"
+}, {
+  "key": 3,
+  "shark_id": 239,
+  "id": "61442",
+  "datetime": "23 April 2017 10:58:48 AM",
+  "tz_datetime": "23 April 2017 10:58:48 AM +0900",
+  "latitude": "28.47729",
+  "longitude": "-90.78892"
+}, {
+  "key": 3,
+  "shark_id": 239,
+  "id": "61409",
+  "datetime": "22 April 2017 9:12:03 AM",
+  "tz_datetime": "22 April 2017 9:12:03 AM +0900",
+  "latitude": "28.45916",
+  "longitude": "-91.21284"
+}, {
+  "key": 3,
+  "shark_id": 239,
+  "id": "61404",
+  "datetime": "22 April 2017 12:37:41 AM",
+  "tz_datetime": "22 April 2017 12:37:41 AM +0900",
+  "latitude": "28.68945",
+  "longitude": "-91.51547"
+}, {
+  "key": 3,
+  "shark_id": 239,
+  "id": "61396",
+  "datetime": "21 April 2017 11:18:57 AM",
+  "tz_datetime": "21 April 2017 11:18:57 AM +0900",
+  "latitude": "28.68282",
+  "longitude": "-91.52186"
+}, {
+  "key": 3,
+  "shark_id": 239,
+  "id": "61384",
+  "datetime": "21 April 2017 8:00:53 AM",
+  "tz_datetime": "21 April 2017 8:00:53 AM +0900",
+  "latitude": "28.66854",
+  "longitude": "-91.58693"
+}, {
+  "key": 3,
+  "shark_id": 239,
+  "id": "61383",
+  "datetime": "21 April 2017 7:59:34 AM",
+  "tz_datetime": "21 April 2017 7:59:34 AM +0900",
+  "latitude": "28.66846",
+  "longitude": "-91.58664"
+}, {
+  "key": 3,
+  "shark_id": 239,
+  "id": "61346",
+  "datetime": "20 April 2017 11:45:09 AM",
+  "tz_datetime": "20 April 2017 11:45:09 AM +0900",
+  "latitude": "28.63663",
+  "longitude": "-92.07513"
+}, {
+  "key": 3,
+  "shark_id": 239,
+  "id": "61307",
+  "datetime": "19 April 2017 11:06:51 AM",
+  "tz_datetime": "19 April 2017 11:06:51 AM +0900",
+  "latitude": "28.57336",
+  "longitude": "-92.72201"
+}, {
+  "key": 3,
+  "shark_id": 239,
+  "id": "61306",
+  "datetime": "19 April 2017 11:05:01 AM",
+  "tz_datetime": "19 April 2017 11:05:01 AM +0900",
+  "latitude": "28.59418",
+  "longitude": "-92.72035"
+}, {
+  "key": 3,
+  "shark_id": 239,
+  "id": "61294",
+  "datetime": "19 April 2017 6:36:09 AM",
+  "tz_datetime": "19 April 2017 6:36:09 AM +0900",
+  "latitude": "28.51433",
+  "longitude": "-92.85786"
+}, {
+  "key": 3,
+  "shark_id": 239,
+  "id": "61270",
+  "datetime": "18 April 2017 11:28:13 AM",
+  "tz_datetime": "18 April 2017 11:28:13 AM +0900",
+  "latitude": "28.14913",
+  "longitude": "-93.29557"
+}, {
+  "key": 3,
+  "shark_id": 239,
+  "id": "61255",
+  "datetime": "17 April 2017 10:37:04 AM",
+  "tz_datetime": "17 April 2017 10:37:04 AM +0900",
+  "latitude": "28.20511",
+  "longitude": "-94.07576"
+}, {
+  "key": 3,
+  "shark_id": 239,
+  "id": "61254",
+  "datetime": "17 April 2017 8:49:49 AM",
+  "tz_datetime": "17 April 2017 8:49:49 AM +0900",
+  "latitude": "28.25045",
+  "longitude": "-94.03421"
+}, {
+  "key": 3,
+  "shark_id": 239,
+  "id": "61253",
+  "datetime": "17 April 2017 8:49:26 AM",
+  "tz_datetime": "17 April 2017 8:49:26 AM +0900",
+  "latitude": "28.27383",
+  "longitude": "-94.01797"
+}, {
+  "key": 3,
+  "shark_id": 239,
+  "id": "61252",
+  "datetime": "16 April 2017 10:44:59 AM",
+  "tz_datetime": "16 April 2017 10:44:59 AM +0900",
+  "latitude": "28.26853",
+  "longitude": "-93.84362"
+}, {
+  "key": 3,
+  "shark_id": 239,
+  "id": "61251",
+  "datetime": "16 April 2017 10:35:42 AM",
+  "tz_datetime": "16 April 2017 10:35:42 AM +0900",
+  "latitude": "28.2416",
+  "longitude": "-93.74264"
+}, {
+  "key": 3,
+  "shark_id": 239,
+  "id": "61250",
+  "datetime": "16 April 2017 12:57:39 AM",
+  "tz_datetime": "16 April 2017 12:57:39 AM +0900",
+  "latitude": "28.35134",
+  "longitude": "-93.51427"
+}, {
+  "key": 3,
+  "shark_id": 239,
+  "id": "61249",
+  "datetime": "15 April 2017 11:50:34 AM",
+  "tz_datetime": "15 April 2017 11:50:34 AM +0900",
+  "latitude": "28.03958",
+  "longitude": "-93.44931"
+}, {
+  "key": 3,
+  "shark_id": 239,
+  "id": "61248",
+  "datetime": "15 April 2017 10:51:03 AM",
+  "tz_datetime": "15 April 2017 10:51:03 AM +0900",
+  "latitude": "28.02824",
+  "longitude": "-93.43664"
+}, {
+  "key": 3,
+  "shark_id": 239,
+  "id": "61247",
+  "datetime": "15 April 2017 10:50:41 AM",
+  "tz_datetime": "15 April 2017 10:50:41 AM +0900",
+  "latitude": "28.03391",
+  "longitude": "-93.42218"
+}, {
+  "key": 3,
+  "shark_id": 239,
+  "id": "61246",
+  "datetime": "14 April 2017 10:51:48 AM",
+  "tz_datetime": "14 April 2017 10:51:48 AM +0900",
+  "latitude": "28.08147",
+  "longitude": "-93.53856"
+}, {
+  "key": 3,
+  "shark_id": 239,
+  "id": "61245",
+  "datetime": "13 April 2017 11:17:38 AM",
+  "tz_datetime": "13 April 2017 11:17:38 AM +0900",
+  "latitude": "28.12243",
+  "longitude": "-93.58177"
+}, {
+  "key": 3,
+  "shark_id": 239,
+  "id": "61244",
+  "datetime": "13 April 2017 10:53:02 AM",
+  "tz_datetime": "13 April 2017 10:53:02 AM +0900",
+  "latitude": "28.16252",
+  "longitude": "-93.59324"
+}, {
+  "key": 3,
+  "shark_id": 239,
+  "id": "61243",
+  "datetime": "12 April 2017 8:05:09 AM",
+  "tz_datetime": "12 April 2017 8:05:09 AM +0900",
+  "latitude": "28.10384",
+  "longitude": "-93.51865"
+}, {
+  "key": 3,
+  "shark_id": 239,
+  "id": "61280",
+  "datetime": "12 April 2017 8:03:21 AM",
+  "tz_datetime": "12 April 2017 8:03:21 AM +0900",
+  "latitude": "28.11472",
+  "longitude": "-93.5323"
+}, {
+  "key": 3,
+  "shark_id": 239,
+  "id": "61242",
+  "datetime": "11 April 2017 2:40:09 AM",
+  "tz_datetime": "11 April 2017 2:40:09 AM +0900",
+  "latitude": "28.0846",
+  "longitude": "-93.34963"
+}, {
+  "key": 3,
+  "shark_id": 239,
+  "id": "61241",
+  "datetime": "10 April 2017 10:13:20 AM",
+  "tz_datetime": "10 April 2017 10:13:20 AM +0900",
+  "latitude": "28.047",
+  "longitude": "-93.31303"
+}, {
+  "key": 3,
+  "shark_id": 239,
+  "id": "61240",
+  "datetime": "10 April 2017 8:32:41 AM",
+  "tz_datetime": "10 April 2017 8:32:41 AM +0900",
+  "latitude": "28.04964",
+  "longitude": "-93.36189"
+}, {
+  "key": 3,
+  "shark_id": 239,
+  "id": "61239",
+  "datetime": "9 April 2017 1:02:13 PM",
+  "tz_datetime": "9 April 2017 1:02:13 PM +0900",
+  "latitude": "28.06654",
+  "longitude": "-93.48063"
+}, {
+  "key": 3,
+  "shark_id": 239,
+  "id": "61238",
+  "datetime": "8 April 2017 9:57:53 AM",
+  "tz_datetime": "8 April 2017 9:57:53 AM +0900",
+  "latitude": "28.442",
+  "longitude": "-92.83483"
+}, {
+  "key": 3,
+  "shark_id": 239,
+  "id": "61377",
+  "datetime": "8 April 2017 1:22:00 AM",
+  "tz_datetime": "8 April 2017 1:22:00 AM +0900",
+  "latitude": "28.44264",
+  "longitude": "-92.71671"
+}, {
+  "key": 3,
+  "shark_id": 239,
+  "id": "61376",
+  "datetime": "7 April 2017 10:43:00 AM",
+  "tz_datetime": "7 April 2017 10:43:00 AM +0900",
+  "latitude": "28.37412",
+  "longitude": "-92.9265"
+}, {
+  "key": 3,
+  "shark_id": 239,
+  "id": "61375",
+  "datetime": "7 April 2017 12:43:00 AM",
+  "tz_datetime": "7 April 2017 12:43:00 AM +0900",
+  "latitude": "28.21848",
+  "longitude": "-93.14022"
+}, {
+  "key": 3,
+  "shark_id": 239,
+  "id": "61374",
+  "datetime": "6 April 2017 12:23:00 PM",
+  "tz_datetime": "6 April 2017 12:23:00 PM +0900",
+  "latitude": "28.1624",
+  "longitude": "-93.46156"
+}, {
+  "key": 3,
+  "shark_id": 239,
+  "id": "61373",
+  "datetime": "6 April 2017 11:01:00 AM",
+  "tz_datetime": "6 April 2017 11:01:00 AM +0900",
+  "latitude": "28.17565",
+  "longitude": "-93.46271"
+}, {
+  "key": 3,
+  "shark_id": 239,
+  "id": "61372",
+  "datetime": "5 April 2017 12:36:00 AM",
+  "tz_datetime": "5 April 2017 12:36:00 AM +0900",
+  "latitude": "28.11958",
+  "longitude": "-93.44099"
+}, {
+  "key": 3,
+  "shark_id": 239,
+  "id": "61371",
+  "datetime": "4 April 2017 8:23:00 AM",
+  "tz_datetime": "4 April 2017 8:23:00 AM +0900",
+  "latitude": "28.28638",
+  "longitude": "-93.35776"
+}, {
+  "key": 3,
+  "shark_id": 239,
+  "id": "61370",
+  "datetime": "4 April 2017 8:02:00 AM",
+  "tz_datetime": "4 April 2017 8:02:00 AM +0900",
+  "latitude": "28.30004",
+  "longitude": "-93.38099"
+}, {
+  "key": 3,
+  "shark_id": 239,
+  "id": "61369",
+  "datetime": "3 April 2017 8:45:00 AM",
+  "tz_datetime": "3 April 2017 8:45:00 AM +0900",
+  "latitude": "28.11691",
+  "longitude": "-93.66273"
+}, {
+  "key": 3,
+  "shark_id": 239,
+  "id": "61368",
+  "datetime": "3 April 2017 12:32:00 AM",
+  "tz_datetime": "3 April 2017 12:32:00 AM +0900",
+  "latitude": "28.15397",
+  "longitude": "-93.83113"
+}, {
+  "key": 3,
+  "shark_id": 239,
+  "id": "61367",
+  "datetime": "2 April 2017 2:24:00 AM",
+  "tz_datetime": "2 April 2017 2:24:00 AM +0900",
+  "latitude": "28.145",
+  "longitude": "-93.85814"
+}, {
+  "key": 3,
+  "shark_id": 239,
+  "id": "61366",
+  "datetime": "1 April 2017 6:44:16 AM",
+  "tz_datetime": "1 April 2017 6:44:16 AM +0900",
+  "latitude": "28.18124",
+  "longitude": "-93.69559"
+}, {
+  "key": 3,
+  "shark_id": 239,
+  "id": "61365",
+  "datetime": "31 March 2017 12:46:55 PM",
+  "tz_datetime": "31 March 2017 12:46:55 PM +0900",
+  "latitude": "28.13146",
+  "longitude": "-93.7725"
+}, {
+  "key": 3,
+  "shark_id": 239,
+  "id": "61364",
+  "datetime": "31 March 2017 11:55:04 AM",
+  "tz_datetime": "31 March 2017 11:55:04 AM +0900",
+  "latitude": "28.12731",
+  "longitude": "-93.77507"
+}, {
+  "key": 3,
+  "shark_id": 239,
+  "id": "61363",
+  "datetime": "30 March 2017 12:59:49 AM",
+  "tz_datetime": "30 March 2017 12:59:49 AM +0900",
+  "latitude": "27.86867",
+  "longitude": "-93.6878"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "39591",
+  "datetime": "25 September 2014 11:01:45 AM",
+  "tz_datetime": "25 September 2014 11:01:45 AM +0900",
+  "latitude": "35.90723",
+  "longitude": "-74.47037"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "39577",
+  "datetime": "24 September 2014 11:36:23 PM",
+  "tz_datetime": "24 September 2014 11:36:23 PM +0900",
+  "latitude": "35.94159",
+  "longitude": "-74.44744"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "39569",
+  "datetime": "24 September 2014 7:07:02 PM",
+  "tz_datetime": "24 September 2014 7:07:02 PM +0900",
+  "latitude": "35.92443",
+  "longitude": "-74.39171"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "39549",
+  "datetime": "24 September 2014 1:40:59 AM",
+  "tz_datetime": "24 September 2014 1:40:59 AM +0900",
+  "latitude": "35.7708",
+  "longitude": "-74.48465"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "39540",
+  "datetime": "23 September 2014 6:36:28 PM",
+  "tz_datetime": "23 September 2014 6:36:28 PM +0900",
+  "latitude": "35.74157",
+  "longitude": "-74.51669"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "39539",
+  "datetime": "23 September 2014 6:34:22 PM",
+  "tz_datetime": "23 September 2014 6:34:22 PM +0900",
+  "latitude": "35.7692",
+  "longitude": "-74.67359"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "38960",
+  "datetime": "4 September 2014 6:09:04 PM",
+  "tz_datetime": "4 September 2014 6:09:04 PM +0900",
+  "latitude": "38.18527",
+  "longitude": "-74.6533"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "38961",
+  "datetime": "4 September 2014 5:58:57 PM",
+  "tz_datetime": "4 September 2014 5:58:57 PM +0900",
+  "latitude": "38.15166",
+  "longitude": "-74.65157"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "38958",
+  "datetime": "4 September 2014 5:05:43 PM",
+  "tz_datetime": "4 September 2014 5:05:43 PM +0900",
+  "latitude": "38.15939",
+  "longitude": "-74.64767"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "38710",
+  "datetime": "26 August 2014 8:06:21 PM",
+  "tz_datetime": "26 August 2014 8:06:21 PM +0900",
+  "latitude": "38.02437",
+  "longitude": "-74.31656"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "38701",
+  "datetime": "26 August 2014 2:49:19 PM",
+  "tz_datetime": "26 August 2014 2:49:19 PM +0900",
+  "latitude": "38.02947",
+  "longitude": "-74.30901"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "38698",
+  "datetime": "26 August 2014 11:17:27 AM",
+  "tz_datetime": "26 August 2014 11:17:27 AM +0900",
+  "latitude": "37.94946",
+  "longitude": "-74.27045"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "38697",
+  "datetime": "26 August 2014 10:28:28 AM",
+  "tz_datetime": "26 August 2014 10:28:28 AM +0900",
+  "latitude": "37.83096",
+  "longitude": "-74.2926"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "38692",
+  "datetime": "26 August 2014 9:44:37 AM",
+  "tz_datetime": "26 August 2014 9:44:37 AM +0900",
+  "latitude": "37.77276",
+  "longitude": "-74.34373"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "38696",
+  "datetime": "26 August 2014 9:42:58 AM",
+  "tz_datetime": "26 August 2014 9:42:58 AM +0900",
+  "latitude": "38.01646",
+  "longitude": "-74.26676"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "38662",
+  "datetime": "25 August 2014 3:01:46 PM",
+  "tz_datetime": "25 August 2014 3:01:46 PM +0900",
+  "latitude": "38.08873",
+  "longitude": "-74.32884"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "38661",
+  "datetime": "25 August 2014 11:40:09 AM",
+  "tz_datetime": "25 August 2014 11:40:09 AM +0900",
+  "latitude": "38.16315",
+  "longitude": "-74.2688"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "38629",
+  "datetime": "24 August 2014 11:58:11 AM",
+  "tz_datetime": "24 August 2014 11:58:11 AM +0900",
+  "latitude": "38.03861",
+  "longitude": "-74.14834"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "38620",
+  "datetime": "24 August 2014 10:18:09 AM",
+  "tz_datetime": "24 August 2014 10:18:09 AM +0900",
+  "latitude": "38.04161",
+  "longitude": "-74.09641"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "38615",
+  "datetime": "24 August 2014 7:27:46 AM",
+  "tz_datetime": "24 August 2014 7:27:46 AM +0900",
+  "latitude": "38.15515",
+  "longitude": "-74.08904"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "38613",
+  "datetime": "24 August 2014 6:59:40 AM",
+  "tz_datetime": "24 August 2014 6:59:40 AM +0900",
+  "latitude": "38.18059",
+  "longitude": "-74.05094"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "38594",
+  "datetime": "23 August 2014 4:58:47 PM",
+  "tz_datetime": "23 August 2014 4:58:47 PM +0900",
+  "latitude": "38.38946",
+  "longitude": "-74.26312"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "38517",
+  "datetime": "21 August 2014 6:49:13 PM",
+  "tz_datetime": "21 August 2014 6:49:13 PM +0900",
+  "latitude": "38.29417",
+  "longitude": "-74.15453"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "38510",
+  "datetime": "21 August 2014 3:41:08 PM",
+  "tz_datetime": "21 August 2014 3:41:08 PM +0900",
+  "latitude": "38.30404",
+  "longitude": "-74.16096"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "38507",
+  "datetime": "21 August 2014 12:21:25 PM",
+  "tz_datetime": "21 August 2014 12:21:25 PM +0900",
+  "latitude": "38.2855",
+  "longitude": "-74.15403"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "38505",
+  "datetime": "21 August 2014 11:25:18 AM",
+  "tz_datetime": "21 August 2014 11:25:18 AM +0900",
+  "latitude": "38.28621",
+  "longitude": "-74.15323"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "38502",
+  "datetime": "21 August 2014 10:33:10 AM",
+  "tz_datetime": "21 August 2014 10:33:10 AM +0900",
+  "latitude": "38.23098",
+  "longitude": "-74.81308"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "38486",
+  "datetime": "20 August 2014 7:13:30 PM",
+  "tz_datetime": "20 August 2014 7:13:30 PM +0900",
+  "latitude": "38.47385",
+  "longitude": "-74.65124"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "38385",
+  "datetime": "18 August 2014 6:21:00 PM",
+  "tz_datetime": "18 August 2014 6:21:00 PM +0900",
+  "latitude": "39.25872",
+  "longitude": "-74.02862"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "38362",
+  "datetime": "17 August 2014 6:46:39 PM",
+  "tz_datetime": "17 August 2014 6:46:39 PM +0900",
+  "latitude": "39.72838",
+  "longitude": "-73.95661"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "38361",
+  "datetime": "17 August 2014 6:44:54 PM",
+  "tz_datetime": "17 August 2014 6:44:54 PM +0900",
+  "latitude": "39.69421",
+  "longitude": "-73.85477"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "38082",
+  "datetime": "9 August 2014 3:50:18 AM",
+  "tz_datetime": "9 August 2014 3:50:18 AM +0900",
+  "latitude": "39.19475",
+  "longitude": "-74.16885"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "38080",
+  "datetime": "9 August 2014 2:11:34 AM",
+  "tz_datetime": "9 August 2014 2:11:34 AM +0900",
+  "latitude": "39.17493",
+  "longitude": "-74.08725"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "38010",
+  "datetime": "7 August 2014 8:58:05 PM",
+  "tz_datetime": "7 August 2014 8:58:05 PM +0900",
+  "latitude": "38.86888",
+  "longitude": "-74.36001"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "38007",
+  "datetime": "7 August 2014 7:38:52 PM",
+  "tz_datetime": "7 August 2014 7:38:52 PM +0900",
+  "latitude": "38.92589",
+  "longitude": "-74.42148"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "38006",
+  "datetime": "7 August 2014 7:14:11 PM",
+  "tz_datetime": "7 August 2014 7:14:11 PM +0900",
+  "latitude": "38.91974",
+  "longitude": "-74.33796"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "38004",
+  "datetime": "7 August 2014 6:59:16 PM",
+  "tz_datetime": "7 August 2014 6:59:16 PM +0900",
+  "latitude": "38.91973",
+  "longitude": "-74.42533"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "37999",
+  "datetime": "7 August 2014 5:55:14 PM",
+  "tz_datetime": "7 August 2014 5:55:14 PM +0900",
+  "latitude": "38.96924",
+  "longitude": "-74.42793"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "37995",
+  "datetime": "7 August 2014 4:35:01 PM",
+  "tz_datetime": "7 August 2014 4:35:01 PM +0900",
+  "latitude": "39.01382",
+  "longitude": "-74.40458"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "37991",
+  "datetime": "7 August 2014 2:59:12 PM",
+  "tz_datetime": "7 August 2014 2:59:12 PM +0900",
+  "latitude": "39.01378",
+  "longitude": "-74.42732"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "37974",
+  "datetime": "7 August 2014 6:33:27 AM",
+  "tz_datetime": "7 August 2014 6:33:27 AM +0900",
+  "latitude": "38.60054",
+  "longitude": "-74.98659"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "37970",
+  "datetime": "7 August 2014 2:36:37 AM",
+  "tz_datetime": "7 August 2014 2:36:37 AM +0900",
+  "latitude": "38.88079",
+  "longitude": "-74.59794"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "37963",
+  "datetime": "6 August 2014 6:07:13 PM",
+  "tz_datetime": "6 August 2014 6:07:13 PM +0900",
+  "latitude": "39.49225",
+  "longitude": "-73.82352"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "37961",
+  "datetime": "6 August 2014 5:33:48 PM",
+  "tz_datetime": "6 August 2014 5:33:48 PM +0900",
+  "latitude": "39.57311",
+  "longitude": "-73.71338"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "37958",
+  "datetime": "6 August 2014 4:50:08 PM",
+  "tz_datetime": "6 August 2014 4:50:08 PM +0900",
+  "latitude": "39.69095",
+  "longitude": "-73.53305"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "37949",
+  "datetime": "6 August 2014 10:51:28 AM",
+  "tz_datetime": "6 August 2014 10:51:28 AM +0900",
+  "latitude": "39.77788",
+  "longitude": "-73.54378"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "37934",
+  "datetime": "6 August 2014 5:06:54 AM",
+  "tz_datetime": "6 August 2014 5:06:54 AM +0900",
+  "latitude": "39.72155",
+  "longitude": "-73.59099"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "37933",
+  "datetime": "6 August 2014 4:20:44 AM",
+  "tz_datetime": "6 August 2014 4:20:44 AM +0900",
+  "latitude": "39.71104",
+  "longitude": "-73.60662"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "37930",
+  "datetime": "6 August 2014 2:45:59 AM",
+  "tz_datetime": "6 August 2014 2:45:59 AM +0900",
+  "latitude": "39.72253",
+  "longitude": "-73.60958"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "37905",
+  "datetime": "5 August 2014 7:22:49 AM",
+  "tz_datetime": "5 August 2014 7:22:49 AM +0900",
+  "latitude": "39.79766",
+  "longitude": "-73.72922"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "37903",
+  "datetime": "5 August 2014 6:29:51 AM",
+  "tz_datetime": "5 August 2014 6:29:51 AM +0900",
+  "latitude": "39.81497",
+  "longitude": "-73.75337"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "37902",
+  "datetime": "5 August 2014 5:17:19 AM",
+  "tz_datetime": "5 August 2014 5:17:19 AM +0900",
+  "latitude": "39.8232",
+  "longitude": "-73.7487"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "37900",
+  "datetime": "5 August 2014 3:42:17 AM",
+  "tz_datetime": "5 August 2014 3:42:17 AM +0900",
+  "latitude": "39.74276",
+  "longitude": "-73.71449"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "37898",
+  "datetime": "5 August 2014 2:59:02 AM",
+  "tz_datetime": "5 August 2014 2:59:02 AM +0900",
+  "latitude": "39.71092",
+  "longitude": "-73.70919"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "37897",
+  "datetime": "5 August 2014 1:16:53 AM",
+  "tz_datetime": "5 August 2014 1:16:53 AM +0900",
+  "latitude": "39.63635",
+  "longitude": "-73.70054"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "37895",
+  "datetime": "4 August 2014 10:55:31 PM",
+  "tz_datetime": "4 August 2014 10:55:31 PM +0900",
+  "latitude": "39.42888",
+  "longitude": "-73.6279"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "37893",
+  "datetime": "4 August 2014 8:45:52 PM",
+  "tz_datetime": "4 August 2014 8:45:52 PM +0900",
+  "latitude": "39.23313",
+  "longitude": "-73.64596"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "37888",
+  "datetime": "4 August 2014 7:14:15 PM",
+  "tz_datetime": "4 August 2014 7:14:15 PM +0900",
+  "latitude": "39.23015",
+  "longitude": "-73.64781"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "37871",
+  "datetime": "4 August 2014 3:27:15 PM",
+  "tz_datetime": "4 August 2014 3:27:15 PM +0900",
+  "latitude": "39.20571",
+  "longitude": "-73.6402"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "37792",
+  "datetime": "2 August 2014 4:10:58 AM",
+  "tz_datetime": "2 August 2014 4:10:58 AM +0900",
+  "latitude": "38.3777",
+  "longitude": "-75.09054"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "37791",
+  "datetime": "2 August 2014 3:29:53 AM",
+  "tz_datetime": "2 August 2014 3:29:53 AM +0900",
+  "latitude": "38.37505",
+  "longitude": "-75.09537"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "37740",
+  "datetime": "31 July 2014 7:07:36 PM",
+  "tz_datetime": "31 July 2014 7:07:36 PM +0900",
+  "latitude": "37.67106",
+  "longitude": "-74.81941"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "37736",
+  "datetime": "31 July 2014 6:34:29 PM",
+  "tz_datetime": "31 July 2014 6:34:29 PM +0900",
+  "latitude": "37.66763",
+  "longitude": "-75.15223"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "37735",
+  "datetime": "31 July 2014 5:56:53 PM",
+  "tz_datetime": "31 July 2014 5:56:53 PM +0900",
+  "latitude": "37.59661",
+  "longitude": "-74.65789"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "37733",
+  "datetime": "31 July 2014 5:56:04 PM",
+  "tz_datetime": "31 July 2014 5:56:04 PM +0900",
+  "latitude": "37.5831",
+  "longitude": "-74.67164"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "37732",
+  "datetime": "31 July 2014 4:59:31 PM",
+  "tz_datetime": "31 July 2014 4:59:31 PM +0900",
+  "latitude": "37.55922",
+  "longitude": "-74.70518"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "37729",
+  "datetime": "31 July 2014 4:19:22 PM",
+  "tz_datetime": "31 July 2014 4:19:22 PM +0900",
+  "latitude": "37.53909",
+  "longitude": "-74.73159"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "37727",
+  "datetime": "31 July 2014 2:35:17 PM",
+  "tz_datetime": "31 July 2014 2:35:17 PM +0900",
+  "latitude": "37.51399",
+  "longitude": "-74.77167"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "37724",
+  "datetime": "31 July 2014 12:00:05 PM",
+  "tz_datetime": "31 July 2014 12:00:05 PM +0900",
+  "latitude": "37.44094",
+  "longitude": "-74.93982"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "37721",
+  "datetime": "31 July 2014 11:11:28 AM",
+  "tz_datetime": "31 July 2014 11:11:28 AM +0900",
+  "latitude": "37.41609",
+  "longitude": "-74.99398"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "37719",
+  "datetime": "31 July 2014 10:22:30 AM",
+  "tz_datetime": "31 July 2014 10:22:30 AM +0900",
+  "latitude": "37.40675",
+  "longitude": "-75.0722"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "37717",
+  "datetime": "31 July 2014 9:59:17 AM",
+  "tz_datetime": "31 July 2014 9:59:17 AM +0900",
+  "latitude": "37.39037",
+  "longitude": "-74.92358"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "37714",
+  "datetime": "31 July 2014 9:31:24 AM",
+  "tz_datetime": "31 July 2014 9:31:24 AM +0900",
+  "latitude": "37.59616",
+  "longitude": "-74.46485"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "37686",
+  "datetime": "30 July 2014 7:30:00 PM",
+  "tz_datetime": "30 July 2014 7:30:00 PM +0900",
+  "latitude": "37.12135",
+  "longitude": "-75.15828"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "37677",
+  "datetime": "30 July 2014 6:47:39 PM",
+  "tz_datetime": "30 July 2014 6:47:39 PM +0900",
+  "latitude": "37.08868",
+  "longitude": "-75.20622"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "37652",
+  "datetime": "30 July 2014 6:04:34 PM",
+  "tz_datetime": "30 July 2014 6:04:34 PM +0900",
+  "latitude": "37.00899",
+  "longitude": "-75.2822"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "37685",
+  "datetime": "30 July 2014 5:55:29 PM",
+  "tz_datetime": "30 July 2014 5:55:29 PM +0900",
+  "latitude": "36.99997",
+  "longitude": "-75.2887"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "37651",
+  "datetime": "30 July 2014 5:13:18 PM",
+  "tz_datetime": "30 July 2014 5:13:18 PM +0900",
+  "latitude": "37.00465",
+  "longitude": "-75.30114"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "37650",
+  "datetime": "30 July 2014 2:41:35 PM",
+  "tz_datetime": "30 July 2014 2:41:35 PM +0900",
+  "latitude": "36.9877",
+  "longitude": "-75.33548"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "37641",
+  "datetime": "30 July 2014 9:00:33 AM",
+  "tz_datetime": "30 July 2014 9:00:33 AM +0900",
+  "latitude": "36.98738",
+  "longitude": "-75.33775"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "37629",
+  "datetime": "29 July 2014 6:59:19 PM",
+  "tz_datetime": "29 July 2014 6:59:19 PM +0900",
+  "latitude": "37.01754",
+  "longitude": "-75.36689"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "37625",
+  "datetime": "29 July 2014 6:58:18 PM",
+  "tz_datetime": "29 July 2014 6:58:18 PM +0900",
+  "latitude": "37.01981",
+  "longitude": "-75.3872"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "37610",
+  "datetime": "29 July 2014 4:32:47 PM",
+  "tz_datetime": "29 July 2014 4:32:47 PM +0900",
+  "latitude": "37.0462",
+  "longitude": "-74.28268"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "37601",
+  "datetime": "29 July 2014 11:47:27 AM",
+  "tz_datetime": "29 July 2014 11:47:27 AM +0900",
+  "latitude": "37.21837",
+  "longitude": "-74.0333"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "37586",
+  "datetime": "29 July 2014 9:22:14 AM",
+  "tz_datetime": "29 July 2014 9:22:14 AM +0900",
+  "latitude": "37.67045",
+  "longitude": "-73.55641"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "37585",
+  "datetime": "29 July 2014 7:42:37 AM",
+  "tz_datetime": "29 July 2014 7:42:37 AM +0900",
+  "latitude": "37.56786",
+  "longitude": "-73.76434"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "37584",
+  "datetime": "29 July 2014 7:37:30 AM",
+  "tz_datetime": "29 July 2014 7:37:30 AM +0900",
+  "latitude": "38.68543",
+  "longitude": "-73.07322"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "37551",
+  "datetime": "28 July 2014 4:53:11 PM",
+  "tz_datetime": "28 July 2014 4:53:11 PM +0900",
+  "latitude": "37.74012",
+  "longitude": "-74.62591"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "37548",
+  "datetime": "28 July 2014 3:00:46 PM",
+  "tz_datetime": "28 July 2014 3:00:46 PM +0900",
+  "latitude": "37.67494",
+  "longitude": "-74.75696"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "37540",
+  "datetime": "28 July 2014 11:19:52 AM",
+  "tz_datetime": "28 July 2014 11:19:52 AM +0900",
+  "latitude": "37.45529",
+  "longitude": "-75.15363"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "37512",
+  "datetime": "27 July 2014 7:23:51 PM",
+  "tz_datetime": "27 July 2014 7:23:51 PM +0900",
+  "latitude": "37.64881",
+  "longitude": "-75.13489"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "37511",
+  "datetime": "27 July 2014 7:04:48 PM",
+  "tz_datetime": "27 July 2014 7:04:48 PM +0900",
+  "latitude": "37.61304",
+  "longitude": "-75.2729"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "37506",
+  "datetime": "27 July 2014 5:45:05 PM",
+  "tz_datetime": "27 July 2014 5:45:05 PM +0900",
+  "latitude": "37.35161",
+  "longitude": "-75.5177"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "37505",
+  "datetime": "27 July 2014 4:54:22 PM",
+  "tz_datetime": "27 July 2014 4:54:22 PM +0900",
+  "latitude": "37.34129",
+  "longitude": "-75.55937"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "37501",
+  "datetime": "27 July 2014 3:15:04 PM",
+  "tz_datetime": "27 July 2014 3:15:04 PM +0900",
+  "latitude": "37.30648",
+  "longitude": "-75.87085"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "37491",
+  "datetime": "27 July 2014 10:59:15 AM",
+  "tz_datetime": "27 July 2014 10:59:15 AM +0900",
+  "latitude": "37.12585",
+  "longitude": "-75.66053"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "37463",
+  "datetime": "26 July 2014 3:25:39 PM",
+  "tz_datetime": "26 July 2014 3:25:39 PM +0900",
+  "latitude": "37.00919",
+  "longitude": "-75.48345"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "37455",
+  "datetime": "26 July 2014 11:56:48 AM",
+  "tz_datetime": "26 July 2014 11:56:48 AM +0900",
+  "latitude": "36.96712",
+  "longitude": "-75.42778"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "37446",
+  "datetime": "26 July 2014 10:23:29 AM",
+  "tz_datetime": "26 July 2014 10:23:29 AM +0900",
+  "latitude": "36.94115",
+  "longitude": "-75.42944"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "37441",
+  "datetime": "26 July 2014 9:20:22 AM",
+  "tz_datetime": "26 July 2014 9:20:22 AM +0900",
+  "latitude": "36.93982",
+  "longitude": "-75.41689"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "37413",
+  "datetime": "25 July 2014 12:20:58 PM",
+  "tz_datetime": "25 July 2014 12:20:58 PM +0900",
+  "latitude": "37.27905",
+  "longitude": "-75.07665"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "37411",
+  "datetime": "25 July 2014 11:32:51 AM",
+  "tz_datetime": "25 July 2014 11:32:51 AM +0900",
+  "latitude": "37.27858",
+  "longitude": "-75.07648"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "37409",
+  "datetime": "25 July 2014 10:40:33 AM",
+  "tz_datetime": "25 July 2014 10:40:33 AM +0900",
+  "latitude": "37.50858",
+  "longitude": "-74.23333"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "37076",
+  "datetime": "24 July 2014 6:41:02 PM",
+  "tz_datetime": "24 July 2014 6:41:02 PM +0900",
+  "latitude": "37.53652",
+  "longitude": "-74.23422"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "37073",
+  "datetime": "24 July 2014 3:47:12 PM",
+  "tz_datetime": "24 July 2014 3:47:12 PM +0900",
+  "latitude": "37.61395",
+  "longitude": "-74.32715"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "37071",
+  "datetime": "24 July 2014 12:45:42 PM",
+  "tz_datetime": "24 July 2014 12:45:42 PM +0900",
+  "latitude": "37.1516",
+  "longitude": "-74.6145"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "37068",
+  "datetime": "23 July 2014 6:59:01 PM",
+  "tz_datetime": "23 July 2014 6:59:01 PM +0900",
+  "latitude": "34.55238715283803",
+  "longitude": "-77.16862468750003"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "37067",
+  "datetime": "23 July 2014 6:51:29 PM",
+  "tz_datetime": "23 July 2014 6:51:29 PM +0900",
+  "latitude": "34.55996900055425",
+  "longitude": "-76.70619468749999"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "37066",
+  "datetime": "23 July 2014 3:53:50 PM",
+  "tz_datetime": "23 July 2014 3:53:50 PM +0900",
+  "latitude": "34.546264977149676",
+  "longitude": "-77.00538140624997"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "37064",
+  "datetime": "23 July 2014 9:16:41 AM",
+  "tz_datetime": "23 July 2014 9:16:41 AM +0900",
+  "latitude": "34.86298857998575",
+  "longitude": "-76.22484105468743"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "37057",
+  "datetime": "22 July 2014 11:46:01 AM",
+  "tz_datetime": "22 July 2014 11:46:01 AM +0900",
+  "latitude": "36.97953",
+  "longitude": "-75.25423"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "37056",
+  "datetime": "22 July 2014 11:02:52 AM",
+  "tz_datetime": "22 July 2014 11:02:52 AM +0900",
+  "latitude": "37.17005",
+  "longitude": "-75.1759"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "37649",
+  "datetime": "22 July 2014 11:02:15 AM",
+  "tz_datetime": "22 July 2014 11:02:15 AM +0900",
+  "latitude": "37.17011",
+  "longitude": "-75.1758"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "37053",
+  "datetime": "22 July 2014 10:00:46 AM",
+  "tz_datetime": "22 July 2014 10:00:46 AM +0900",
+  "latitude": "37.2425",
+  "longitude": "-75.04306"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "37055",
+  "datetime": "22 July 2014 9:38:33 AM",
+  "tz_datetime": "22 July 2014 9:38:33 AM +0900",
+  "latitude": "37.42226",
+  "longitude": "-75.19658"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "37043",
+  "datetime": "21 July 2014 12:07:44 PM",
+  "tz_datetime": "21 July 2014 12:07:44 PM +0900",
+  "latitude": "37.51975",
+  "longitude": "-74.87882"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "37042",
+  "datetime": "21 July 2014 11:23:29 AM",
+  "tz_datetime": "21 July 2014 11:23:29 AM +0900",
+  "latitude": "37.87211",
+  "longitude": "-74.82484"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "37041",
+  "datetime": "21 July 2014 10:30:24 AM",
+  "tz_datetime": "21 July 2014 10:30:24 AM +0900",
+  "latitude": "37.8738",
+  "longitude": "-74.80512"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "37032",
+  "datetime": "20 July 2014 2:50:45 PM",
+  "tz_datetime": "20 July 2014 2:50:45 PM +0900",
+  "latitude": "37.90038",
+  "longitude": "-74.45208"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "37031",
+  "datetime": "20 July 2014 12:22:20 PM",
+  "tz_datetime": "20 July 2014 12:22:20 PM +0900",
+  "latitude": "37.93689",
+  "longitude": "-74.3218"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "37030",
+  "datetime": "20 July 2014 11:37:15 AM",
+  "tz_datetime": "20 July 2014 11:37:15 AM +0900",
+  "latitude": "37.92494",
+  "longitude": "-74.31034"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "37028",
+  "datetime": "20 July 2014 10:51:42 AM",
+  "tz_datetime": "20 July 2014 10:51:42 AM +0900",
+  "latitude": "38.37843",
+  "longitude": "-74.12418"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "37019",
+  "datetime": "19 July 2014 12:48:01 PM",
+  "tz_datetime": "19 July 2014 12:48:01 PM +0900",
+  "latitude": "38.46666",
+  "longitude": "-74.09816"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "37017",
+  "datetime": "19 July 2014 11:00:28 AM",
+  "tz_datetime": "19 July 2014 11:00:28 AM +0900",
+  "latitude": "38.61442",
+  "longitude": "-73.73694"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "37016",
+  "datetime": "19 July 2014 10:20:55 AM",
+  "tz_datetime": "19 July 2014 10:20:55 AM +0900",
+  "latitude": "38.63679",
+  "longitude": "-73.78405"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "37013",
+  "datetime": "18 July 2014 9:08:12 PM",
+  "tz_datetime": "18 July 2014 9:08:12 PM +0900",
+  "latitude": "38.90851",
+  "longitude": "-74.11666"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "37012",
+  "datetime": "18 July 2014 7:42:42 PM",
+  "tz_datetime": "18 July 2014 7:42:42 PM +0900",
+  "latitude": "38.91128",
+  "longitude": "-74.10187"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "37010",
+  "datetime": "18 July 2014 7:30:12 PM",
+  "tz_datetime": "18 July 2014 7:30:12 PM +0900",
+  "latitude": "38.92947",
+  "longitude": "-74.11272"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "37011",
+  "datetime": "18 July 2014 7:27:28 PM",
+  "tz_datetime": "18 July 2014 7:27:28 PM +0900",
+  "latitude": "38.97155",
+  "longitude": "-74.17321"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "37007",
+  "datetime": "18 July 2014 6:03:37 PM",
+  "tz_datetime": "18 July 2014 6:03:37 PM +0900",
+  "latitude": "38.98472",
+  "longitude": "-74.14461"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "37009",
+  "datetime": "18 July 2014 5:44:23 PM",
+  "tz_datetime": "18 July 2014 5:44:23 PM +0900",
+  "latitude": "38.98532",
+  "longitude": "-74.14511"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "37006",
+  "datetime": "18 July 2014 5:42:22 PM",
+  "tz_datetime": "18 July 2014 5:42:22 PM +0900",
+  "latitude": "38.98511",
+  "longitude": "-74.14504"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "37004",
+  "datetime": "18 July 2014 4:56:39 PM",
+  "tz_datetime": "18 July 2014 4:56:39 PM +0900",
+  "latitude": "38.99869",
+  "longitude": "-74.15148"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "37001",
+  "datetime": "18 July 2014 9:51:17 AM",
+  "tz_datetime": "18 July 2014 9:51:17 AM +0900",
+  "latitude": "38.34997",
+  "longitude": "-74.93013"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "36994",
+  "datetime": "17 July 2014 7:35:59 PM",
+  "tz_datetime": "17 July 2014 7:35:59 PM +0900",
+  "latitude": "38.58496",
+  "longitude": "-74.37005"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "36993",
+  "datetime": "17 July 2014 6:35:06 PM",
+  "tz_datetime": "17 July 2014 6:35:06 PM +0900",
+  "latitude": "38.57834",
+  "longitude": "-74.39361"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "36992",
+  "datetime": "17 July 2014 6:04:04 PM",
+  "tz_datetime": "17 July 2014 6:04:04 PM +0900",
+  "latitude": "38.54331",
+  "longitude": "-74.35071"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "36991",
+  "datetime": "17 July 2014 5:04:57 PM",
+  "tz_datetime": "17 July 2014 5:04:57 PM +0900",
+  "latitude": "38.60336",
+  "longitude": "-74.35722"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "36990",
+  "datetime": "17 July 2014 3:19:42 PM",
+  "tz_datetime": "17 July 2014 3:19:42 PM +0900",
+  "latitude": "38.85742",
+  "longitude": "-73.77439"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "36983",
+  "datetime": "16 July 2014 5:30:07 PM",
+  "tz_datetime": "16 July 2014 5:30:07 PM +0900",
+  "latitude": "38.06559",
+  "longitude": "-74.45765"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "36981",
+  "datetime": "16 July 2014 5:12:58 PM",
+  "tz_datetime": "16 July 2014 5:12:58 PM +0900",
+  "latitude": "38.0628",
+  "longitude": "-74.47462"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "36979",
+  "datetime": "16 July 2014 3:33:13 PM",
+  "tz_datetime": "16 July 2014 3:33:13 PM +0900",
+  "latitude": "38.00313",
+  "longitude": "-74.62836"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "36975",
+  "datetime": "16 July 2014 9:28:35 AM",
+  "tz_datetime": "16 July 2014 9:28:35 AM +0900",
+  "latitude": "37.95062",
+  "longitude": "-74.74359"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "36973",
+  "datetime": "16 July 2014 8:51:16 AM",
+  "tz_datetime": "16 July 2014 8:51:16 AM +0900",
+  "latitude": "37.94356",
+  "longitude": "-74.74769"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "36972",
+  "datetime": "16 July 2014 7:53:24 AM",
+  "tz_datetime": "16 July 2014 7:53:24 AM +0900",
+  "latitude": "37.87128",
+  "longitude": "-74.78303"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "36967",
+  "datetime": "16 July 2014 6:22:25 AM",
+  "tz_datetime": "16 July 2014 6:22:25 AM +0900",
+  "latitude": "37.87554",
+  "longitude": "-74.84599"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "36960",
+  "datetime": "15 July 2014 10:06:33 AM",
+  "tz_datetime": "15 July 2014 10:06:33 AM +0900",
+  "latitude": "37.48326",
+  "longitude": "-75.1286"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "36959",
+  "datetime": "14 July 2014 3:56:24 PM",
+  "tz_datetime": "14 July 2014 3:56:24 PM +0900",
+  "latitude": "37.60056",
+  "longitude": "-74.73127"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "36958",
+  "datetime": "14 July 2014 11:15:00 AM",
+  "tz_datetime": "14 July 2014 11:15:00 AM +0900",
+  "latitude": "37.74283",
+  "longitude": "-74.59415"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "36957",
+  "datetime": "14 July 2014 10:32:08 AM",
+  "tz_datetime": "14 July 2014 10:32:08 AM +0900",
+  "latitude": "37.69542",
+  "longitude": "-74.65735"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "36956",
+  "datetime": "13 July 2014 6:38:53 PM",
+  "tz_datetime": "13 July 2014 6:38:53 PM +0900",
+  "latitude": "37.75318",
+  "longitude": "-74.40289"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "36955",
+  "datetime": "13 July 2014 6:15:43 PM",
+  "tz_datetime": "13 July 2014 6:15:43 PM +0900",
+  "latitude": "37.81315",
+  "longitude": "-74.28997"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "36954",
+  "datetime": "13 July 2014 4:11:17 PM",
+  "tz_datetime": "13 July 2014 4:11:17 PM +0900",
+  "latitude": "37.81637",
+  "longitude": "-74.26896"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "36952",
+  "datetime": "13 July 2014 10:46:51 AM",
+  "tz_datetime": "13 July 2014 10:46:51 AM +0900",
+  "latitude": "37.87317",
+  "longitude": "-74.1995"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "36951",
+  "datetime": "13 July 2014 9:21:16 AM",
+  "tz_datetime": "13 July 2014 9:21:16 AM +0900",
+  "latitude": "37.62875",
+  "longitude": "-74.18935"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "36946",
+  "datetime": "12 July 2014 11:48:59 AM",
+  "tz_datetime": "12 July 2014 11:48:59 AM +0900",
+  "latitude": "38.31984",
+  "longitude": "-73.93948"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "36945",
+  "datetime": "12 July 2014 11:03:33 AM",
+  "tz_datetime": "12 July 2014 11:03:33 AM +0900",
+  "latitude": "38.33709",
+  "longitude": "-73.94216"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "36944",
+  "datetime": "12 July 2014 10:06:42 AM",
+  "tz_datetime": "12 July 2014 10:06:42 AM +0900",
+  "latitude": "38.28975",
+  "longitude": "-73.42489"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "36942",
+  "datetime": "11 July 2014 10:45:34 PM",
+  "tz_datetime": "11 July 2014 10:45:34 PM +0900",
+  "latitude": "38.58183",
+  "longitude": "-73.48512"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "36939",
+  "datetime": "11 July 2014 12:13:56 PM",
+  "tz_datetime": "11 July 2014 12:13:56 PM +0900",
+  "latitude": "38.81454",
+  "longitude": "-73.54693"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "36938",
+  "datetime": "11 July 2014 10:32:32 AM",
+  "tz_datetime": "11 July 2014 10:32:32 AM +0900",
+  "latitude": "38.86905",
+  "longitude": "-73.57234"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "36936",
+  "datetime": "11 July 2014 7:07:57 AM",
+  "tz_datetime": "11 July 2014 7:07:57 AM +0900",
+  "latitude": "38.9951",
+  "longitude": "-73.61797"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "36935",
+  "datetime": "11 July 2014 6:42:30 AM",
+  "tz_datetime": "11 July 2014 6:42:30 AM +0900",
+  "latitude": "39.00549",
+  "longitude": "-73.60698"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "36934",
+  "datetime": "11 July 2014 6:41:32 AM",
+  "tz_datetime": "11 July 2014 6:41:32 AM +0900",
+  "latitude": "39.03304",
+  "longitude": "-73.71605"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "36933",
+  "datetime": "10 July 2014 6:52:08 PM",
+  "tz_datetime": "10 July 2014 6:52:08 PM +0900",
+  "latitude": "39.57363",
+  "longitude": "-73.58804"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "36929",
+  "datetime": "10 July 2014 3:32:36 AM",
+  "tz_datetime": "10 July 2014 3:32:36 AM +0900",
+  "latitude": "39.62419",
+  "longitude": "-73.54596"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "36918",
+  "datetime": "8 July 2014 6:42:05 PM",
+  "tz_datetime": "8 July 2014 6:42:05 PM +0900",
+  "latitude": "39.74194",
+  "longitude": "-73.66656"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "36917",
+  "datetime": "8 July 2014 6:35:20 PM",
+  "tz_datetime": "8 July 2014 6:35:20 PM +0900",
+  "latitude": "39.74202",
+  "longitude": "-73.66638"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "36886",
+  "datetime": "4 July 2014 8:24:28 PM",
+  "tz_datetime": "4 July 2014 8:24:28 PM +0900",
+  "latitude": "38.02826",
+  "longitude": "-75.20821"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "36885",
+  "datetime": "4 July 2014 8:09:15 PM",
+  "tz_datetime": "4 July 2014 8:09:15 PM +0900",
+  "latitude": "38.04896",
+  "longitude": "-75.19365"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "36883",
+  "datetime": "4 July 2014 10:35:19 AM",
+  "tz_datetime": "4 July 2014 10:35:19 AM +0900",
+  "latitude": "37.54063",
+  "longitude": "-75.2417"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "36882",
+  "datetime": "4 July 2014 9:38:30 AM",
+  "tz_datetime": "4 July 2014 9:38:30 AM +0900",
+  "latitude": "37.45112",
+  "longitude": "-75.2575"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "36871",
+  "datetime": "3 July 2014 7:13:46 PM",
+  "tz_datetime": "3 July 2014 7:13:46 PM +0900",
+  "latitude": "37.10256",
+  "longitude": "-75.16191"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "36870",
+  "datetime": "3 July 2014 6:49:51 PM",
+  "tz_datetime": "3 July 2014 6:49:51 PM +0900",
+  "latitude": "37.06542",
+  "longitude": "-75.1862"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "36869",
+  "datetime": "3 July 2014 5:15:02 PM",
+  "tz_datetime": "3 July 2014 5:15:02 PM +0900",
+  "latitude": "36.98028",
+  "longitude": "-75.15998"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "36868",
+  "datetime": "3 July 2014 9:37:48 AM",
+  "tz_datetime": "3 July 2014 9:37:48 AM +0900",
+  "latitude": "36.46121",
+  "longitude": "-74.52223"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "36854",
+  "datetime": "2 July 2014 11:14:56 AM",
+  "tz_datetime": "2 July 2014 11:14:56 AM +0900",
+  "latitude": "36.56068",
+  "longitude": "-74.84796"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "36852",
+  "datetime": "2 July 2014 10:18:43 AM",
+  "tz_datetime": "2 July 2014 10:18:43 AM +0900",
+  "latitude": "36.55434",
+  "longitude": "-74.87936"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "36853",
+  "datetime": "2 July 2014 10:11:10 AM",
+  "tz_datetime": "2 July 2014 10:11:10 AM +0900",
+  "latitude": "36.52491",
+  "longitude": "-74.84159"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "36832",
+  "datetime": "1 July 2014 12:19:06 PM",
+  "tz_datetime": "1 July 2014 12:19:06 PM +0900",
+  "latitude": "36.51238",
+  "longitude": "-74.84"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "36829",
+  "datetime": "1 July 2014 10:34:06 AM",
+  "tz_datetime": "1 July 2014 10:34:06 AM +0900",
+  "latitude": "36.54689",
+  "longitude": "-74.84493"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "36828",
+  "datetime": "1 July 2014 9:48:19 AM",
+  "tz_datetime": "1 July 2014 9:48:19 AM +0900",
+  "latitude": "36.5905",
+  "longitude": "-74.835"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "36826",
+  "datetime": "1 July 2014 9:02:04 AM",
+  "tz_datetime": "1 July 2014 9:02:04 AM +0900",
+  "latitude": "36.58588",
+  "longitude": "-74.84727"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "36825",
+  "datetime": "1 July 2014 8:56:55 AM",
+  "tz_datetime": "1 July 2014 8:56:55 AM +0900",
+  "latitude": "36.59458",
+  "longitude": "-74.81447"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "36822",
+  "datetime": "1 July 2014 7:27:21 AM",
+  "tz_datetime": "1 July 2014 7:27:21 AM +0900",
+  "latitude": "36.56106",
+  "longitude": "-74.89494"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "36823",
+  "datetime": "1 July 2014 7:26:05 AM",
+  "tz_datetime": "1 July 2014 7:26:05 AM +0900",
+  "latitude": "36.60664",
+  "longitude": "-74.85686"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "36821",
+  "datetime": "1 July 2014 6:49:56 AM",
+  "tz_datetime": "1 July 2014 6:49:56 AM +0900",
+  "latitude": "36.69693",
+  "longitude": "-74.92674"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "36803",
+  "datetime": "29 June 2014 10:31:48 AM",
+  "tz_datetime": "29 June 2014 10:31:48 AM +0900",
+  "latitude": "37.5583",
+  "longitude": "-75.58466"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "36805",
+  "datetime": "29 June 2014 10:02:14 AM",
+  "tz_datetime": "29 June 2014 10:02:14 AM +0900",
+  "latitude": "37.55735",
+  "longitude": "-75.58637"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "36858",
+  "datetime": "29 June 2014 9:43:50 AM",
+  "tz_datetime": "29 June 2014 9:43:50 AM +0900",
+  "latitude": "37.55038",
+  "longitude": "-75.58598"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "36802",
+  "datetime": "29 June 2014 9:37:19 AM",
+  "tz_datetime": "29 June 2014 9:37:19 AM +0900",
+  "latitude": "37.55038",
+  "longitude": "-75.58598"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "36801",
+  "datetime": "29 June 2014 5:34:28 AM",
+  "tz_datetime": "29 June 2014 5:34:28 AM +0900",
+  "latitude": "37.55378",
+  "longitude": "-75.57349"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "36799",
+  "datetime": "28 June 2014 10:22:19 PM",
+  "tz_datetime": "28 June 2014 10:22:19 PM +0900",
+  "latitude": "37.62383",
+  "longitude": "-75.57078"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "36797",
+  "datetime": "28 June 2014 8:57:13 PM",
+  "tz_datetime": "28 June 2014 8:57:13 PM +0900",
+  "latitude": "37.58391",
+  "longitude": "-75.56089"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "36795",
+  "datetime": "28 June 2014 8:09:50 PM",
+  "tz_datetime": "28 June 2014 8:09:50 PM +0900",
+  "latitude": "37.54429",
+  "longitude": "-75.56147"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "36792",
+  "datetime": "28 June 2014 7:49:03 PM",
+  "tz_datetime": "28 June 2014 7:49:03 PM +0900",
+  "latitude": "37.55709",
+  "longitude": "-75.53869"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "36791",
+  "datetime": "28 June 2014 7:24:34 PM",
+  "tz_datetime": "28 June 2014 7:24:34 PM +0900",
+  "latitude": "37.5631",
+  "longitude": "-75.55137"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "36790",
+  "datetime": "28 June 2014 6:32:43 PM",
+  "tz_datetime": "28 June 2014 6:32:43 PM +0900",
+  "latitude": "37.55175",
+  "longitude": "-75.53075"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "36857",
+  "datetime": "28 June 2014 6:09:59 PM",
+  "tz_datetime": "28 June 2014 6:09:59 PM +0900",
+  "latitude": "37.55224",
+  "longitude": "-75.52787"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "36789",
+  "datetime": "28 June 2014 6:09:35 PM",
+  "tz_datetime": "28 June 2014 6:09:35 PM +0900",
+  "latitude": "37.55224",
+  "longitude": "-75.52787"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "36780",
+  "datetime": "27 June 2014 10:35:07 PM",
+  "tz_datetime": "27 June 2014 10:35:07 PM +0900",
+  "latitude": "37.19969",
+  "longitude": "-74.80366"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "36776",
+  "datetime": "27 June 2014 12:02:50 PM",
+  "tz_datetime": "27 June 2014 12:02:50 PM +0900",
+  "latitude": "36.51322",
+  "longitude": "-74.71058"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "36764",
+  "datetime": "26 June 2014 6:40:12 PM",
+  "tz_datetime": "26 June 2014 6:40:12 PM +0900",
+  "latitude": "36.14988",
+  "longitude": "-74.90168"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "36759",
+  "datetime": "26 June 2014 4:54:49 PM",
+  "tz_datetime": "26 June 2014 4:54:49 PM +0900",
+  "latitude": "36.0022",
+  "longitude": "-74.90285"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "36758",
+  "datetime": "26 June 2014 3:53:10 PM",
+  "tz_datetime": "26 June 2014 3:53:10 PM +0900",
+  "latitude": "35.91364",
+  "longitude": "-74.95293"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "36746",
+  "datetime": "25 June 2014 8:08:11 PM",
+  "tz_datetime": "25 June 2014 8:08:11 PM +0900",
+  "latitude": "35.55568",
+  "longitude": "-74.89637"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "36741",
+  "datetime": "25 June 2014 6:58:20 PM",
+  "tz_datetime": "25 June 2014 6:58:20 PM +0900",
+  "latitude": "35.50449",
+  "longitude": "-74.89999"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "36736",
+  "datetime": "25 June 2014 6:45:47 PM",
+  "tz_datetime": "25 June 2014 6:45:47 PM +0900",
+  "latitude": "35.51426",
+  "longitude": "-74.94005"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "36740",
+  "datetime": "25 June 2014 6:26:54 PM",
+  "tz_datetime": "25 June 2014 6:26:54 PM +0900",
+  "latitude": "35.50707",
+  "longitude": "-74.90585"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "36734",
+  "datetime": "25 June 2014 4:08:39 PM",
+  "tz_datetime": "25 June 2014 4:08:39 PM +0900",
+  "latitude": "35.43469435452729",
+  "longitude": "-74.92668726562499"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "36587",
+  "datetime": "18 June 2014 6:26:20 PM",
+  "tz_datetime": "18 June 2014 6:26:20 PM +0900",
+  "latitude": "33.21899",
+  "longitude": "-78.75616"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "36576",
+  "datetime": "18 June 2014 9:13:52 AM",
+  "tz_datetime": "18 June 2014 9:13:52 AM +0900",
+  "latitude": "33.17954",
+  "longitude": "-78.64349"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "36561",
+  "datetime": "18 June 2014 1:37:32 AM",
+  "tz_datetime": "18 June 2014 1:37:32 AM +0900",
+  "latitude": "32.95114",
+  "longitude": "-78.94953"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "36556",
+  "datetime": "17 June 2014 10:49:48 PM",
+  "tz_datetime": "17 June 2014 10:49:48 PM +0900",
+  "latitude": "32.95683",
+  "longitude": "-79.12552"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "36545",
+  "datetime": "17 June 2014 6:51:52 PM",
+  "tz_datetime": "17 June 2014 6:51:52 PM +0900",
+  "latitude": "32.94934",
+  "longitude": "-79.45007"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "36533",
+  "datetime": "17 June 2014 3:59:40 PM",
+  "tz_datetime": "17 June 2014 3:59:40 PM +0900",
+  "latitude": "32.77580134593805",
+  "longitude": "-79.65024433593749"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "36494",
+  "datetime": "15 June 2014 7:44:49 PM",
+  "tz_datetime": "15 June 2014 7:44:49 PM +0900",
+  "latitude": "32.2068",
+  "longitude": "-80.53157"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "36497",
+  "datetime": "15 June 2014 6:04:01 PM",
+  "tz_datetime": "15 June 2014 6:04:01 PM +0900",
+  "latitude": "32.13437",
+  "longitude": "-80.51233"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "36483",
+  "datetime": "15 June 2014 11:11:37 AM",
+  "tz_datetime": "15 June 2014 11:11:37 AM +0900",
+  "latitude": "32.02954",
+  "longitude": "-80.48864"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "36482",
+  "datetime": "15 June 2014 10:45:44 AM",
+  "tz_datetime": "15 June 2014 10:45:44 AM +0900",
+  "latitude": "32.03221",
+  "longitude": "-80.41901"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "36473",
+  "datetime": "15 June 2014 7:27:46 AM",
+  "tz_datetime": "15 June 2014 7:27:46 AM +0900",
+  "latitude": "31.95845",
+  "longitude": "-80.55479"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "36443",
+  "datetime": "14 June 2014 9:45:37 AM",
+  "tz_datetime": "14 June 2014 9:45:37 AM +0900",
+  "latitude": "31.71392",
+  "longitude": "-80.45677"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "36436",
+  "datetime": "14 June 2014 8:02:39 AM",
+  "tz_datetime": "14 June 2014 8:02:39 AM +0900",
+  "latitude": "31.73265",
+  "longitude": "-80.54554"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "36392",
+  "datetime": "12 June 2014 7:34:11 PM",
+  "tz_datetime": "12 June 2014 7:34:11 PM +0900",
+  "latitude": "31.89577",
+  "longitude": "-80.48431"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "36388",
+  "datetime": "12 June 2014 7:17:40 PM",
+  "tz_datetime": "12 June 2014 7:17:40 PM +0900",
+  "latitude": "31.90896",
+  "longitude": "-80.4821"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "36053",
+  "datetime": "4 June 2014 3:08:07 AM",
+  "tz_datetime": "4 June 2014 3:08:07 AM +0900",
+  "latitude": "32.164169602321266",
+  "longitude": "-80.58054547500001"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "36060",
+  "datetime": "1 June 2014 7:58:02 PM",
+  "tz_datetime": "1 June 2014 7:58:02 PM +0900",
+  "latitude": "31.96207",
+  "longitude": "-80.40857"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "36059",
+  "datetime": "1 June 2014 6:50:16 PM",
+  "tz_datetime": "1 June 2014 6:50:16 PM +0900",
+  "latitude": "31.96748",
+  "longitude": "-80.43662"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "36058",
+  "datetime": "1 June 2014 1:27:19 AM",
+  "tz_datetime": "1 June 2014 1:27:19 AM +0900",
+  "latitude": "31.94745",
+  "longitude": "-80.43164"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "36057",
+  "datetime": "31 May 2014 8:47:04 PM",
+  "tz_datetime": "31 May 2014 8:47:04 PM +0900",
+  "latitude": "32.02548",
+  "longitude": "-80.46456"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "36056",
+  "datetime": "31 May 2014 8:08:58 PM",
+  "tz_datetime": "31 May 2014 8:08:58 PM +0900",
+  "latitude": "32.02238",
+  "longitude": "-80.46405"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "36055",
+  "datetime": "31 May 2014 7:50:45 PM",
+  "tz_datetime": "31 May 2014 7:50:45 PM +0900",
+  "latitude": "32.01188",
+  "longitude": "-80.48063"
+}, {
+  "key": 4,
+  "shark_id": 124,
+  "id": "36054",
+  "datetime": "31 May 2014 7:07:15 PM",
+  "tz_datetime": "31 May 2014 7:07:15 PM +0900",
+  "latitude": "32.05273",
+  "longitude": "-80.50633"
 }]
 
 module.exports = pingData;

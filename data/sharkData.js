@@ -24,6 +24,30 @@ const sharkData = [{
   "tagDate": "20 August 2013",
   "tagLocation": "Cape Cod",
   "description": "Katharine who was tagged off Cape Cod Massachusetts was named by Cat Products fans in honor of Katharine Lee Bates a Cape Cod native and songwriter"
+}, {
+  "shark_id": 239,
+  "name": "Peggy Hughes",
+  "tagIdNumber": "159823",
+  "species": "Mako Shark (Isurus oxyrinchus)",
+  "gender": "Female",
+  "stageOfLife": "Mature",
+  "length": "11.5 ft (3.8 m)",
+  "weight": "1,000+ lb",
+  "tagDate": "22 March 2017",
+  "tagLocation": "Gulf Of Mexico",
+  "description": "Peggy Hughes is a Shortfin Mako captured by William Fay during a research expedition. Tagged by scientists with the Harte Research Center for Sportfish Science and Conservation at Texas A&M University"
+}, {
+  "shark_id": 124,
+  "name": "Septima",
+  "tagIdNumber": "136714",
+  "species": "Tiger Shark  (Galeocerdo cuvier)",
+  "gender": "Female",
+  "stageOfLife": "Mature",
+  "length": "12’8”",
+  "weight": "1,000 lbs",
+  "tagDate": "30 May 2014",
+  "tagLocation": "Port Royal Sound, South Carolina",
+  "description": "Septima is named in honor of American educator civil rights activist and South Carolina native Septima Poinsette Clark."
 }]
 
 module.exports = sharkData;

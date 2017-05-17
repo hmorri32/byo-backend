@@ -21,7 +21,6 @@ exports.up = function(knex, Promise) {
 
     knex.schema.createTable('pings', function(table) {
       table.increments('id').primary();
-      table.string('active');
       table.integer('key');
       table.string('shark_id');
       table.string('ping_id');
