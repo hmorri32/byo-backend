@@ -74,6 +74,13 @@ describe('server side testing', () => {
       });
     });
   });
+
+  describe('API routes', () => {
+    describe('GET /api/v1/sharks', (request, response) => {
+      const suh = 'radical';
+      suh.should.equal('radical')
+    });
+  });
 });
 
 
