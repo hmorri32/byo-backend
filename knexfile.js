@@ -1,12 +1,24 @@
 module.exports = {
   development: {
     client: 'pg',
-    connection: 'postgress://localhost/byobackend',
+    connection: 'postgres://localhost/byobackend',
     migrations: {
       directory: './db/migrations'
     },
     seeds: {
       directory: './db/seeds/dev'
+    },
+    useNullAsDefault: true
+  },
+
+  test: {
+    client: 'pg',
+    connection: 'postgres://localhost/byobackend_test',
+    migrations: {
+      directory: './db/migrations'
+    },
+    seeds: {
+      directory: './db/seeds/test'
     },
     useNullAsDefault: true
   }
