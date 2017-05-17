@@ -37,18 +37,25 @@ describe('server side testing', () => {
   //   });
   // });
 
-  // beforeEach((done) => {
-  //   database.migrate.rollback()
-  //   .then(() => {
-  //   database.migrate.latest()
-  //   .then(() => {
-  //     database.seed.run()
-  //     .then(() => {
-  //       done()
-  //       })
-  //     })
-  //   })
-  // });
+  beforeEach((done) => {
+    database.migrate.rollback()
+    .then(() => {
+      database.migrate.latest()
+      .then(() => {
+        database.seed.run()
+        .then(() => {
+          done();
+        });
+      });
+    });
+  });
+
+  afterEach((done) => {
+    database.migrate.rollback()
+    .then(() => {
+      done();
+    });
+  });
 
 
   describe('Client routes', () => {
@@ -76,9 +83,22 @@ describe('server side testing', () => {
   });
 
   describe('API routes', () => {
-    describe('GET /api/v1/sharks', (request, response) => {
-      const suh = 'radical';
-      suh.should.equal('radical')
+    describe('GET /api/v1/sharks', () => {
+      it('should return all sharks', (done) => {
+        chai.request(server)
+        .get('/api/v1/sharks')
+        .end((error, response) => {
+          console.log(response)
+          response.should.have.status(200);
+          response.should.be.json;
+          response.body.should.be.a('array');
+          response.body.length.should.equal(2)
+          response.body[0].should.have.property('id')
+
+
+          done();
+        })
+      })
     });
   });
 });
