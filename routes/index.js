@@ -216,12 +216,19 @@ router.patch('/api/v1/pings/:id', checkAuth, (request, response) => {
     const { datetime, latitude, longitude } = request.body;
     const pingPatch = { datetime, latitude, longitude };
 
-    database('pings').where('id', id)
-      .update(pingPatch)
-      .then(() => {
+    database('pings').where('id', id).select()
+    .then((pings) => {
+      if(pings.length > 0) {
         database('pings').where('id', id)
+        .update(pingPatch)
+        .then(() => {
+          database('pings').where('id', id)
           .then((ping) => response.status(200).json(ping));
-      });
+        });
+      } else {
+        return error.invalidID(response);
+      }
+    });
   } else {
     return error.missingFields(response);
   }

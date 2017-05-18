@@ -812,6 +812,25 @@ describe('server side testing', () => {
       });
     });
 
+    it('should not let me patch a non existent ping', (done) => {
+      chai.request(server)
+      .patch('/api/v1/pings/422')
+      .set('Authorization', process.env.TOKEN)
+      .send({
+        datetime: 'today probably',
+        latitude: 'flatitude',
+        longitude: '..inal wave'
+      })
+      .end((error, response) => {
+        const ping = response.body[0];
+
+        response.should.have.status(404);
+        response.body.should.be.a('object');
+        response.body.error.should.equal('ID not found!')
+        done();
+      });
+    });
+
     it('should not let me PATCH an ID', (done) => {
       chai.request(server)
       .patch('/api/v1/pings/4')
