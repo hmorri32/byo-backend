@@ -689,6 +689,95 @@ describe('server side testing', () => {
       });
     });
   });
+
+  describe('PATCH /api/v1/sharks/:id', () => {
+    it('should let me patch up a sharks name species and description', (done) => {
+      chai.request(server)
+      .patch('/api/v1/sharks/2')
+      .set('Authorization', process.env.TOKEN)
+      .send({
+        name: 'cool guy mcgee',
+        species: 'Octopus',
+        description: 'Steve Zissou is now an octopus. dealwithit.'
+      })
+      .end((error, response) => {
+        const newShark = response.body[0];
+
+        response.should.have.status(200);
+        response.body.should.be.a('array');
+        response.body.length.should.equal(1);
+
+        newShark.should.have.property('shark_id');
+        newShark.should.have.property('name');
+        newShark.should.have.property('tagIdNumber');
+        newShark.should.have.property('species');
+        newShark.should.have.property('gender');
+        newShark.should.have.property('stageOfLife');
+        newShark.should.have.property('length');
+        newShark.should.have.property('weight');
+        newShark.should.have.property('tagDate');
+        newShark.should.have.property('tagLocation');
+        newShark.should.have.property('description');
+
+        newShark.name.should.equal('cool guy mcgee');
+        newShark.species.should.equal('Octopus');
+        newShark.description.should.equal('Steve Zissou is now an octopus. dealwithit.');
+        done();
+      });
+    });
+
+    it('should not let me PATCH sharks ID', (done) => {
+      chai.request(server)
+      .patch('/api/v1/sharks/2')
+      .set('Authorization', process.env.TOKEN)
+      .send({
+        id: 23, 
+        name: 'cool guy mcgee',
+        species: 'Octopus',
+        description: 'Steve Zissou is now an octopus. dealwithit.'
+      })
+      .end((error, response) => {
+        response.should.have.status(422)
+        response.body.error.should.equal('you cannot update that yung ID!')
+        done();
+      });
+    });
+
+    it('should not let me PATCH if unauthorized', (done) => {
+      chai.request(server)
+      .patch('/api/v1/sharks/2')
+      .set('Authorization', 'im super authorized')
+      .send({
+        name: 'cool guy mcgee',
+        species: 'Octopus',
+        description: 'Steve Zissou is now an octopus. dealwithit.'
+      })
+      .end((error, response) => {
+        response.should.have.status(403);
+        response.body.should.be.a('object');
+        response.body.success.should.equal(false);
+        response.body.message.should.equal('Invalid authorization token.');
+        done();   
+      });
+    });
+
+    it('should not let me PATCH with bogus data', (done) => {
+      chai.request(server)
+      .patch('/api/v1/sharks/2')
+      .set('Authorization', process.env.TOKEN)
+      .send({
+        ultra: 'cool guy mcgee',
+        cool: 'Octopus',
+        data: 'Steve Zissou is now an octopus. dealwithit.'
+      })
+      .end((error, response) => {
+        response.should.have.status(422);
+        response.body.should.be.a('object');
+        response.body.error.should.equal('Missing fields from request!');
+        done();  
+      });
+    });
+  });
 });
 
 

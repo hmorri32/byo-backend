@@ -16,7 +16,7 @@ router.get('/', (request, response) => {
   });
 });
 
-// get shorty 
+// GET shorty 
 
 router.get('/api/v1/sharks', (request, response) => {
   const { species } = request.query;
@@ -82,7 +82,7 @@ router.get('/api/v1/pings/:id', (request, response) => {
   });
 });
 
-// yung posts
+// yung POST
 
 router.post('/api/v1/sharks', checkAuth, (request, response) => {
 
@@ -177,9 +177,37 @@ router.put('/api/v1/pings/:id', checkAuth, (request, response) => {
 
 
 
-// PATCH work 
+// bespoke PATCH work 
 
-router.patch('/api/v1/sharks/:id', (request, response) => {
+router.patch('/api/v1/sharks/:id', checkAuth, (request, response) => {
+  const { id } = request.params;
+
+  let patchWork = ['name', 'species', 'description'].every((prop) => {
+    return request.body.hasOwnProperty(prop);
+  });
+
+  if (request.body.hasOwnProperty('id')) {
+    return response.status(422).json({ error: 'you cannot update that yung ID!' });
+  }
+
+  if (patchWork) {
+    const { name, species, description } = request.body;
+    const sharkPatch = { name, species, description };
+
+    database('sharks').where('id', id)
+      .update(sharkPatch)
+      .then(() => {
+        database('sharks').where('id', id)
+          .then((shark) => response.status(200).json(shark));
+      });
+  } else {
+    response.status(422).send({ error: 'Missing fields from request!' });
+  }
+});
+
+
+
+router.patch('/api/v1/pings/:id', (request, response) => {
 
 
 });
