@@ -150,6 +150,32 @@ router.put('/api/v1/sharks/:id', checkAuth, (request, response) => {
   }
 });
 
+router.put('/api/v1/pings/:id', (request, response) => {
+  const { id } = request.params;
+
+  let pingFields = ['key', 'shark_id', 'ping_id', 'datetime', 'tz_datetime', 'latitude', 'longitude'].every((prop) => {
+    return request.body.hasOwnProperty(prop);
+  });
+
+  if (request.body.hasOwnProperty('id')) {
+    return response.status(422).json({ error: 'you cannot update that yung ID!' });
+  }
+
+  if (pingFields) {
+    const updatedPing = request.body;
+
+    database('pings').where('id', id)
+      .update(updatedPing)
+      .then(() => {
+        database('pings').where('id', id)
+          .then((ping) => response.status(200).json(ping));
+      });
+  } else {
+    response.status(422).send({ error: 'Missing fields from request!' });
+  }
+});
+
+
 
 // PATCH work 
 

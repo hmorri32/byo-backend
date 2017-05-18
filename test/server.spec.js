@@ -582,6 +582,13 @@ describe('server side testing', () => {
       });
     });
   });
+  
+  describe('PUT /api/v1/pings/:id', () => {
+    it('should allow me to update a ping', () => {
+      const cool = 'guy'
+      cool.should.equal('guy')
+    });
+  });
 });
 
 
