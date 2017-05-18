@@ -80,9 +80,6 @@ router.get('/api/v1/pings/:id', (request, response) => {
   });
 });
 
-
-// eyJhbGciOiJIUzI1NiJ9.dG9rZW4.n5jh7whYbODr0UeOdmk5ETqCp7_5Qrm6x7RL_n4s59A
-
 router.post('/api/v1/sharks', checkAuth, (request, response) => {
 
   let sharkFields = ['shark_id', 'name', 'tagIdNumber', 'species', 'gender', 'stageOfLife', 'length', 'weight', 'tagDate', 'tagLocation', 'description'].every((prop) => {

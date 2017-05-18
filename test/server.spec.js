@@ -278,11 +278,84 @@ describe('server side testing', () => {
   });
 
   describe('POST /api/v1/sharks', () => {
-    it('should allow me to post a new chic shark', () => {
-      console.log(process.env.TOKEN);
-    })
+    it('should allow me to post a new chic shark', (done) => {
+      chai.request(server)
+      .post('/api/v1/sharks')
+      .set('Authorization', process.env.TOKEN)
+      .send({
+        id: 3,
+        shark_id: 23222223,
+        name: 'cool guy shark',
+        tagIdNumber: 'coolnumber',
+        species: 'bull shark',
+        gender: 'toxic masculinity',
+        stageOfLife: 'old as',
+        length: 'ultra long',
+        weight: 'at least 100',
+        tagDate: 'a year ago',
+        tagLocation: 'bahamas',
+        description: 'watch out for cool guy shark',
+      })
+      .end((error, response) => {
+        const coolGuyShark = response.body[0];
 
-  })
+        response.should.have.status(201);
+        response.should.be.json;
+        response.body.should.be.a('array');
+        response.body.length.should.equal(1);
+
+        coolGuyShark.should.have.property('shark_id');
+        coolGuyShark.should.have.property('name');
+        coolGuyShark.should.have.property('tagIdNumber');
+        coolGuyShark.should.have.property('species');
+        coolGuyShark.should.have.property('gender');
+        coolGuyShark.should.have.property('stageOfLife');
+        coolGuyShark.should.have.property('length');
+        coolGuyShark.should.have.property('weight');
+        coolGuyShark.should.have.property('tagDate');
+        coolGuyShark.should.have.property('tagLocation');
+        coolGuyShark.should.have.property('description');
+
+        coolGuyShark.shark_id.should.equal(23222223);
+        coolGuyShark.name.should.equal('cool guy shark');
+        coolGuyShark.tagIdNumber.should.equal('coolnumber');
+        coolGuyShark.species.should.equal('bull shark');
+        coolGuyShark.gender.should.equal('toxic masculinity');
+        coolGuyShark.stageOfLife.should.equal('old as');
+        coolGuyShark.weight.should.equal('at least 100');
+        coolGuyShark.tagDate.should.equal('a year ago');
+        coolGuyShark.tagLocation.should.equal('bahamas');
+        coolGuyShark.description.should.equal('watch out for cool guy shark');
+        done();
+      });
+    });
+
+    it('shouldnt let me post a cool shark without JWT', () => {
+      chai.request(server)
+      .post('/api/v1/sharks')
+      .set('Authorization', 'cool guy token')
+      .send({
+        id: 4,
+        shark_id: 12,
+        name: 'reggae shark',
+        tagIdNumber: '2',
+        species: 'tiger shark',
+        gender: 'mayonnaise',
+        stageOfLife: 'yung',
+        length: 'chill',
+        weight: '420 lbs',
+        tagDate: 'a year ago',
+        tagLocation: 'jamaica',
+        description: 'watch out for the evil jelly witch',
+      })
+      .end((error, response) => {
+        response.should.have.status(403)
+        response.body.should.be.a('object')
+        response.body.success.should.equal(false);
+        response.body.message.should.equal('Invalid authorization token.');
+      });
+    });
+  });
 });
 
 
