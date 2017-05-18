@@ -272,7 +272,7 @@ describe('server side testing', () => {
     it('should allow me to post a new chic shark', (done) => {
       chai.request(server)
       .post('/api/v1/sharks')
-      .set('Authorization', process.env.CLIENT_TOKEN || process.env.TOKEN)
+      .set('Authorization', process.env.TOKEN)
       .send({
         id: 3,
         shark_id: 23222223,
@@ -351,7 +351,7 @@ describe('server side testing', () => {
     it('shouldnt allow me to post with whack data', (done) => {
       chai.request(server)
       .post('/api/v1/sharks')
-      .set('Authorization', process.env.CLIENT_TOKEN || process.env.TOKEN)
+      .set('Authorization', process.env.TOKEN)
       .send({
         whackdata: 3,
         fake: 12,
@@ -379,7 +379,7 @@ describe('server side testing', () => {
     it('should allow me to post a cool ping', (done) => {
       chai.request(server)
       .post('/api/v1/pings')
-      .set('Authorization', process.env.CLIENT_TOKEN || process.env.TOKEN)
+      .set('Authorization', process.env.TOKEN)
       .send({
         id: 7,
         key: 7,
@@ -443,7 +443,7 @@ describe('server side testing', () => {
     it('shouldnt let me post ping with baloney data', (done) => {
       chai.request(server)
       .post('/api/v1/pings')
-      .set('Authorization', process.env.CLIENT_TOKEN || process.env.TOKEN)
+      .set('Authorization', process.env.TOKEN)
       .send({
         cooldata: true,
         validData: false
@@ -461,7 +461,7 @@ describe('server side testing', () => {
     it('should allow me to update an entire shark', (done) => {
       chai.request(server)
       .put('/api/v1/sharks/2')
-      .set('Authorization', process.env.CLIENT_TOKEN || process.env.TOKEN)
+      .set('Authorization', process.env.TOKEN)
       .send({
         shark_id: 6,
         name: 'reggae shark',
@@ -534,7 +534,7 @@ describe('server side testing', () => {
     it('should not allow me to update ID', (done) => {
       chai.request(server)
       .put('/api/v1/sharks/2')
-      .set('Authorization', process.env.CLIENT_TOKEN || process.env.TOKEN)
+      .set('Authorization', process.env.TOKEN)
       .send({
         id: 2,
         shark_id: 6,
@@ -560,7 +560,7 @@ describe('server side testing', () => {
     it('should not allow me to PUT bogus data', (done) => {
       chai.request(server)
       .put('/api/v1/sharks/2')
-      .set('Authorization', process.env.CLIENT_TOKEN || process.env.TOKEN)
+      .set('Authorization', process.env.TOKEN)
       .send({
         coolguy: 6,
         hotdata: 'reggae shark',
@@ -587,7 +587,7 @@ describe('server side testing', () => {
     it('should allow me to update a ping', (done) => {
       chai.request(server)
       .put('/api/v1/pings/4')
-      .set('Authorization', process.env.CLIENT_TOKEN || process.env.TOKEN)
+      .set('Authorization', process.env.TOKEN)
       .send({
         key: 7,
         shark_id: 12,
@@ -649,7 +649,7 @@ describe('server side testing', () => {
     it('should not allow me to update ID', (done) => {
       chai.request(server)
       .put('/api/v1/pings/4')
-      .set('Authorization', process.env.CLIENT_TOKEN || process.env.TOKEN)
+      .set('Authorization', process.env.TOKEN)
       .send({
         id: 10,
         key: 7,
@@ -671,7 +671,7 @@ describe('server side testing', () => {
     it('should not allow me to PUT bogus data', (done) => {
       chai.request(server)
       .put('/api/v1/pings/4')
-      .set('Authorization', process.env.CLIENT_TOKEN || process.env.TOKEN)
+      .set('Authorization', process.env.TOKEN)
       .send({
         bogus: 7,
         data: 12,
@@ -694,7 +694,7 @@ describe('server side testing', () => {
     it('should let me patch up a sharks name species and description', (done) => {
       chai.request(server)
       .patch('/api/v1/sharks/2')
-      .set('Authorization', process.env.CLIENT_TOKEN || process.env.TOKEN)
+      .set('Authorization', process.env.TOKEN)
       .send({
         name: 'cool guy mcgee',
         species: 'Octopus',
@@ -729,7 +729,7 @@ describe('server side testing', () => {
     it('should not let me PATCH sharks ID', (done) => {
       chai.request(server)
       .patch('/api/v1/sharks/2')
-      .set('Authorization', process.env.CLIENT_TOKEN || process.env.TOKEN)
+      .set('Authorization', process.env.TOKEN)
       .send({
         id: 23, 
         name: 'cool guy mcgee',
@@ -764,7 +764,7 @@ describe('server side testing', () => {
     it('should not let me PATCH with bogus data', (done) => {
       chai.request(server)
       .patch('/api/v1/sharks/2')
-      .set('Authorization', process.env.CLIENT_TOKEN || process.env.TOKEN)
+      .set('Authorization', process.env.TOKEN)
       .send({
         ultra: 'cool guy mcgee',
         cool: 'Octopus',
@@ -783,7 +783,7 @@ describe('server side testing', () => {
     it('should allow me to patch up a ping', (done) => {
       chai.request(server)
       .patch('/api/v1/pings/4')
-      .set('Authorization', process.env.CLIENT_TOKEN || process.env.TOKEN)
+      .set('Authorization', process.env.TOKEN)
       .send({
         datetime: 'today probably',
         latitude: 'flatitude',
@@ -815,7 +815,7 @@ describe('server side testing', () => {
     it('should not let me PATCH an ID', (done) => {
       chai.request(server)
       .patch('/api/v1/pings/4')
-      .set('Authorization', process.env.CLIENT_TOKEN || process.env.TOKEN)
+      .set('Authorization', process.env.TOKEN)
       .send({
         id: 2,
         datetime: 'today probably',
@@ -850,7 +850,7 @@ describe('server side testing', () => {
     it('should not let me PATCH bogus data', (done) => {
       chai.request(server)
       .patch('/api/v1/pings/4')
-      .set('Authorization', process.env.CLIENT_TOKEN || process.env.TOKEN)
+      .set('Authorization', process.env.TOKEN)
       .send({
         bogus: 'today probably',
         data: 'flatitude',
@@ -875,7 +875,7 @@ describe('server side testing', () => {
       .then(() => {
         chai.request(server)
         .delete('/api/v1/sharks/2')
-        .set('Authorization', process.env.CLIENT_TOKEN || process.env.TOKEN)
+        .set('Authorization', process.env.TOKEN)
         .end((error, response) => {
           response.should.have.status(200);
           response.body.should.be.a('array');
@@ -888,7 +888,7 @@ describe('server side testing', () => {
     it('should not let me delete a bogus ID', () => {
       chai.request(server)
       .delete('/api/v1/sharks/2222')
-      .set('Authorization', process.env.CLIENT_TOKEN || process.env.TOKEN)
+      .set('Authorization', process.env.TOKEN)
       .end((error, response) => {
         response.should.have.status(404);
         response.body.error.should.equal('ID not found!');
@@ -919,7 +919,7 @@ describe('server side testing', () => {
       .then(() => {
         chai.request(server)
         .delete('/api/v1/pings/6')
-        .set('Authorization', process.env.CLIENT_TOKEN || process.env.TOKEN)
+        .set('Authorization', process.env.TOKEN)
         .end((error, response) => {
           response.should.have.status(200);
           response.body.should.be.a('array');
@@ -932,7 +932,7 @@ describe('server side testing', () => {
     it('should not let me delete a nonexistant PING', (done) => {
       chai.request(server)
       .delete('/api/v1/pings/2222')
-      .set('Authorization', process.env.CLIENT_TOKEN || process.env.TOKEN)
+      .set('Authorization', process.env.TOKEN)
       .end((error, response) => {
         response.should.have.status(404);
         response.body.error.should.equal('ID not found!');

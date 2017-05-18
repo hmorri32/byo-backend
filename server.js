@@ -18,6 +18,10 @@ app.use(bodyParser.urlencoded({ extended: true }));
 
 app.set('secretKey', process.env.CLIENT_SECRET || config.CLIENT_SECRET);
 
+// if (!process.env.CLIENT_SECRET || !config.CLIENT_SECRET) {
+//   throw 'Where\'s your CLIENT_SECRET!?';
+// }
+
 app.use('/', routes);
 
 app.use(error.notFound);
