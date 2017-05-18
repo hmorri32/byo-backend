@@ -18,8 +18,8 @@ app.use(bodyParser.urlencoded({ extended: true }));
 
 app.set('secretKey', process.env.CLIENT_SECRET || config.CLIENT_SECRET);
 
-if (!config.CLIENT_SECRET || !config.USERNAME || !config.PASSWORD) {
-  throw 'Make sure you have a CLIENT_SECRET, USERNAME, and PASSWORD in your .env file';
+if (!process.env.CLIENT_SECRET || !config.CLIENT_SECRET) {
+  throw 'Where\'s your CLIENT_SECRET!?';
 }
 
 app.use('/', routes);
