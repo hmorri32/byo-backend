@@ -84,11 +84,13 @@ router.get('/api/v1/pings/:id', (request, response) => {
 // eyJhbGciOiJIUzI1NiJ9.dG9rZW4.n5jh7whYbODr0UeOdmk5ETqCp7_5Qrm6x7RL_n4s59A
 
 router.post('/api/v1/sharks', checkAuth, (request, response) => {
+
   let sharkFields = ['shark_id', 'name', 'tagIdNumber', 'species', 'gender', 'stageOfLife', 'length', 'weight', 'tagDate', 'tagLocation', 'description'].every((prop) => {
     return request.body.hasOwnProperty(prop);
   });
 
   if(sharkFields) {
+
     const shark = request.body;
 
     database('sharks').insert(shark, ['shark_id', 'name', 'tagIdNumber', 'species', 'gender', 'stageOfLife', 'length', 'weight', 'tagDate', 'tagLocation', 'description'])
@@ -101,9 +103,13 @@ router.post('/api/v1/sharks', checkAuth, (request, response) => {
 });
 
 router.post('/api/v1/pings', (request, response) => {
-  let pingFields = ['key', 'shark_id', 'ping_id', 'datetime', 'tz_datetime', 'latitude', 'longitude'];
+
+  let pingFields = ['key', 'shark_id', 'ping_id', 'datetime', 'tz_datetime', 'latitude', 'longitude'].every((prop) => {
+    return request.body.hasOwnProperty(prop);
+  });
 
   if (pingFields) {
+
     const ping = request.body;
 
     database('pings').insert(ping, ['key', 'shark_id', 'ping_id', 'datetime', 'tz_datetime', 'latitude', 'longitude'])

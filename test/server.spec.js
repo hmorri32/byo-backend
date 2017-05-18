@@ -47,7 +47,7 @@ describe('server side testing', () => {
       .end((error, response) => {
         response.should.have.status(200);
         response.should.be.json;
-        assert.deepEqual(response.res.text, '{"user":"hugh","cool":true}');
+        assert.deepEqual(response.res.text, '{"name":"hugh","cool":true}');
         done();
       });
     });
@@ -276,6 +276,19 @@ describe('server side testing', () => {
       });
     });
   });
+
+  describe('POST /api/v1/sharks', () => {
+    it('should allow me to post a new chic shark', () => {
+      console.log(process.env.TOKEN);
+    })
+
+  })
 });
+
+
+
+
+
+
 
 
