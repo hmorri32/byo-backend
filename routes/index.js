@@ -90,14 +90,13 @@ router.post('/api/v1/sharks', checkAuth, (request, response) => {
     return request.body.hasOwnProperty(prop);
   });
 
-  if(sharkFields) {
-
+  if (sharkFields) {
     const shark = request.body;
 
     database('sharks').insert(shark, ['shark_id', 'name', 'tagIdNumber', 'species', 'gender', 'stageOfLife', 'length', 'weight', 'tagDate', 'tagLocation', 'description'])
-    .then((sharks) => {
-      response.status(201).json(sharks);
-    });
+      .then((sharks) => {
+        response.status(201).json(sharks);
+      });
   } else {
     return error.missingFields(response);
   }
@@ -202,10 +201,10 @@ router.patch('/api/v1/sharks/:id', checkAuth, (request, response) => {
   }
 });
 
-router.patch('/api/v1/pings/:id', (request, response) => {
+router.patch('/api/v1/pings/:id', checkAuth, (request, response) => {
   const { id } = request.params;
 
-  let patchPing = ['datetime', 'latitude', 'longitude'].every((prop) => {
+  let patchWork = ['datetime', 'latitude', 'longitude'].every((prop) => {
     return request.body.hasOwnProperty(prop);
   });
 
@@ -213,7 +212,19 @@ router.patch('/api/v1/pings/:id', (request, response) => {
     return error.dontTouchID(response);
   }
 
+  if (patchWork) {
+    const { datetime, latitude, longitude } = request.body;
+    const pingPatch = { datetime, latitude, longitude };
 
+    database('pings').where('id', id)
+      .update(pingPatch)
+      .then(() => {
+        database('pings').where('id', id)
+          .then((ping) => response.status(200).json(ping));
+      });
+  } else {
+    return error.missingFields(response);
+  }
 });
 
 
