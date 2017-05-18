@@ -1,13 +1,11 @@
 const express       = require('express');
-const app           = express();
+const app           = module.exports = express();
 const path          = require('path');
 const bodyParser    = require('body-parser');
 const favicon       = require('serve-favicon');
 const routes        = require('./routes/index');
 const error         = require('./helpers/error');
 const config        = require('dotenv').config().parsed;
-const jwt           = require('jsonwebtoken');
-const { checkAuth } = require('./helpers/checkAuth');
 
 app.use(favicon(path.join(__dirname, 'public', 'favicon.ico')));
 
@@ -36,4 +34,4 @@ app.listen(app.get('port'), () => {
   console.log(`Magic happens on port ${app.get('port')}`);
 });
 
-module.exports = app;
+

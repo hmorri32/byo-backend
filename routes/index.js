@@ -4,12 +4,14 @@ const environment   = process.env.NODE_ENV || 'development';
 const configuration = require('../knexfile')[environment];
 const database      = require('knex')(configuration);
 const error         = require('../helpers/error');
+const { checkAuth } = require('../helpers/checkAuth');
+
 
 // Do work 
 
 router.get('/', (request, response) => {
   response.json({
-    user: 'hugh',
+    name: 'hugh',
     cool: true
   });
 });
@@ -67,7 +69,6 @@ router.get('/api/v1/pings', (request, response) => {
   }
 });
 
-
 router.get('/api/v1/pings/:id', (request, response) => {
   const { id } = request.params;
 
@@ -79,6 +80,25 @@ router.get('/api/v1/pings/:id', (request, response) => {
   });
 });
 
+
+// eyJhbGciOiJIUzI1NiJ9.dG9rZW4.n5jh7whYbODr0UeOdmk5ETqCp7_5Qrm6x7RL_n4s59A
+
+router.post('/api/v1/sharks', checkAuth, (request, response) => {
+  let result = ['shark_id', 'name', 'tagIdNumber', 'species', 'gender', 'stageOfLife', 'length', 'weight', 'tagDate', 'tagLocation', 'description'].every((prop) => {
+    return request.body.hasOwnProperty(prop);
+  });
+
+  if(result) {
+    const shark = request.body;
+
+    database('sharks').insert(shark, ['shark_id', 'name', 'tagIdNumber', 'species', 'gender', 'stageOfLife', 'length', 'weight', 'tagDate', 'tagLocation', 'description'])
+    .then((sharks) => {
+      response.status(201).json(sharks);
+    });
+  } else {
+    response.status(422).send({ error: 'Missing fields from request' });
+  }
+});
 
 
 
