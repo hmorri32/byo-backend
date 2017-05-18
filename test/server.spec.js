@@ -20,21 +20,18 @@ describe('our yung application', function () {
 
 describe('server side testing', () => {
 
-  beforeEach((done) => {
-    database.migrate.rollback()
+  before((done) => {
+    database.migrate.latest()
     .then(() => {
-      database.migrate.latest()
+      database.seed.run()
       .then(() => {
-        database.seed.run()
-        .then(() => {
-          done();
-        });
+        done();
       });
     });
   });
 
   afterEach((done) => {
-    database.migrate.rollback()
+    database.seed.run()
     .then(() => {
       done();
     });
