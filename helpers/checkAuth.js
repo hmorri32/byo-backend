@@ -1,5 +1,5 @@
 const jwt = require('jsonwebtoken');
-const app = require('../server')
+const app = require('../server');
 
 exports.checkAuth = (request, response, next) => {
   const token = request.body.token ||
