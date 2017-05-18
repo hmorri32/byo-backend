@@ -82,7 +82,7 @@ router.get('/api/v1/pings/:id', (request, response) => {
   });
 });
 
-// yung POST
+// yung POST noir
 
 router.post('/api/v1/sharks', checkAuth, (request, response) => {
 
@@ -227,6 +227,22 @@ router.patch('/api/v1/pings/:id', checkAuth, (request, response) => {
   }
 });
 
+// DELETE 
+
+router.delete('/api/v1/sharks/:id', (request, response) => {
+  const { id } = request.params;
+
+
+
+  database('sharks').where('id', id).del()
+
+  
+    .then(() => {
+      database('sharks').select()
+      .then((sharks) => response.status(200).json(sharks));
+    })
+    .catch(() => error.invalidID(response));
+});
 
 
 

@@ -738,7 +738,7 @@ describe('server side testing', () => {
       })
       .end((error, response) => {
         response.should.have.status(422);
-        response.body.error.should.equal('you cannot update that yung ID!')
+        response.body.error.should.equal('you cannot update that yung ID!');
         done();
       });
     });
@@ -853,14 +853,53 @@ describe('server side testing', () => {
       .set('Authorization', process.env.TOKEN)
       .send({
         bogus: 'today probably',
-        bogus: 'flatitude',
-        bogus: '..inal wave'
+        data: 'flatitude',
+        notCool: '..inal wave'
       })
       .end((error, response) => {
         response.should.have.status(422);
         response.body.should.be.a('object');
         response.body.error.should.equal('Missing fields from request!');
         done();  
+      });
+    });
+  });
+
+  describe('DELETE /api/v1/sharks/:id', () => {
+    it('should let me delete a shark', (done) => {
+      chai.request(server)
+      .delete('/api/v1/sharks/2')
+      .end((eror, response) => {
+        const shark = response.body[0];
+
+        response.should.have.status(200);
+        response.body.should.be.a('array');
+        response.body.length.should.equal(1);
+
+        shark.should.have.property('shark_id');
+        shark.should.have.property('name');
+        shark.should.have.property('tagIdNumber');
+        shark.should.have.property('species');
+        shark.should.have.property('gender');
+        shark.should.have.property('stageOfLife');
+        shark.should.have.property('length');
+        shark.should.have.property('weight');
+        shark.should.have.property('tagDate');
+        shark.should.have.property('tagLocation');
+        shark.should.have.property('description');
+
+        shark.name.should.equal('Alistair Hennessey');
+        shark.species.should.equal('Jaguar shark');
+        done();
+      });
+    });
+
+    it('should not let me delete a bogus ID', () => {
+      chai.request(server)
+      .delete('/api/v1/sharks/2222')
+      .end((error, response) => {
+        console.log(response.body)
+        response.should.have.status(200)
       })
     })
   });

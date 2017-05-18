@@ -10,6 +10,10 @@ exports.arrayLength = (req, res) => {
   this.developmentErrors(err, req, res);
 };
 
+exports.invalidID = (response) => {
+  response.status(404).json({ error: 'ID not found!' });
+};
+
 exports.queryArrayLength = (req, res) => {
   const err = new Error('Your query param is ultra invalid!');
   err.status = (404);
@@ -21,7 +25,7 @@ exports.dontTouchID = (response) => {
 };
 
 exports.missingFields = (response) => {
-  response.status(422).send({ error: 'Missing fields from request!' });
+  response.status(422).json({ error: 'Missing fields from request!' });
 };
 
 exports.developmentErrors = (err, req, res) => {
@@ -39,3 +43,13 @@ exports.developmentErrors = (err, req, res) => {
     'application/json': () => res.json(errorDetails)
   });
 };
+
+
+exports.productionErrors = (err, req, res) => {
+  res.status(err.status || 500);
+  res.render('error', {
+    message: err.message,
+    error: {}
+  });
+};
+
