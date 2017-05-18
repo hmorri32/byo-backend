@@ -237,6 +237,45 @@ describe('server side testing', () => {
       });
     });
   });
+
+  describe('GET /api/v1/sharks/:id/pings', () => {
+    it('should return all pings pertaining to a certain shark', (done) => {
+      chai.request(server)
+      .get('/api/v1/sharks/1/pings')
+      .end((error, response) => {
+
+        const pingOne   = response.body[0];
+        const pingTwo   = response.body[1];
+        const pingThree = response.body[2];
+
+        response.should.have.status(200);
+        response.should.be.json;
+        response.body.should.be.a('array');
+        response.body.length.should.equal(3);
+
+        pingOne.should.have.property('id');
+        pingTwo.should.have.property('id');
+        pingThree.should.have.property('id');
+
+        pingOne.id.should.equal(1);
+        pingTwo.id.should.equal(2);
+        pingThree.id.should.equal(3);
+
+        done();
+      });
+    });
+
+    it('should return error if passed bogus shark ID', (done) => {
+      chai.request(server)
+      .get('/api/v1/sharks/343/pings')
+      .end((error, response) => {
+        response.should.have.status(404);
+        response.should.be.html;
+        response.res.text.should.include('ID not found!');
+        done();
+      });
+    });
+  });
 });
 
 
