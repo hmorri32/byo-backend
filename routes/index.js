@@ -150,7 +150,7 @@ router.put('/api/v1/sharks/:id', checkAuth, (request, response) => {
   }
 });
 
-router.put('/api/v1/pings/:id', (request, response) => {
+router.put('/api/v1/pings/:id', checkAuth, (request, response) => {
   const { id } = request.params;
 
   let pingFields = ['key', 'shark_id', 'ping_id', 'datetime', 'tz_datetime', 'latitude', 'longitude'].every((prop) => {

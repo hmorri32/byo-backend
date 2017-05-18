@@ -584,9 +584,109 @@ describe('server side testing', () => {
   });
   
   describe('PUT /api/v1/pings/:id', () => {
-    it('should allow me to update a ping', () => {
-      const cool = 'guy'
-      cool.should.equal('guy')
+    it('should allow me to update a ping', (done) => {
+      chai.request(server)
+      .put('/api/v1/pings/4')
+      .set('Authorization', process.env.TOKEN)
+      .send({
+        key: 7,
+        shark_id: 12,
+        ping_id: '2222',
+        datetime: 'sometime',
+        tz_datetime: 'anothertime',
+        latitude: 'far north',
+        longitude: 'far west'
+      })
+      .end((error, response) => {
+        const thisPing = response.body[0];
+
+        response.should.have.status(200);
+        response.should.be.a('object');
+        response.body.length.should.equal(1);
+
+        thisPing.should.have.property('key');
+        thisPing.should.have.property('shark_id');
+        thisPing.should.have.property('ping_id');
+        thisPing.should.have.property('datetime');
+        thisPing.should.have.property('tz_datetime');
+        thisPing.should.have.property('latitude');
+        thisPing.should.have.property('longitude');
+
+        thisPing.key.should.equal(7);
+        thisPing.shark_id.should.equal('12');
+        thisPing.ping_id.should.equal('2222');
+        thisPing.datetime.should.equal('sometime');
+        thisPing.tz_datetime.should.equal('anothertime');
+        thisPing.latitude.should.equal('far north');
+        thisPing.longitude.should.equal('far west');
+
+        done();
+      });
+    });
+
+    it('should not allow me to PUT if unauthorized', (done) => {
+      chai.request(server)
+      .put('/api/v1/pings/4')
+      .set('Authorization', 'haxx')
+      .send({
+        key: 7,
+        shark_id: 12,
+        ping_id: '2222',
+        datetime: 'sometime',
+        tz_datetime: 'anothertime',
+        latitude: 'far north',
+        longitude: 'far west'
+      })
+      .end((error, response) => {
+        response.should.have.status(403);
+        response.body.should.be.a('object');
+        response.body.success.should.equal(false);
+        response.body.message.should.equal('Invalid authorization token.');
+        done();   
+      });
+    });
+
+    it('should not allow me to update ID', (done) => {
+      chai.request(server)
+      .put('/api/v1/pings/4')
+      .set('Authorization', process.env.TOKEN)
+      .send({
+        id: 10,
+        key: 7,
+        shark_id: 12,
+        ping_id: '2222',
+        datetime: 'sometime',
+        tz_datetime: 'anothertime',
+        latitude: 'far north',
+        longitude: 'far west'
+      })
+      .end((error, response) => {
+        response.should.have.status(422);
+        response.body.should.be.a('object');
+        response.body.error.should.equal('you cannot update that yung ID!');
+        done();   
+      });
+    });
+
+    it('should not allow me to PUT bogus data', (done) => {
+      chai.request(server)
+      .put('/api/v1/pings/4')
+      .set('Authorization', process.env.TOKEN)
+      .send({
+        bogus: 7,
+        data: 12,
+        is: '2222',
+        all: 'sometime',
+        the: 'anothertime',
+        rage: 'far north',
+        man: 'far west'
+      })
+      .end((error, response) => {
+        response.should.have.status(422);
+        response.body.should.be.a('object');
+        response.body.error.should.equal('Missing fields from request!');
+        done();     
+      });
     });
   });
 });
