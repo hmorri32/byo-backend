@@ -41,7 +41,6 @@ describe('server side testing', () => {
     });
   });
 
-
   describe('Client routes', () => {
     it('should return jason', (done) => {
       chai.request(server)
@@ -80,7 +79,7 @@ describe('server side testing', () => {
           response.should.be.json;
           response.body.should.be.a('array');
           response.body.length.should.equal(2);
-          
+
           firstShark.should.have.property('id');
           firstShark.should.have.property('shark_id');
           firstShark.should.have.property('name');
@@ -154,6 +153,66 @@ describe('server side testing', () => {
 
           done();
         });
+      });
+    });
+  });
+
+  describe('GET /api/v1/sharks/:id', () => {
+    it('should return a single shark by ID', (done) => {
+      chai.request(server)
+      .get('/api/v1/sharks/1')
+      .end((error, response) => {
+        const thisShark = response.body[0];
+
+        response.should.have.status(200);
+        response.should.be.json;
+        response.body.should.be.a('array');
+        response.body.length.should.equal(1);
+
+        thisShark.should.have.property('id');
+        thisShark.should.have.property('shark_id');
+        thisShark.should.have.property('name');
+        thisShark.should.have.property('tagIdNumber');
+        thisShark.should.have.property('species');
+        thisShark.should.have.property('gender');
+        thisShark.should.have.property('stageOfLife');
+        thisShark.should.have.property('length');
+        thisShark.should.have.property('weight');
+        thisShark.should.have.property('tagDate');
+        thisShark.should.have.property('tagLocation');
+        thisShark.should.have.property('description');
+
+        thisShark.id.should.equal(1);
+        done();
+      });
+    });
+
+    it('should return a a second shark by ID', (done) => {
+      chai.request(server)
+      .get('/api/v1/sharks/2')
+      .end((error, response) => {
+        const secondShark = response.body[0];
+
+        response.should.have.status(200);
+        response.should.be.json;
+        response.body.should.be.a('array');
+        response.body.length.should.equal(1);
+
+        secondShark.should.have.property('id');
+        secondShark.should.have.property('shark_id');
+        secondShark.should.have.property('name');
+        secondShark.should.have.property('tagIdNumber');
+        secondShark.should.have.property('species');
+        secondShark.should.have.property('gender');
+        secondShark.should.have.property('stageOfLife');
+        secondShark.should.have.property('length');
+        secondShark.should.have.property('weight');
+        secondShark.should.have.property('tagDate');
+        secondShark.should.have.property('tagLocation');
+        secondShark.should.have.property('description');
+
+        secondShark.id.should.equal(2);
+        done();
       });
     });
   });
