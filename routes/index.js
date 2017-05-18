@@ -16,6 +16,8 @@ router.get('/', (request, response) => {
   });
 });
 
+// get shorty 
+
 router.get('/api/v1/sharks', (request, response) => {
   const { species } = request.query;
 
@@ -80,6 +82,8 @@ router.get('/api/v1/pings/:id', (request, response) => {
   });
 });
 
+// yung posts
+
 router.post('/api/v1/sharks', checkAuth, (request, response) => {
 
   let sharkFields = ['shark_id', 'name', 'tagIdNumber', 'species', 'gender', 'stageOfLife', 'length', 'weight', 'tagDate', 'tagLocation', 'description'].every((prop) => {
@@ -118,6 +122,40 @@ router.post('/api/v1/pings', checkAuth, (request, response) => {
   }
 });
 
+
+// PUT 'er there bud
+
+router.put('/api/v1/sharks/:id', (request, response) => {
+  const { id } = request.params;
+
+  let sharkFields = ['shark_id', 'name', 'tagIdNumber', 'species', 'gender', 'stageOfLife', 'length', 'weight', 'tagDate', 'tagLocation', 'description'].every((prop) => {
+    return request.body.hasOwnProperty(prop);
+  });
+
+  if (request.body.hasOwnProperty('id')) {
+    return response.status(422).json({ error: 'you cannot update that yung ID!' });
+  }
+
+  if (sharkFields) {
+    const updatedShark = request.body;
+
+    database('sharks').where('id', id)
+      .update(updatedShark)
+      .then((shark) => {
+        response.status(200).json(shark);
+      });
+  } else {
+    response.status(422).send({ error: 'Missing fields from request!'});
+  }
+});
+
+
+// PATCH work 
+
+router.patch('/api/v1/sharks/:id', (request, response) => {
+
+
+})
 
 
 

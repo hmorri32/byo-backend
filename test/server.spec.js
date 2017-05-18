@@ -22,19 +22,13 @@ describe('server side testing', () => {
 
   before((done) => {
     database.migrate.latest()
-    .then(() => {
-      database.seed.run()
-      .then(() => {
-        done();
-      });
-    });
+    .then(() => database.seed.run())
+    .then(() => done());
   });
 
   afterEach((done) => {
     database.seed.run()
-    .then(() => {
-      done();
-    });
+    .then(() => done());
   });
 
   describe('Client routes', () => {
@@ -461,6 +455,13 @@ describe('server side testing', () => {
         done();
       });
     });
+  });
+
+  describe('PUT /api/v1/sharks:id', () => {
+    it('should allow me to put up some sharkz', () => {
+      const cool = 'cool'
+      cool.should.equal('cool')
+    })
   });
 });
 

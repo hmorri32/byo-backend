@@ -1,7 +1,7 @@
 exports.notFound = (req, res, next) => {
   const err = new Error('Route Not Found!');
   err.status = 404;
-  next(err);
+  this.developmentErrors(err,req, res)
 };
 
 exports.arrayLength = (req, res) => {
