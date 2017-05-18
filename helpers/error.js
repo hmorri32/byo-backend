@@ -4,19 +4,19 @@ exports.notFound = (req, res, next) => {
   next(err);
 };
 
-exports.arrayLength = (req, res, next) => {
+exports.arrayLength = (req, res) => {
   const err = new Error('ID not found!');
   err.status = 404;
-  this.developmentErrors(err, req, res, next);
+  this.developmentErrors(err, req, res);
 };
 
-exports.queryArrayLength = (req, res, next) => {
+exports.queryArrayLength = (req, res) => {
   const err = new Error('Your query param is ultra invalid!');
   err.status = (404);
-  this.developmentErrors(err, req, res, next);
+  this.developmentErrors(err, req, res);
 };
 
-exports.developmentErrors = (err, req, res, next) => {
+exports.developmentErrors = (err, req, res) => {
   err.stack = err.stack || '';
   const errorDetails = {
     message: err.message,
@@ -30,5 +30,4 @@ exports.developmentErrors = (err, req, res, next) => {
     },
     'application/json': () => res.json(errorDetails)
   });
-  next();
 };

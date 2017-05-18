@@ -1,15 +1,14 @@
 /* eslint-env node, mocha */
 
 process.env.NODE_ENV = 'test';
-
-const chai          = require('chai');
-const should        = chai.should();
-const expect        = chai.expect;
-const assert        = chai.assert;
-const chaiHttp      = require('chai-http');
-const server        = require('../server.js');
-const configuration = require('../knexfile.js')['test'];
-const database      = require('knex')(configuration);
+const chai           = require('chai');
+const should         = chai.should();
+const expect         = chai.expect;
+const assert         = chai.assert;
+const chaiHttp       = require('chai-http');
+const server         = require('../server.js');
+const configuration  = require('../knexfile.js')['test'];
+const database       = require('knex')(configuration);
 
 chai.use(chaiHttp);
 
@@ -154,6 +153,17 @@ describe('server side testing', () => {
           done();
         });
       });
+
+      it('should chuck an error if passed bogus query param data', (done) => {
+        chai.request(server)
+        .get('/api/v1/sharks?species=ultra cool shark')
+        .end((error, response) => {
+          response.should.have.status(404);
+          response.should.be.html;
+          response.res.text.should.include('Your query param is ultra invalid!');
+          done();
+        });
+      });
     });
   });
 
@@ -191,27 +201,38 @@ describe('server side testing', () => {
       chai.request(server)
       .get('/api/v1/sharks/2')
       .end((error, response) => {
-        const secondShark = response.body[0];
+        const anotherShark = response.body[0];
 
         response.should.have.status(200);
         response.should.be.json;
         response.body.should.be.a('array');
         response.body.length.should.equal(1);
 
-        secondShark.should.have.property('id');
-        secondShark.should.have.property('shark_id');
-        secondShark.should.have.property('name');
-        secondShark.should.have.property('tagIdNumber');
-        secondShark.should.have.property('species');
-        secondShark.should.have.property('gender');
-        secondShark.should.have.property('stageOfLife');
-        secondShark.should.have.property('length');
-        secondShark.should.have.property('weight');
-        secondShark.should.have.property('tagDate');
-        secondShark.should.have.property('tagLocation');
-        secondShark.should.have.property('description');
+        anotherShark.should.have.property('id');
+        anotherShark.should.have.property('shark_id');
+        anotherShark.should.have.property('name');
+        anotherShark.should.have.property('tagIdNumber');
+        anotherShark.should.have.property('species');
+        anotherShark.should.have.property('gender');
+        anotherShark.should.have.property('stageOfLife');
+        anotherShark.should.have.property('length');
+        anotherShark.should.have.property('weight');
+        anotherShark.should.have.property('tagDate');
+        anotherShark.should.have.property('tagLocation');
+        anotherShark.should.have.property('description');
 
-        secondShark.id.should.equal(2);
+        anotherShark.id.should.equal(2);
+        done();
+      });
+    });
+
+    it('should chuck a bloody error if ID not found', (done) => {
+      chai.request(server)
+      .get('/api/v1/sharks/23232')
+      .end((error, response) => {
+        response.should.have.status(404);
+        response.should.be.html;
+        response.res.text.should.include('ID not found!');
         done();
       });
     });
