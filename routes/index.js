@@ -248,7 +248,7 @@ router.delete('/api/v1/sharks/:id', checkAuth, (request, response) => {
 });
 
 
-router.delete('/api/v1/pings/:id', (request, response) => {
+router.delete('/api/v1/pings/:id', checkAuth, (request, response) => {
   const { id } = request.params;
 
   database('pings').where('id', id).select()

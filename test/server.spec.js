@@ -868,30 +868,20 @@ describe('server side testing', () => {
   describe('DELETE /api/v1/sharks/:id', () => {
     it('should let me delete a shark', (done) => {
       chai.request(server)
-      .delete('/api/v1/sharks/2')
-      .set('Authorization', process.env.TOKEN)
-      .end((eror, response) => {
-        const shark = response.body[0];
-
-        response.should.have.status(200);
-        response.body.should.be.a('array');
-        response.body.length.should.equal(1);
-
-        shark.should.have.property('shark_id');
-        shark.should.have.property('name');
-        shark.should.have.property('tagIdNumber');
-        shark.should.have.property('species');
-        shark.should.have.property('gender');
-        shark.should.have.property('stageOfLife');
-        shark.should.have.property('length');
-        shark.should.have.property('weight');
-        shark.should.have.property('tagDate');
-        shark.should.have.property('tagLocation');
-        shark.should.have.property('description');
-
-        shark.name.should.equal('Alistair Hennessey');
-        shark.species.should.equal('Jaguar shark');
-        done();
+      .get('/api/v1/sharks')
+      .then((sharks) => {
+        sharks.body.length.should.equal(2);
+      })
+      .then(() => {
+        chai.request(server)
+        .delete('/api/v1/sharks/2')
+        .set('Authorization', process.env.TOKEN)
+        .end((error, response) => {
+          response.should.have.status(200);
+          response.body.should.be.a('array');
+          response.body.length.should.equal(1);
+          done();
+        });
       });
     });
 
@@ -929,12 +919,37 @@ describe('server side testing', () => {
       .then(() => {
         chai.request(server)
         .delete('/api/v1/pings/6')
+        .set('Authorization', process.env.TOKEN)
         .end((error, response) => {
           response.should.have.status(200);
           response.body.should.be.a('array');
           response.body.length.should.equal(5);
           done();
         });
+      });
+    });
+
+    it('should not let me delete a nonexistant PING', (done) => {
+      chai.request(server)
+      .delete('/api/v1/pings/2222')
+      .set('Authorization', process.env.TOKEN)
+      .end((error, response) => {
+        response.should.have.status(404);
+        response.body.error.should.equal('ID not found!');
+        done();
+      });
+    });
+
+    it('should not let unauthorized jabroni delete', (done) => {
+      chai.request(server)
+      .delete('/api/v1/pings/1')
+      .set('Authorization', 'kook alert')
+      .end((error, response) => {
+        response.should.have.status(403);
+        response.body.should.be.a('object');
+        response.body.success.should.equal(false);
+        response.body.message.should.equal('Invalid authorization token.');
+        done(); 
       });
     });
   });
