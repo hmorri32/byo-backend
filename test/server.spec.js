@@ -726,6 +726,23 @@ describe('server side testing', () => {
       });
     });
 
+    it('should not let me patch a non existent shark', (done) => {
+      chai.request(server)
+      .patch('/api/v1/sharks/422')
+      .set('Authorization', process.env.TOKEN)
+      .send({
+        name: 'cool guy mcgee',
+        species: 'Octopus',
+        description: 'Steve Zissou is now an octopus. dealwithit.'
+      })
+      .end((error, response) => {
+        response.should.have.status(404);
+        response.body.should.be.a('object');
+        response.body.error.should.equal('ID not found!');
+        done();
+      });
+    });
+
     it('should not let me PATCH sharks ID', (done) => {
       chai.request(server)
       .patch('/api/v1/sharks/2')
@@ -822,11 +839,9 @@ describe('server side testing', () => {
         longitude: '..inal wave'
       })
       .end((error, response) => {
-        const ping = response.body[0];
-
         response.should.have.status(404);
         response.body.should.be.a('object');
-        response.body.error.should.equal('ID not found!')
+        response.body.error.should.equal('ID not found!');
         done();
       });
     });

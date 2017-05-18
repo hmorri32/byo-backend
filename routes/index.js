@@ -190,16 +190,24 @@ router.patch('/api/v1/sharks/:id', checkAuth, (request, response) => {
     const { name, species, description } = request.body;
     const sharkPatch = { name, species, description };
 
-    database('sharks').where('id', id)
-      .update(sharkPatch)
-      .then(() => {
+    database('sharks').where('id', id).select()
+    .then((sharks) => {
+      if (sharks.length > 0) {
         database('sharks').where('id', id)
+        .update(sharkPatch)
+        .then(() => {
+          database('sharks').where('id', id)
           .then((shark) => response.status(200).json(shark));
-      });
+        });
+      } else {
+        return error.invalidID(response);
+      }
+    });
   } else {
     return error.missingFields(response);
   }
 });
+
 
 router.patch('/api/v1/pings/:id', checkAuth, (request, response) => {
   const { id } = request.params;
