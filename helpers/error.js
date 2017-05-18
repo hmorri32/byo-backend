@@ -16,6 +16,14 @@ exports.queryArrayLength = (req, res) => {
   this.developmentErrors(err, req, res);
 };
 
+exports.dontTouchID = (response) => {
+  response.status(422).json({ error: 'you cannot update that yung ID!' });
+};
+
+exports.missingFields = (response) => {
+  response.status(422).send({ error: 'Missing fields from request!' });
+};
+
 exports.developmentErrors = (err, req, res) => {
   err.stack = err.stack || '';
   const errorDetails = {

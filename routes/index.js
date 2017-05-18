@@ -99,7 +99,7 @@ router.post('/api/v1/sharks', checkAuth, (request, response) => {
       response.status(201).json(sharks);
     });
   } else {
-    response.status(422).send({ error: 'Missing fields from request' });
+    return error.missingFields(response);
   }
 });
 
@@ -118,10 +118,9 @@ router.post('/api/v1/pings', checkAuth, (request, response) => {
         response.status(201).json(pings);
       });
   } else {
-    response.status(422).send({ error: 'Missing fields from request!' });
+    return error.missingFields(response);
   }
 });
-
 
 // PUT 'er there bud
 
@@ -133,7 +132,7 @@ router.put('/api/v1/sharks/:id', checkAuth, (request, response) => {
   });
 
   if (request.body.hasOwnProperty('id')) {
-    return response.status(422).json({ error: 'you cannot update that yung ID!' });
+    return error.dontTouchID(response);
   }
 
   if (sharkFields) {
@@ -146,7 +145,7 @@ router.put('/api/v1/sharks/:id', checkAuth, (request, response) => {
       .then((shark) => response.status(200).json(shark));
     });
   } else {
-    response.status(422).send({ error: 'Missing fields from request!'});
+    return error.missingFields(response);
   }
 });
 
@@ -158,7 +157,7 @@ router.put('/api/v1/pings/:id', checkAuth, (request, response) => {
   });
 
   if (request.body.hasOwnProperty('id')) {
-    return response.status(422).json({ error: 'you cannot update that yung ID!' });
+    return error.dontTouchID(response);
   }
 
   if (pingFields) {
@@ -171,11 +170,9 @@ router.put('/api/v1/pings/:id', checkAuth, (request, response) => {
           .then((ping) => response.status(200).json(ping));
       });
   } else {
-    response.status(422).send({ error: 'Missing fields from request!' });
+    return error.missingFields(response);
   }
 });
-
-
 
 // bespoke PATCH work 
 
@@ -187,7 +184,7 @@ router.patch('/api/v1/sharks/:id', checkAuth, (request, response) => {
   });
 
   if (request.body.hasOwnProperty('id')) {
-    return response.status(422).json({ error: 'you cannot update that yung ID!' });
+    return error.dontTouchID(response);
   }
 
   if (patchWork) {
@@ -201,13 +198,20 @@ router.patch('/api/v1/sharks/:id', checkAuth, (request, response) => {
           .then((shark) => response.status(200).json(shark));
       });
   } else {
-    response.status(422).send({ error: 'Missing fields from request!' });
+    return error.missingFields(response);
   }
 });
 
-
-
 router.patch('/api/v1/pings/:id', (request, response) => {
+  const { id } = request.params;
+
+  let patchPing = ['datetime', 'latitude', 'longitude'].every((prop) => {
+    return request.body.hasOwnProperty(prop);
+  });
+
+  if (request.body.hasOwnProperty('id')) {
+    return error.dontTouchID(response);
+  }
 
 
 });

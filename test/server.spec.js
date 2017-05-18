@@ -369,7 +369,7 @@ describe('server side testing', () => {
       .end((error, response) => {
         response.should.have.status(422);
         response.body.should.be.a('object');
-        response.body.error.should.equal('Missing fields from request');
+        response.body.error.should.equal('Missing fields from request!');
         done();
       });
     });
@@ -737,7 +737,7 @@ describe('server side testing', () => {
         description: 'Steve Zissou is now an octopus. dealwithit.'
       })
       .end((error, response) => {
-        response.should.have.status(422)
+        response.should.have.status(422);
         response.body.error.should.equal('you cannot update that yung ID!')
         done();
       });
