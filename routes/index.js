@@ -229,30 +229,42 @@ router.patch('/api/v1/pings/:id', checkAuth, (request, response) => {
 
 // DELETE 
 
-router.delete('/api/v1/sharks/:id', (request, response) => {
+router.delete('/api/v1/sharks/:id', checkAuth, (request, response) => {
   const { id } = request.params;
 
-
-
-  database('sharks').where('id', id).del()
-
-  
-    .then(() => {
-      database('sharks').select()
-      .then((sharks) => response.status(200).json(sharks));
-    })
-    .catch(() => error.invalidID(response));
+  database('sharks').where('id', id).select()
+  .then((sharks) => {
+    if (sharks.length > 0) {
+      database('sharks').where('id', id).del()
+      .then(() => {
+        database('sharks').select()
+        .then((sharks) => response.status(200).json(sharks));
+      });
+    } else {
+      return error.invalidID(response);
+    }
+  })
+  .catch(() => error.serverError(response));
 });
 
 
+router.delete('/api/v1/pings/:id', (request, response) => {
+  const { id } = request.params;
+
+  database('pings').where('id', id).select()
+  .then((pings) => {
+    if (pings.length > 0) {
+      database('pings').where('id', id).del()
+      .then(() => {
+        database('pings').select()
+        .then((pings) => response.status(200).json(pings));
+      });
+    } else {
+      return error.invalidID(response);
+    }
+  })
+  .catch(() => error.serverError(response));
+});
+
 
 module.exports = router;
-
-
-
-
-
-
-
-
-

@@ -28,6 +28,10 @@ exports.missingFields = (response) => {
   response.status(422).json({ error: 'Missing fields from request!' });
 };
 
+exports.serverError = (response) => {
+  response.status(500).json({ error: 'Internal Server Error'});
+};
+
 exports.developmentErrors = (err, req, res) => {
   err.stack = err.stack || '';
   const errorDetails = {

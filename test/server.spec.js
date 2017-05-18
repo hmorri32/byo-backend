@@ -869,6 +869,7 @@ describe('server side testing', () => {
     it('should let me delete a shark', (done) => {
       chai.request(server)
       .delete('/api/v1/sharks/2')
+      .set('Authorization', process.env.TOKEN)
       .end((eror, response) => {
         const shark = response.body[0];
 
@@ -897,11 +898,45 @@ describe('server side testing', () => {
     it('should not let me delete a bogus ID', () => {
       chai.request(server)
       .delete('/api/v1/sharks/2222')
+      .set('Authorization', process.env.TOKEN)
       .end((error, response) => {
-        console.log(response.body)
-        response.should.have.status(200)
+        response.should.have.status(404);
+        response.body.error.should.equal('ID not found!');
+      });
+    });
+
+    it('should not let an unauthorized kook delete', (done) => {
+      chai.request(server)
+      .delete('/api/v1/sharks/2')
+      .set('Authorization', 'kook alert')
+      .end((error, response) => {
+        response.should.have.status(403);
+        response.body.should.be.a('object');
+        response.body.success.should.equal(false);
+        response.body.message.should.equal('Invalid authorization token.');
+        done(); 
+      });
+    });
+  });
+
+  describe('DELETE /api/v1/pings/:id', () => {
+    it('should let me delete a ping', (done) => {
+      chai.request(server)
+      .get('/api/v1/pings')
+      .then((pings) => {
+        pings.body.length.should.equal(6);
       })
-    })
+      .then(() => {
+        chai.request(server)
+        .delete('/api/v1/pings/6')
+        .end((error, response) => {
+          response.should.have.status(200);
+          response.body.should.be.a('array');
+          response.body.length.should.equal(5);
+          done();
+        });
+      });
+    });
   });
 });
 
