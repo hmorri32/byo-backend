@@ -57,6 +57,7 @@ router.get('/api/v1/sharks/:id/pings', (request, response) => {
 
 router.get('/api/v1/pings', (request, response) => {
   const { shark_id } = request.query;
+
   if(!shark_id){
     database('pings').select()
     .then(pings => response.status(200).json(pings))
@@ -109,7 +110,6 @@ router.post('/api/v1/pings', checkAuth, (request, response) => {
   });
 
   if (pingFields) {
-
     const ping = request.body;
 
     database('pings').insert(ping, ['key', 'shark_id', 'ping_id', 'datetime', 'tz_datetime', 'latitude', 'longitude'])
