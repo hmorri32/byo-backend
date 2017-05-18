@@ -99,7 +99,7 @@ router.post('/api/v1/sharks', checkAuth, (request, response) => {
   }
 });
 
-router.post('/api/v1/pings', (request, response) => {
+router.post('/api/v1/pings', checkAuth, (request, response) => {
 
   let pingFields = ['key', 'shark_id', 'ping_id', 'datetime', 'tz_datetime', 'latitude', 'longitude'].every((prop) => {
     return request.body.hasOwnProperty(prop);

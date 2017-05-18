@@ -330,7 +330,7 @@ describe('server side testing', () => {
       });
     });
 
-    it('shouldnt let me post a cool shark without JWT', () => {
+    it('shouldnt let me post a cool shark without JWT', (done) => {
       chai.request(server)
       .post('/api/v1/sharks')
       .set('Authorization', 'cool guy token')
@@ -349,18 +349,123 @@ describe('server side testing', () => {
         description: 'watch out for the evil jelly witch',
       })
       .end((error, response) => {
-        response.should.have.status(403)
-        response.body.should.be.a('object')
+        response.should.have.status(403);
+        response.body.should.be.a('object');
         response.body.success.should.equal(false);
         response.body.message.should.equal('Invalid authorization token.');
+        done();
+      });
+    });
+
+    it('shouldnt allow me to post with whack data', (done) => {
+      chai.request(server)
+      .post('/api/v1/sharks')
+      .set('Authorization', process.env.TOKEN)
+      .send({
+        whackdata: 3,
+        fake: 12,
+        sad: 'reggae shark',
+        uncool: '2',
+        burrito: 'tiger shark',
+        suh: 'mayonnaise',
+        dude: 'yung',
+        fakez: 'chill',
+        notcool: '420 lbs',
+        include: 'a year ago',
+        all: 'miami',
+        fields: 'watch out for the evil jelly witch',
+      })
+      .end((error, response) => {
+        response.should.have.status(422);
+        response.body.should.be.a('object');
+        response.body.error.should.equal('Missing fields from request');
+        done();
+      });
+    });
+  });
+
+  describe('POST /api/v1/pings', () => {
+    it('should allow me to post a cool ping', (done) => {
+      chai.request(server)
+      .post('/api/v1/pings')
+      .set('Authorization', process.env.TOKEN)
+      .send({
+        id: 7,
+        key: 7,
+        shark_id: 12,
+        ping_id: '2222',
+        datetime: 'sometime',
+        tz_datetime: 'anothertime',
+        latitude: 'far north',
+        longitude: 'far west'
+      })
+      .end((error, response) => {
+        const thisPing = response.body[0];
+
+        response.should.have.status(201);
+        response.should.be.json;
+        response.body.should.be.a('array');
+        response.body.length.should.equal(1);
+
+        thisPing.should.have.property('key');
+        thisPing.should.have.property('shark_id');
+        thisPing.should.have.property('ping_id');
+        thisPing.should.have.property('datetime');
+        thisPing.should.have.property('tz_datetime');
+        thisPing.should.have.property('latitude');
+        thisPing.should.have.property('longitude');
+
+        thisPing.key.should.equal(7);
+        thisPing.shark_id.should.equal('12');
+        thisPing.ping_id.should.equal('2222');
+        thisPing.datetime.should.equal('sometime');
+        thisPing.tz_datetime.should.equal('anothertime');
+        thisPing.latitude.should.equal('far north');
+        thisPing.longitude.should.equal('far west');
+        done();
+      });
+    });
+
+    it('shouldnt let me post ping without JWT', (done) => {
+      chai.request(server)
+      .post('/api/v1/pings')
+      .set('Authorization', 'cool guy auth')
+      .send({
+        id: 7,
+        key: 7,
+        shark_id: 12,
+        ping_id: '2222',
+        datetime: 'sometime',
+        tz_datetime: 'anothertime',
+        latitude: 'far north',
+        longitude: 'far west'
+      })
+      .end((error, response) => {
+        response.should.have.status(403);
+        response.body.should.be.a('object');
+        response.body.success.should.equal(false);
+        response.body.message.should.equal('Invalid authorization token.');
+        done();
+      });
+    });
+
+    it('shouldnt let me post ping with baloney data', (done) => {
+      chai.request(server)
+      .post('/api/v1/pings')
+      .set('Authorization', process.env.TOKEN)
+      .send({
+        cooldata: true,
+        validData: false
+      })
+      .end((error, response) => {
+        response.should.have.status(422);
+        response.body.should.be.a('object');
+        response.body.error.should.equal('Missing fields from request!');
+        done();
       });
     });
   });
 });
-
-
-
-
 
 
 
