@@ -458,12 +458,141 @@ describe('server side testing', () => {
   });
 
   describe('PUT /api/v1/sharks:id', () => {
-    it('should allow me to put up some sharkz', () => {
-      const cool = 'cool'
-      cool.should.equal('cool')
-    })
+    it('should allow me to update an entire shark', (done) => {
+      chai.request(server)
+      .put('/api/v1/sharks/2')
+      .set('Authorization', process.env.TOKEN)
+      .send({
+        shark_id: 6,
+        name: 'reggae shark',
+        tagIdNumber: '2',
+        species: 'tiger shark',
+        gender: 'mayonnaise',
+        stageOfLife: 'yung',
+        length: 'chill',
+        weight: '420 lbs',
+        tagDate: 'a year ago',
+        tagLocation: 'jamaica',
+        description: 'watch out for the evil jelly witch',
+      })
+      .end((error, response) => {
+        const reggaeShark = response.body[0];
+
+        response.should.have.status(200);
+        response.should.be.a('object');
+        response.body.length.should.equal(1);
+        reggaeShark.should.have.property('shark_id');
+        reggaeShark.should.have.property('name');
+        reggaeShark.should.have.property('tagIdNumber');
+        reggaeShark.should.have.property('species');
+        reggaeShark.should.have.property('gender');
+        reggaeShark.should.have.property('stageOfLife');
+        reggaeShark.should.have.property('length');
+        reggaeShark.should.have.property('weight');
+        reggaeShark.should.have.property('tagDate');
+        reggaeShark.should.have.property('tagLocation');
+        reggaeShark.should.have.property('description');
+
+        reggaeShark.shark_id.should.equal(6);
+        reggaeShark.name.should.equal('reggae shark');
+        reggaeShark.tagIdNumber.should.equal('2');
+        reggaeShark.species.should.equal('tiger shark');
+        reggaeShark.gender.should.equal('mayonnaise');
+        reggaeShark.stageOfLife.should.equal('yung');
+        reggaeShark.length.should.equal('chill');
+        reggaeShark.weight.should.equal('420 lbs');
+        done();
+      });
+    });
+
+    it('should not allow me to PUT if im not authorized', (done) => {
+      chai.request(server)
+      .put('/api/v1/sharks/2')
+      .set('Authorization', 'super hacker')
+      .send({
+        shark_id: 6,
+        name: 'reggae shark',
+        tagIdNumber: '2',
+        species: 'tiger shark',
+        gender: 'mayonnaise',
+        stageOfLife: 'yung',
+        length: 'chill',
+        weight: '420 lbs',
+        tagDate: 'a year ago',
+        tagLocation: 'jamaica',
+        description: 'watch out for the evil jelly witch',
+      })
+      .end((error, response) => {
+        response.should.have.status(403);
+        response.body.should.be.a('object');
+        response.body.success.should.equal(false);
+        response.body.message.should.equal('Invalid authorization token.');
+        done();        
+      });
+    });
+
+    it('should not allow me to update ID', (done) => {
+      chai.request(server)
+      .put('/api/v1/sharks/2')
+      .set('Authorization', process.env.TOKEN)
+      .send({
+        id: 2,
+        shark_id: 6,
+        name: 'reggae shark',
+        tagIdNumber: '2',
+        species: 'tiger shark',
+        gender: 'mayonnaise',
+        stageOfLife: 'yung',
+        length: 'chill',
+        weight: '420 lbs',
+        tagDate: 'a year ago',
+        tagLocation: 'jamaica',
+        description: 'watch out for the evil jelly witch',
+      })
+      .end((error, response) => {
+        response.should.have.status(422);
+        response.body.should.be.a('object');
+        response.body.error.should.equal('you cannot update that yung ID!');
+        done();        
+      });
+    });
+
+    it('should not allow me to PUT bogus data', (done) => {
+      chai.request(server)
+      .put('/api/v1/sharks/2')
+      .set('Authorization', process.env.TOKEN)
+      .send({
+        coolguy: 6,
+        hotdata: 'reggae shark',
+        bignumbers: '2',
+        whatsup: 'tiger shark',
+        burritos: 'mayonnaise',
+        carne: 'yung',
+        a: 'chill',
+        suh: '420 lbs',
+        dude: 'a year ago',
+        radical: 'jamaica',
+        tubular: 'watch out for the evil jelly witch',
+      })
+      .end((error, response) => {
+        response.should.have.status(422);
+        response.body.should.be.a('object');
+        response.body.error.should.equal('Missing fields from request!');
+        done();        
+      });
+    });
   });
 });
+
+
+
+
+
+
+
+
+
+
 
 
 

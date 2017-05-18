@@ -125,7 +125,7 @@ router.post('/api/v1/pings', checkAuth, (request, response) => {
 
 // PUT 'er there bud
 
-router.put('/api/v1/sharks/:id', (request, response) => {
+router.put('/api/v1/sharks/:id', checkAuth, (request, response) => {
   const { id } = request.params;
 
   let sharkFields = ['shark_id', 'name', 'tagIdNumber', 'species', 'gender', 'stageOfLife', 'length', 'weight', 'tagDate', 'tagLocation', 'description'].every((prop) => {
@@ -140,10 +140,11 @@ router.put('/api/v1/sharks/:id', (request, response) => {
     const updatedShark = request.body;
 
     database('sharks').where('id', id)
-      .update(updatedShark)
-      .then((shark) => {
-        response.status(200).json(shark);
-      });
+    .update(updatedShark)
+    .then(() => {
+      database('sharks').where('id', id)
+      .then((shark) => response.status(200).json(shark));
+    });
   } else {
     response.status(422).send({ error: 'Missing fields from request!'});
   }
@@ -155,7 +156,7 @@ router.put('/api/v1/sharks/:id', (request, response) => {
 router.patch('/api/v1/sharks/:id', (request, response) => {
 
 
-})
+});
 
 
 
