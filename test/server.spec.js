@@ -2,7 +2,6 @@
 
 process.env.NODE_ENV = 'test';
 const chai           = require('chai');
-const should         = chai.should();
 const expect         = chai.expect;
 const assert         = chai.assert;
 const chaiHttp       = require('chai-http');
@@ -10,6 +9,7 @@ const server         = require('../server.js');
 const configuration  = require('../knexfile.js')['test'];
 const database       = require('knex')(configuration);
 
+chai.should();
 chai.use(chaiHttp);
 
 describe('our yung application', function () {
@@ -473,7 +473,7 @@ describe('server side testing', () => {
         weight: '420 lbs',
         tagDate: 'a year ago',
         tagLocation: 'jamaica',
-        description: 'watch out for the evil jelly witch',
+        description: 'watch out for the evil jelly witch'
       })
       .end((error, response) => {
         const reggaeShark = response.body[0];
@@ -505,8 +505,29 @@ describe('server side testing', () => {
       });
     });
 
-    it('should not allow me to PUT a nonexistent shark!', () => {
-      console.log('fix this test!');
+    it('should not let me PUT a nonexistent shark', (done) => {
+      chai.request(server)
+      .put('/api/v1/sharks/21321')
+      .set('Authorization', process.env.TOKEN)
+      .send({
+        shark_id: 6,
+        name: 'reggae shark',
+        tagIdNumber: '2',
+        species: 'tiger shark',
+        gender: 'mayonnaise',
+        stageOfLife: 'yung',
+        length: 'chill',
+        weight: '420 lbs',
+        tagDate: 'a year ago',
+        tagLocation: 'jamaica',
+        description: 'watch out for the evil jelly witch'
+      })
+      .end((error, response) => {
+        response.should.have.status(404);
+        response.body.should.be.a('object');
+        response.body.error.should.equal('ID not found!');
+        done();
+      });
     });
 
     it('should not allow me to PUT if im not authorized', (done) => {

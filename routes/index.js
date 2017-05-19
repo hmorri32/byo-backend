@@ -120,7 +120,7 @@ router.post('/api/v1/pings', checkAuth, (request, response) => {
 // PUT 'er there bud
 
 router.put('/api/v1/sharks/:id', checkAuth, (request, response) => {
-  const { id }    = request.params;
+  const { id } = request.params;
   let sharkFields = ['shark_id', 'name', 'tagIdNumber', 'species', 'gender', 'stageOfLife', 'length', 'weight', 'tagDate', 'tagLocation', 'description'].every((prop) => {
     return request.body.hasOwnProperty(prop);
   });
@@ -132,11 +132,18 @@ router.put('/api/v1/sharks/:id', checkAuth, (request, response) => {
   if (sharkFields) {
     const updatedShark = request.body;
 
-    database('sharks').where('id', id)
-      .update(updatedShark)
-      .then(() => database('sharks').where('id', id))
-      .then((shark) => response.status(200).json(shark))
-      .catch(() => error.serverError(response));
+    database('sharks').where('id', id).select()
+      .then((sharks) => {
+        if (sharks.length > 0) {
+          database('sharks').where('id', id)
+            .update(updatedShark)
+            .then(() => database('sharks').where('id', id))
+            .then((shark) => response.status(200).json(shark))
+            .catch(() => error.serverError(response));
+        } else {
+          return error.invalidID(response);
+        }
+      });
   } else {
     return error.missingFields(response);
   }
