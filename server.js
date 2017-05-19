@@ -21,9 +21,7 @@ app.set('secretKey', process.env.CLIENT_SECRET || config.CLIENT_SECRET);
 app.use('/', routes);
 app.use(error.notFound);
 
-if (app.get('env') === 'development') {
-  app.use(error.developmentErrors);
-}
+app.use(error.devErrors);
 
 app.listen(app.get('port'), () => {
   console.log(`Magic happens on port ${app.get('port')}`);

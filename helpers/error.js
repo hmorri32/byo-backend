@@ -1,13 +1,13 @@
 exports.notFound = (req, res, next) => {
   const err = new Error('Route Not Found!');
   err.status = 404;
-  this.developmentErrors(err,req, res)
+  this.devErrors(err,req, res)
 };
 
 exports.arrayLength = (req, res) => {
   const err = new Error('ID not found!');
   err.status = 404;
-  this.developmentErrors(err, req, res);
+  this.devErrors(err, req, res);
 };
 
 exports.invalidID = (response) => {
@@ -17,7 +17,7 @@ exports.invalidID = (response) => {
 exports.queryArrayLength = (req, res) => {
   const err = new Error('Your query param is ultra invalid!');
   err.status = (404);
-  this.developmentErrors(err, req, res);
+  this.devErrors(err, req, res);
 };
 
 exports.dontTouchID = (response) => {
@@ -32,7 +32,7 @@ exports.serverError = (response) => {
   response.status(500).json({ error: 'Internal Server Error'});
 };
 
-exports.developmentErrors = (err, req, res) => {
+exports.devErrors = (err, req, res) => {
   err.stack = err.stack || '';
   const errorDetails = {
     message: err.message,
