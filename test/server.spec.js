@@ -505,6 +505,10 @@ describe('server side testing', () => {
       });
     });
 
+    it('should not allow me to PUT a nonexistent shark!', () => {
+      console.log('fix this test!');
+    });
+
     it('should not allow me to PUT if im not authorized', (done) => {
       chai.request(server)
       .put('/api/v1/sharks/2')
@@ -620,6 +624,27 @@ describe('server side testing', () => {
         thisPing.latitude.should.equal('far north');
         thisPing.longitude.should.equal('far west');
 
+        done();
+      });
+    });
+
+    it('should not let me PUT a nonexistent ping', (done) => {
+      chai.request(server)
+      .put('/api/v1/pings/21321')
+      .set('Authorization', process.env.TOKEN)
+      .send({
+        key: 7,
+        shark_id: 12,
+        ping_id: '2222',
+        datetime: 'sometime',
+        tz_datetime: 'anothertime',
+        latitude: 'far north',
+        longitude: 'far west'
+      })
+      .end((error, response) => {
+        response.should.have.status(404);
+        response.body.should.be.a('object');
+        response.body.error.should.equal('ID not found!');
         done();
       });
     });
@@ -963,7 +988,7 @@ describe('server side testing', () => {
       });
     });
 
-    it('should not let me delete a nonexistant PING', (done) => {
+    it('should not let me delete a nonexistent PING', (done) => {
       chai.request(server)
       .delete('/api/v1/pings/2222')
       .set('Authorization', process.env.TOKEN)
