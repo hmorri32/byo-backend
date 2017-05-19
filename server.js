@@ -23,8 +23,6 @@ app.use(error.notFound);
 
 app.use(error.devErrors);
 
-app.listen(app.get('port'), () => {
-  console.log(`Magic happens on port ${app.get('port')}`);
-});
+app.listen(app.get('port'));
 
 

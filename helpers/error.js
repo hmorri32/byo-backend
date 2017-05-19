@@ -1,3 +1,4 @@
+/* eslint-disable */
 exports.notFound = (req, res, next) => {
   const err = new Error('Route Not Found!');
   err.status = 404;
@@ -47,7 +48,6 @@ exports.devErrors = (err, req, res) => {
     'application/json': () => res.json(errorDetails)
   });
 };
-
 
 exports.productionErrors = (err, req, res) => {
   res.status(err.status || 500);
